@@ -49,11 +49,50 @@
                 </div>
             </div>
 
+            <section class="custom-quiz-section">
+                <h2 class="section-title">📁 Bộ đề tự tạo</h2>
+                <p class="meta" style="margin-bottom: 1rem;">Upload file JSON để tạo bộ đề riêng. <a
+                        href="sample_quiz_template.json" download style="color: var(--brand-primary);">Tải file mẫu</a>
+                </p>
+
+                <div class="upload-area" id="upload-area">
+                    <input type="file" id="quiz-file-input" accept=".json" style="display: none;">
+                    <div class="upload-content">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--brand-primary)"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                            <polyline points="17 8 12 3 7 8" />
+                            <line x1="12" y1="3" x2="12" y2="15" />
+                        </svg>
+                        <p>Kéo thả file hoặc <span style="color: var(--brand-primary); cursor: pointer;">chọn
+                                file</span></p>
+                    </div>
+                </div>
+
+                <div id="custom-quiz-list" class="chapter-grid" style="margin-top: 1.5rem;">
+                    <!-- Custom quizzes will be injected here -->
+                </div>
+            </section>
+
             <div class="action-bar">
                 <button id="start-btn" class="btn-primary start-quiz-btn">
                     Bắt đầu bài thi
                 </button>
             </div>
+
+            <section class="history-section" id="history-section">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <h2 class="section-title" style="margin-bottom: 0;">Lịch sử làm bài</h2>
+                    <button id="clear-data-btn" class="btn-outline"
+                        style="color: var(--clr-error); border-color: var(--clr-error); font-size: 0.8rem; padding: 0.5rem 1rem;">
+                        Xóa toàn bộ dữ liệu
+                    </button>
+                </div>
+                <div id="history-list" class="history-list">
+                    <!-- History items will be injected here -->
+                    <p class="meta" style="text-align: center;">Chưa có lịch sử làm bài</p>
+                </div>
+            </section>
         </div>
 
         <!-- Quiz Screen -->
@@ -115,6 +154,16 @@
                         </div>
                         <button id="next-btn" class="btn-primary">Câu tiếp theo</button>
                     </div>
+                    <p class="keyboard-hint"
+                        style="text-align: center; margin-top: 1rem; font-size: 0.8rem; color: var(--text-muted);">
+                        💡 Mẹo: Nhấn <kbd
+                            style="background: var(--bg-main); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-light);">←</kbd>
+                        <kbd
+                            style="background: var(--bg-main); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-light);">→</kbd>
+                        hoặc <kbd
+                            style="background: var(--bg-main); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-light);">Enter</kbd>
+                        để chuyển câu nhanh
+                    </p>
                 </div>
 
                 <aside class="quiz-sidebar">
@@ -154,8 +203,9 @@
                     <!-- Stats per chapter injected here -->
                 </div>
 
-                <div class="result-actions">
-                    <button onclick="location.reload()" class="btn-outline">Làm lại từ đầu</button>
+                <div class="result-actions" style="gap: 1rem;">
+                    <button id="review-btn" class="btn-primary">Xem lại bài</button>
+                    <button onclick="location.href='index.html'" class="btn-outline">Quay về trang chủ</button>
                 </div>
             </div>
         </div>

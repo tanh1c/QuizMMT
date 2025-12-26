@@ -1,0 +1,72 @@
+{
+    "quiz": {
+        "title": "Tên bộ đề của bạn",
+        "total_questions": 3,
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Đây là nội dung câu hỏi số 1?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Đáp án A",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Đáp án B (đây là đáp án đúng)",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Đáp án C",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Đáp án D",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 2,
+                "question_text": "Câu hỏi thứ 2 ở đây. Bạn có thể thêm bao nhiêu câu hỏi tùy ý.",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Lựa chọn 1",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Lựa chọn 2",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Lựa chọn 3",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 3,
+                "question_text": "Câu hỏi có thể có từ 2-6 đáp án khác nhau.",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Đúng",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Sai",
+                        "is_correct": false
+                    }
+                ],
+                "note": "Bạn có thể thêm ghi chú tùy chọn cho câu hỏi."
+            }
+        ]
+    }
+}

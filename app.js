@@ -7,6 +7,8 @@ const state = {
     pageSize: 40,
     userAnswers: {},
     flaggedQuestions: new Set(),
+    reviewMode: false,
+    activeQuizId: null, // Track current quiz type
     timer: null,
     timeRemaining: 0,
     elapsedTime: 0,
@@ -61,6 +63,9 @@ async function init() {
     }
 
     setupEventListeners();
+    renderHistory();
+    renderCustomQuizzes();
+    setupFileUpload();
 
     // Fix "all" chapter selection
     const allChapCard = document.querySelector('.chapter-card[data-chapter="all"]');
@@ -69,7 +74,57 @@ async function init() {
             document.querySelectorAll('.chapter-card').forEach(c => c.classList.remove('selected'));
             allChapCard.classList.add('selected');
         };
+        // Show progress if exists
+        const saved = localStorage.getItem('quiz_progress_all');
+        if (saved) {
+            const tag = document.createElement('div');
+            tag.className = 'progress-tag';
+            tag.textContent = 'Đang làm...';
+            allChapCard.style.position = 'relative';
+            allChapCard.appendChild(tag);
+        }
     }
+}
+
+function renderHistory() {
+    const historyListEl = document.getElementById('history-list');
+    const history = JSON.parse(localStorage.getItem('quiz_history') || '[]');
+
+    if (history.length === 0) return;
+
+    historyListEl.innerHTML = '';
+    history.reverse().forEach((item, index) => {
+        const div = document.createElement('div');
+        div.className = 'history-item';
+        div.innerHTML = `
+            <div class="history-info">
+                <h4>${item.title}</h4>
+                <div class="history-meta">${item.date} • ${item.totalQuestions} câu</div>
+            </div>
+            <div style="display: flex; align-items: center; gap: 1.5rem;">
+                <div class="history-score">${item.score}/${item.totalQuestions}</div>
+                <button class="btn-outline btn-history-review" onclick="viewHistoryItem(${history.length - 1 - index})">Xem lại</button>
+            </div>
+        `;
+        historyListEl.appendChild(div);
+    });
+}
+
+function viewHistoryItem(index) {
+    const history = JSON.parse(localStorage.getItem('quiz_history') || '[]');
+    const item = history[index];
+    if (!item) return;
+
+    state.selectedQuestions = item.questions;
+    state.userAnswers = item.userAnswers;
+    state.reviewMode = true;
+    state.currentQuestionIndex = 0;
+    state.navPage = 0;
+
+    homeScreen.classList.add('hidden');
+    quizScreen.classList.remove('hidden');
+    renderSideNav();
+    renderQuestion();
 }
 
 function renderChapterCard(chap, count) {
@@ -80,6 +135,17 @@ function renderChapterCard(chap, count) {
         <h3>${chap.name}</h3>
         <p class="meta">${count} câu hỏi</p>
     `;
+
+    // Show progress tag if exists
+    const saved = localStorage.getItem(`quiz_progress_${chap.id}`);
+    if (saved) {
+        const tag = document.createElement('div');
+        tag.className = 'progress-tag';
+        tag.textContent = 'Đang làm...';
+        card.style.position = 'relative';
+        card.appendChild(tag);
+    }
+
     card.onclick = () => {
         document.querySelectorAll('.chapter-card').forEach(c => c.classList.remove('selected'));
         card.classList.add('selected');
@@ -93,18 +159,43 @@ function setupEventListeners() {
     prevBtn.onclick = () => navigate(-1);
     submitBtn.onclick = endQuiz;
     document.getElementById('flag-btn').onclick = toggleFlag;
+    document.getElementById('review-btn').onclick = startReview;
 
     document.getElementById('back-home-btn').onclick = () => {
-        if (confirm('Dừng bài thi và quay về trang chủ? Toàn bộ tiến trình sẽ bị mất.')) {
+        if (state.reviewMode) {
+            quizScreen.classList.add('hidden');
+            homeScreen.classList.remove('hidden');
+            return;
+        }
+        if (confirm('Lưu lại tiến trình và quay về trang chủ?')) {
+            saveProgress();
             clearInterval(state.timer);
             quizScreen.classList.add('hidden');
             homeScreen.classList.remove('hidden');
+            location.reload(); // Refresh to show progress tags
         }
     };
 
     document.getElementById('shuffle-questions').onchange = (e) => state.config.shuffleQuestions = e.target.checked;
     document.getElementById('shuffle-answers').onchange = (e) => state.config.shuffleAnswers = e.target.checked;
     document.getElementById('time-limit').onchange = (e) => state.config.timeLimit = parseInt(e.target.value);
+
+    document.getElementById('clear-data-btn').onclick = clearAllData;
+
+    // Keyboard navigation: Enter, ArrowRight to go next, ArrowLeft to go back
+    document.addEventListener('keydown', (e) => {
+        if (quizScreen.classList.contains('hidden')) return;
+
+        if (e.key === 'Enter' || e.key === 'ArrowRight') {
+            if (state.currentQuestionIndex < state.selectedQuestions.length - 1) {
+                navigate(1);
+            }
+        } else if (e.key === 'ArrowLeft') {
+            if (state.currentQuestionIndex > 0) {
+                navigate(-1);
+            }
+        }
+    });
 }
 
 function toggleFlag() {
@@ -125,6 +216,32 @@ function startQuiz() {
     }
 
     const chapId = selectedChap.dataset.chapter;
+    state.activeQuizId = chapId;
+
+    // Check for saved progress
+    const saved = localStorage.getItem(`quiz_progress_${chapId}`);
+    if (saved && !state.reviewMode) {
+        const data = JSON.parse(saved);
+        if (confirm(`Bạn có muốn tiếp tục tiến trình đang dở của ${selectedChap.querySelector('h3').textContent} không?`)) {
+            state.selectedQuestions = data.questions;
+            state.userAnswers = data.userAnswers;
+            state.flaggedQuestions = new Set(data.flaggedQuestions);
+            state.currentQuestionIndex = data.currentIndex;
+            state.timeRemaining = data.timeRemaining;
+            state.elapsedTime = data.elapsedTime;
+            state.navPage = Math.floor(state.currentQuestionIndex / state.pageSize);
+
+            homeScreen.classList.add('hidden');
+            quizScreen.classList.remove('hidden');
+            renderSideNav();
+            startTimer();
+            renderQuestion();
+            return;
+        } else {
+            localStorage.removeItem(`quiz_progress_${chapId}`);
+        }
+    }
+
     state.selectedQuestions = chapId === 'all'
         ? [...state.allQuestions]
         : state.allQuestions.filter(q => q.chapterId === chapId);
@@ -144,11 +261,17 @@ function startQuiz() {
     state.navPage = 0;
     state.userAnswers = {};
     state.flaggedQuestions = new Set();
+    state.reviewMode = false;
     state.timeRemaining = state.config.timeLimit * 60;
     state.elapsedTime = 0;
 
     homeScreen.classList.add('hidden');
     quizScreen.classList.remove('hidden');
+
+    // Reset UI states
+    document.getElementById('flag-btn').classList.remove('hidden');
+    submitBtn.classList.add('btn-success');
+    submitBtn.textContent = "Nộp bài ngay";
 
     renderSideNav();
     startTimer();
@@ -171,6 +294,12 @@ function renderSideNav() {
         if (state.currentQuestionIndex === i) box.classList.add('current');
         if (state.userAnswers[i] !== undefined) box.classList.add('answered');
         if (state.flaggedQuestions.has(i)) box.classList.add('flagged');
+
+        if (state.reviewMode) {
+            const correctOpt = state.selectedQuestions[i].options.find(o => o.is_correct);
+            const isCorrect = state.userAnswers[i] === correctOpt.text;
+            box.classList.add(isCorrect ? 'correct' : 'incorrect');
+        }
 
         box.innerHTML = `
             ${i + 1}
@@ -233,18 +362,31 @@ function renderQuestion() {
     q.options.forEach((opt, index) => {
         const item = document.createElement('div');
         item.className = 'option-item';
-        if (state.userAnswers[state.currentQuestionIndex] === opt.text) {
-            item.classList.add('selected');
+
+        const isSelected = state.userAnswers[state.currentQuestionIndex] === opt.text;
+        if (isSelected) item.classList.add('selected');
+
+        if (state.reviewMode) {
+            if (opt.is_correct) {
+                item.classList.add('correct');
+                if (!isSelected) item.classList.add('should-have-selected');
+            } else if (isSelected) {
+                item.classList.add('incorrect');
+            }
         }
 
         item.innerHTML = `
             <div class="option-id">${String.fromCharCode(65 + index)}</div>
             <div class="option-text">${opt.text}</div>
+            ${state.reviewMode && opt.is_correct ? '<div class="review-indicator correct-text">✓ Đáp án đúng</div>' : ''}
+            ${state.reviewMode && isSelected && !opt.is_correct ? '<div class="review-indicator incorrect-text">✕ Bạn đã chọn</div>' : ''}
         `;
 
         item.onclick = () => {
+            if (state.reviewMode) return; // Disable selection in review mode
             state.userAnswers[state.currentQuestionIndex] = opt.text;
-            renderQuestion(); // Re-render to update selected state
+            saveProgress(); // Auto save on every click
+            renderQuestion();
         };
         optionsListEl.appendChild(item);
     });
@@ -298,13 +440,25 @@ function renderQuestion() {
     // In our new UI, we have a dedicated submit button and a next button
     if (state.currentQuestionIndex === state.selectedQuestions.length - 1) {
         nextBtn.style.visibility = 'hidden';
-        submitBtn.classList.remove('hidden');
+        if (!state.reviewMode) {
+            submitBtn.classList.remove('hidden');
+        }
     } else {
         nextBtn.style.visibility = 'visible';
         nextBtn.textContent = 'Câu tiếp theo';
-        // We keep the submit button visible but maybe less prominent until the end
-        // Or we can choose to only show it at the very last question
-        submitBtn.classList.add('hidden');
+        if (!state.reviewMode) {
+            submitBtn.classList.add('hidden');
+        }
+    }
+
+    if (state.reviewMode) {
+        submitBtn.classList.remove('hidden');
+        submitBtn.classList.remove('btn-success');
+        submitBtn.textContent = "Quay về trang chủ";
+        submitBtn.onclick = () => {
+            location.href = 'index.html';
+        };
+        document.getElementById('flag-btn').classList.add('hidden');
     }
 
     nextBtn.onclick = () => navigate(1);
@@ -367,13 +521,79 @@ function startTimer() {
 }
 
 function endQuiz() {
-    if (state.timeRemaining > 0 && !confirm('Bạn có chắc chắn muốn nộp bài?')) return;
+    if (state.reviewMode) {
+        quizScreen.classList.add('hidden');
+        homeScreen.classList.remove('hidden');
+        return;
+    }
+
+    if (state.timeRemaining > 0 && state.config.timeLimit !== 0 && !confirm('Bạn có chắc chắn muốn nộp bài?')) return;
+
+    // Remove saved progress for this chapter as it's finished
+    localStorage.removeItem(`quiz_progress_${state.activeQuizId}`);
 
     clearInterval(state.timer);
     quizScreen.classList.add('hidden');
     resultScreen.classList.remove('hidden');
 
     calculateResults();
+    saveToHistory();
+}
+
+function saveProgress() {
+    if (state.reviewMode) return;
+    const data = {
+        questions: state.selectedQuestions,
+        userAnswers: state.userAnswers,
+        flaggedQuestions: Array.from(state.flaggedQuestions),
+        currentIndex: state.currentQuestionIndex,
+        timeRemaining: state.timeRemaining,
+        elapsedTime: state.elapsedTime,
+        timestamp: new Date().getTime()
+    };
+    localStorage.setItem(`quiz_progress_${state.activeQuizId}`, JSON.stringify(data));
+}
+
+function saveToHistory() {
+    let totalCorrect = 0;
+    state.selectedQuestions.forEach((q, idx) => {
+        const correctOpt = q.options.find(o => o.is_correct);
+        if (state.userAnswers[idx] === correctOpt.text) totalCorrect++;
+    });
+
+    const history = JSON.parse(localStorage.getItem('quiz_history') || '[]');
+    const title = state.activeQuizId === 'all' ? 'Tổng hợp' : state.selectedQuestions[0].chapterName;
+
+    history.push({
+        title: title,
+        date: new Date().toLocaleString('vi-VN'),
+        score: totalCorrect,
+        totalQuestions: state.selectedQuestions.length,
+        questions: state.selectedQuestions,
+        userAnswers: state.userAnswers
+    });
+
+    // Limit history to last 20 items
+    if (history.length > 20) history.shift();
+
+    localStorage.setItem('quiz_history', JSON.stringify(history));
+}
+
+function clearAllData() {
+    if (confirm('⚠️ CẢNH BÁO: Bạn sẽ xóa TOÀN BỘ lịch sử làm bài và tiến trình đang dở. Hành động này KHÔNG THỂ hoàn tác!\n\nBạn có chắc chắn muốn tiếp tục?')) {
+        // Clear all quiz-related data from localStorage
+        const keysToRemove = [];
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key.startsWith('quiz_')) {
+                keysToRemove.push(key);
+            }
+        }
+        keysToRemove.forEach(key => localStorage.removeItem(key));
+
+        alert('Đã xóa toàn bộ dữ liệu!');
+        location.reload();
+    }
 }
 
 function calculateResults() {
@@ -442,6 +662,180 @@ function parseMarkdownTable(text) {
 
     if (inTable) html += '</table>';
     return html;
+}
+
+function startReview() {
+    state.reviewMode = true;
+    state.currentQuestionIndex = 0;
+    state.navPage = 0;
+
+    resultScreen.classList.add('hidden');
+    quizScreen.classList.remove('hidden');
+
+    renderSideNav();
+    renderQuestion();
+}
+
+// ===================== CUSTOM QUIZ UPLOAD =====================
+
+function setupFileUpload() {
+    const uploadArea = document.getElementById('upload-area');
+    const fileInput = document.getElementById('quiz-file-input');
+
+    if (!uploadArea || !fileInput) return;
+
+    uploadArea.onclick = () => fileInput.click();
+
+    uploadArea.ondragover = (e) => {
+        e.preventDefault();
+        uploadArea.classList.add('dragover');
+    };
+
+    uploadArea.ondragleave = () => {
+        uploadArea.classList.remove('dragover');
+    };
+
+    uploadArea.ondrop = (e) => {
+        e.preventDefault();
+        uploadArea.classList.remove('dragover');
+        const file = e.dataTransfer.files[0];
+        if (file) processUploadedFile(file);
+    };
+
+    fileInput.onchange = (e) => {
+        const file = e.target.files[0];
+        if (file) processUploadedFile(file);
+    };
+}
+
+function processUploadedFile(file) {
+    if (!file.name.endsWith('.json')) {
+        alert('Vui lòng chọn file JSON!');
+        return;
+    }
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+        try {
+            const data = JSON.parse(e.target.result);
+
+            // Validate structure
+            if (!data.quiz || !data.quiz.questions || !Array.isArray(data.quiz.questions)) {
+                alert('File JSON không đúng định dạng! Vui lòng tải file mẫu để xem cấu trúc.');
+                return;
+            }
+
+            // Check if questions have required fields
+            for (const q of data.quiz.questions) {
+                if (!q.question_text || !q.options || !Array.isArray(q.options)) {
+                    alert('Một số câu hỏi thiếu thông tin bắt buộc (question_text, options).');
+                    return;
+                }
+                const hasCorrect = q.options.some(o => o.is_correct === true);
+                if (!hasCorrect) {
+                    alert(`Câu hỏi "${q.question_text.substring(0, 30)}..." không có đáp án đúng (is_correct: true).`);
+                    return;
+                }
+            }
+
+            // Save to localStorage
+            const customQuizzes = JSON.parse(localStorage.getItem('quiz_custom') || '[]');
+            const quizId = 'custom_' + Date.now();
+            const quizName = data.quiz.title || file.name.replace('.json', '');
+
+            customQuizzes.push({
+                id: quizId,
+                name: quizName,
+                questions: data.quiz.questions,
+                uploadedAt: new Date().toLocaleString('vi-VN')
+            });
+
+            localStorage.setItem('quiz_custom', JSON.stringify(customQuizzes));
+
+            alert(`Đã thêm bộ đề "${quizName}" với ${data.quiz.questions.length} câu hỏi!`);
+            renderCustomQuizzes();
+
+        } catch (err) {
+            console.error(err);
+            alert('Lỗi khi đọc file JSON. Vui lòng kiểm tra lại định dạng file.');
+        }
+    };
+    reader.readAsText(file);
+}
+
+function renderCustomQuizzes() {
+    const container = document.getElementById('custom-quiz-list');
+    if (!container) return;
+
+    const customQuizzes = JSON.parse(localStorage.getItem('quiz_custom') || '[]');
+
+    container.innerHTML = '';
+
+    if (customQuizzes.length === 0) {
+        container.innerHTML = '<p class="meta" style="grid-column: 1/-1; text-align: center;">Chưa có bộ đề tự tạo nào</p>';
+        return;
+    }
+
+    customQuizzes.forEach((quiz, index) => {
+        const card = document.createElement('div');
+        card.className = 'chapter-card premium-card';
+        card.dataset.chapter = quiz.id;
+        card.style.position = 'relative';
+
+        card.innerHTML = `
+            <h3>${quiz.name}</h3>
+            <p class="meta">${quiz.questions.length} câu hỏi</p>
+            <div class="custom-card-actions">
+                <button class="btn-outline btn-delete-quiz" onclick="event.stopPropagation(); deleteCustomQuiz(${index})">Xóa</button>
+            </div>
+        `;
+
+        card.onclick = () => {
+            document.querySelectorAll('.chapter-card').forEach(c => c.classList.remove('selected'));
+            card.classList.add('selected');
+        };
+
+        // Check for saved progress
+        const saved = localStorage.getItem(`quiz_progress_${quiz.id}`);
+        if (saved) {
+            const tag = document.createElement('div');
+            tag.className = 'progress-tag';
+            tag.textContent = 'Đang làm...';
+            card.appendChild(tag);
+        }
+
+        container.appendChild(card);
+
+        // Add to allQuestions for "Tổng hợp" mode
+        quiz.questions.forEach(q => {
+            const exists = state.allQuestions.find(aq =>
+                aq.question_text === q.question_text && aq.chapterId === quiz.id
+            );
+            if (!exists) {
+                state.allQuestions.push({
+                    ...q,
+                    chapterId: quiz.id,
+                    chapterName: quiz.name
+                });
+            }
+        });
+    });
+}
+
+function deleteCustomQuiz(index) {
+    if (!confirm('Bạn có chắc muốn xóa bộ đề này?')) return;
+
+    const customQuizzes = JSON.parse(localStorage.getItem('quiz_custom') || '[]');
+    const quizId = customQuizzes[index].id;
+
+    // Remove associated progress
+    localStorage.removeItem(`quiz_progress_${quizId}`);
+
+    // Remove quiz
+    customQuizzes.splice(index, 1);
+    localStorage.setItem('quiz_custom', JSON.stringify(customQuizzes));
+
+    location.reload();
 }
 
 init();
