@@ -1,0 +1,4 @@
+.agent/
+.shared/
+node_modules/
+.DS_Store

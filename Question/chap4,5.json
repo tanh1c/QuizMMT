@@ -1,0 +1,526 @@
+{
+    "quiz": {
+        "title": "Chapter 4 & 5: Attempt review | BK-LMS",
+        "total_questions": 23,
+        "total_marks": "38.00/40.00",
+        "grade": "9.50/10.00 (95%)",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "For the forwarding table, use the longest prefix matching method:\n\n| Prefix | Link |\n| :--- | :--- |\n| 11001000 00010111 00010 | 0 |\n| 11001000 00010111 00011000 | 1 |\n| 11001000 00010111 00011 | 2 |\n| Khác | 3 |\n\nIndicate which port will a packet with destination address \"11001000 00010111 00010110 10100001\" go out?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "2",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "0",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "3",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "1",
+                        "is_correct": false
+                    }
+                ],
+                "note": "Incorrect in original quiz, correct answer is 0"
+            },
+            {
+                "question_number": 2,
+                "question_text": "Which of the following terms is commonly used for data units moving at the Network layer:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Message",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Segment",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Frame",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Datagram",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 3,
+                "question_text": "In a packet switching network, how will packets be routed?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Packets are transferred along a virtual circuit that is created before data transmission.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Each packet must only contain one VC (virtual circuit) number to reach the destination router.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Each router has a routing table containing complete information about the route to the destination router.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Packets can be routed hop-by-hop based on the destination IP address.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 4,
+                "question_text": "OSPF protocol uses the algorithm:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "A mix of both Link state and Distance vector",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Link state",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Distance vector",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Neither Link state nor Distance vector",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 5,
+                "question_text": "Given a network with routers A, B, C, D, E and F. Suppose the Distance Vector Routing algorithm is used. Router B has three neighbors: C, D and F. Router B receives information vectors about delay (distance) from routers C (7, 6, 3, 9, 4, 0), from D (16, 12, 6, 0, 9, 10) and from F (5, 0, 8, 12, 6, 2). Each vector represents delay information from the router itself to routers in the network in ABCDEF order. The delay from B to C, D and F is measured as 5, 3 and 6 respectively. In B's routing table after being updated, what is the delay from B to E, and which router must the route go through first?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "12 – through F",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "9 – through C",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "7 – through F",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "12 – through D",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 6,
+                "question_text": "In routing algorithms for broadcast data streams (broadcast routing), each router will have to build a sink tree to limit bandwidth waste. Which of the following solutions can be used to build a sink tree?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Reverse Path Forwarding",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Shortest Path Forwarding",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Count-to-infinity",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Flooding",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 7,
+                "question_text": "Which of the following routing protocols uses \"Distance Vector\" routing algorithm?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "BGP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "RIP",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "OSPF",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 8,
+                "question_text": "Routers using the \"Distance Vector\" (DV) routing algorithm differ from routers using the \"Link State\" (LS) routing algorithm in the following ways:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "The optimal path will be calculated by the DV router based on the distance vector sent from neighboring routers.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Use the Shortest Path First (SPF) algorithm to determine the optimal path.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "The DV router understands the overall topology of the entire network.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "The DV router calculates the best route from the LS routers.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 9,
+                "question_text": "The one-to-many transmission mechanism between a source and a defined group of destinations is called:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Broadcast",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Anycast",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Unicast",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Multicast",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 10,
+                "question_text": "Computers use the TCP/IP protocol suite and have a Subnet Mask of: 255.255.255.0. Which of the following pairs of machines that are assigned IP addresses will be on the same LAN?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "192.168.15.1 and 192.168.15.255",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "192.168.100.15 and 192.168.100.16",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "192.168.1.3 and 192.168.100.1",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "172.25.11.0 and 172.25.11.2",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 11,
+                "question_text": "A computer on a network using TCP/IP protocol has address 192.168.1.1 and Subnet Mask is 255.255.255.192. Broadcast packet sent from this machine has a destination address of?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "192.168.1.31",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "192.168.1.255",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "192.168.1.63",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "192.168.1.96",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 12,
+                "question_text": "Which of the following IPv4 addresses belongs to the same subnet as 192.168.1.28/27?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "192.168.1.135",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "192.168.1.18",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "192.168.1.35",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "192.168.1.168",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 13,
+                "question_text": "Which of the following is a valid IPv4 address:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "127.0.0.256",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "127.191.233.300",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "208.151.256.0",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "191.255.33.7",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 14,
+                "question_text": "The IP address \"129.11.145.50\" belongs to which of the following IP classes:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "A",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "C",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "D",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "B",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 15,
+                "question_text": "In the header of an IP packet, what information will NOT be provided?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Source IP address",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Sequence number",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Header Checksum",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Destination IP address",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 16,
+                "question_text": "In the IPv4 Header, which field value or bit is set to designate an IP datagram as a fragment?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Identification field = 12345",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Do not fragment bit = 0",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Fragment offset = 1000",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "More Fragment bit = 0",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 17,
+                "question_text": "In an IPv6 datagram, which components are considered mandatory for network layer functions?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Base Header 40 bytes",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Encapsulated data from upper layer",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "ICMPv6 Header",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Extension Header",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 18,
+                "question_text": "Indicate which IPv6 address is valid:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "2001:1428:57ab:1685:2123:1428:57ab",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "2001::1685:2123::1428:57ab",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "2001:99:ab:1:99:2:1:9",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "2001:99:ab:1:99:2:1:9h",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 19,
+                "question_text": "Computer networks commonly used in a building, office, school or buildings close to each other are:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "PAN",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "MAN",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "WAN",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "LAN",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 20,
+                "question_text": "Which of the following Subnet Masks is valid?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "255.255.255.127",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "255.255.128.0",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "0.255.255.255",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "0.0.0.255",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    }
+}

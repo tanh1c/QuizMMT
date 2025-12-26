@@ -1,0 +1,620 @@
+{
+    "quiz": {
+        "title": "Chapter 2: Attempt review | BK-LMS",
+        "total_questions": 29,
+        "total_marks": "44.00/48.00",
+        "grade": "9.17/10.00 (91.67%)",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which of the following reasons explains the question \"Why are applications using the HTTP, POP3, SMTP protocols at the application layer more suitable for the TCP protocol at the Transport layer than the UDP protocol?\"",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "The above applications still work fine with certain rate of data loss.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "All of the above applications require data to be transported in order and without packet loss.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "All of the above applications were created by programmers.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "The data of all the above applications needs to be secured.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 2,
+                "question_text": "Characteristics of DASH protocol in video streaming:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Video quality depends on the minimum bandwidth between client-server during streaming.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Video quality depends on the available bandwidth between client-server during streaming.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Video quality during streaming does not change.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "There is a fixed data transmission rate during streaming.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 3,
+                "question_text": "Indicates the type of query used with the DNS service when the local Name Server must send queries to different Name Servers such as Root Name Servers, Remote Name Servers, ... when receiving a request from a user.",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Simple query.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Iterated query.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Recursive query.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 4,
+                "question_text": "The DNS service will be used when you use a Web browser to access a Web site addressed by a URL for the first time. Suppose that n DNS servers are queried before your browser receives the IP address from the DNS system with query times RTT1, RTT2,...RTTn, and RT10 are Round Trip Time (RTT) between the browser and the Web server. Please tell us how long it will take you to get the content of the Web page if there is only a small paragraph with 20 characters on that Web page?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "2RTT0 + RTT1 + ... RTTn",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "2(RTT1 + RTT2 + ...+ RTTn)",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "RTT0 + RTT1 + ...+ RTTn",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "RTT1 + RTT2 + ...+ RTTn",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 5,
+                "question_text": "When executing the nslookup www.vnn.vn command, we receive the following results:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Address of Name server managing domain vnn.com.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "IP address of Local Domain Name Server.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "IP address of domain name www.vnn.vn.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "IP address of Mail eXchange of www.vnn.vn.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 6,
+                "question_text": "In the Email system, Transfer Agents send emails to each other using the following protocol:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "SMTP",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "POP3",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "IMAP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "HTTP",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 7,
+                "question_text": "The advantages of the IMAP protocol when compared to POP3 are:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "The clients don't need to be online at all time.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Suitable for users who move a lot and use many different devices",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Easy to implement.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "The emails can be read even when the computer is not connected to the network.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 8,
+                "question_text": "In the HTTP 1.1 protocol, when the Web Server returns a Response Message with a status code and to signal success, what range is this status code in?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "400 – 499",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "500 – 599",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "200 – 299",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "300 – 399",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 9,
+                "question_text": "The default port used for the HTTP protocol is:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "25",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "80",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "20",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "8080",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 10,
+                "question_text": "Choose the correct statement about the HTTP GET and POST methods:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "\"GET requests\" cannot be \"cacheable\".",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "\"GET requests\" can be bookmarked.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "You should use the GET method when you need to send a password to the Web Server.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "A \"POST request\" is limited in length.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 11,
+                "question_text": "Indicate which of the following port numbers is the default port number of the HTTPS service:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "25",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "110",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "443",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "21",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 12,
+                "question_text": "The basic characteristics of Peer-to-Peer architecture are:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Simple, easy to develop applications.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "There exist many servers in peer-to-peer networks.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Every peer in the network has the same role.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "There exist many clients in peer-to-peer networks.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 13,
+                "question_text": "Outstanding advantages of Peer-to-Peer application architecture are:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Suitable for all different types of applications.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Simple, easy to develop applications.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Has great scalability, with abundant resources if there are many users.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "The most widely used today, surpassing even the client-server architecture.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 14,
+                "question_text": "Which of the following commands can be used when interacting with POP3 Server?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "USER, PASS, LIST, RETR, QUIT",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "USERNAME, PASSWORD, LIST, QUIT",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "USER, PASSWORD, LIST, RETR, QUIT",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "USERNAME, PASS, LIST, RETR, QUIT",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 15,
+                "question_text": "How many sockets does a TCP server need to support N simultaneous connections from N different clients?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "N",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "2N",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "N+1",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "N-1",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 16,
+                "question_text": "Suppose that Anna logs into the HCMUT email through a Web browser to send mail to Bill. Normally, he reads mail on his phone through an application that uses the POP3 protocol to connect to the mail server. Please tell us which Transport layer protocol is used in the above situation?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "POP3",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "RTCP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "TCP",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "UDP",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 17,
+                "question_text": "Choose the correct statement:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "The HTTP response from a Web server will always have content (the body part will always have data).",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "When a user uses a Web browser to access a Web page with a few lines of text and 4 images, the Web browser only sends one request to the server and will receive 5 responses from the corresponding server with the objects on that Web page.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Two different objects of a Web page can be sent from the Web server to the Web browser over the same TCP connection.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "None of these statements are correct.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 18,
+                "question_text": "Suppose there is a Web server, using the HTTP protocol, running on a machine with the domain name mydomain.web on port 8080. To reach this Web server, we can use the following URL:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "http://8080:mydomain.web",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "http://mydomain.web:8080",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "http://mydomain.web/8080",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "http://mydomain.web",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 19,
+                "question_text": "On each host, how many applications can be assigned a network address?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "2^8",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "2^16",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "16",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 20,
+                "question_text": "A file with a size of 400MB is transferred over a channel with a speed of 10Mbps. How long will it take to transfer the whole file through the channel? (Ignore signal processing and propagation time)",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "320s",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "40s",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "335.5s",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "167.8s",
+                        "is_correct": false
+                    }
+                ],
+                "note": "Incorrect in original quiz, correct answer is 335.5s"
+            },
+            {
+                "question_number": 21,
+                "question_text": "BitTorrent is an application based on:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Peer-to-Peer architecture.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Client-Server architecture.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 22,
+                "question_text": "Which of the following applications can be considered a client server application?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Web site of HCMUT at: https://hcmut.edu.vn.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Skype",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "eMule",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "BitTorrent",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 23,
+                "question_text": "The advantages of client-server architecture for network applications are:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Simple, easy to develop applications.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "There is no single point of failure.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Can provide a very large, unlimited amount of resources to users.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Good scalability as the number of users increases.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 24,
+                "question_text": "DASH is a protocol for video streaming based on:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "SMTP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "DNS",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "FTP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "HTTP",
+                        "is_correct": true
+                    }
+                ]
+            }
+        ]
+    }
+}

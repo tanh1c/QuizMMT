@@ -1,0 +1,311 @@
+{
+  "quiz": {
+    "title": "Chapter 1: Attempt review | BK-LMS",
+    "total_questions": 11,
+    "total_marks": "21.00/22.00",
+    "grade": "9.55/10.00 (95.45%)",
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "What advantages does a circuit-switched network have over a packet-switched network?",
+        "options": [
+          {
+            "id": "a",
+            "text": "There are no outstanding advantages compared to packet switched networks",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Able to guarantee a certain amount of bandwidth for each connection",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Has high security capabilities",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Can accommodate a larger number of users",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Suppose that there is a group of 4 people using the same channel with a transmission rate of R Mbps, but when using the channel, the speed of one user is only R/4 Mbps and each person uses the channel only 30% of the time. What is the probability that at any given time, all four people are using the channel at the same time?",
+        "options": [
+          {
+            "id": "a",
+            "text": "0.0256",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "0.0081",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "0.3",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "0.09",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Suppose we have a packet transmitted from host A to host B through two switches installed in series. The data transmission rate from host A to the switch and from the switch to host B is R, the data transmission rate between the two switches is 2 times the data transmission rate from host to switch. Assume that the switch operates based on the \"store-and-forward packet switching\" mechanism. What is the total time to transfer a packet of length L from A to B? (ignore all delays at the switch and signal propagation time in the wire).",
+        "options": [
+          {
+            "id": "a",
+            "text": "L/4R",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "7L/3R",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "2L/5R",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "5L/2R",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Suppose Host A sends a file of size 4000000 bytes to Host B. The path from A to B consists of three links in a row, with transmission rates R1 = 500kbps, R2 = 2Mbps and R3 = 1Mbps, respectively. How long would it take to send the file to B? (no other host uses the links, waiting time at routers and propagation time could be ignored).",
+        "options": [
+          {
+            "id": "a",
+            "text": "8 seconds",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "256 seconds",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "20 seconds",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "64 seconds",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "How long would it take to send a data segment of size 1280000 bytes from Host A to B in a network? Supposed that all the links in the network use TDM with 24 time slots and the transmission rate is 7,680 Mbps. (Time to set up the connection from A to Be could be ignored).",
+        "options": [
+          {
+            "id": "a",
+            "text": "32 seconds",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "17 seconds",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "4 seconds",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "10 seconds",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Suppose that there is a packet of size 8000 bits sent from Host A to Host B through a switch S. Transmission rate from A to S is 2Mbps and the rate from S to B is 2Mbps. How long would it take transfer the line from A time B? (all the delays within the switch and propagation time could be ignored).",
+        "options": [
+          {
+            "id": "a",
+            "text": "2.7ms",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "12ms",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "8ms",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "4ms",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which of the following devices belongs to the network edge?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Computers, Smartphones, Laptops",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Smartphones, Access points, Routers",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Switches, Routers",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Computers, Switches, Routers",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Please indicate what is the order of the layers from top to bottom (top-down) in the Internet model:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Physical, Link, Network, Transport, Application",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Application, Transport, Network, Data Link, Physical",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Physical, Fragment, Datagram, Segment, Message",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Message, Segment, Datagram, Fragment, Physical",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "In practice, the Internet architecture is arranged into how many layers?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "6",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "4",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "7",
+            "is_correct": false
+          },
+          {
+            "id": "e",
+            "text": "3",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "According to the OSI model, if calculated from the bottom up, starting from 1, what level is the Network layer?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "4",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "2",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "3",
+            "is_correct": true
+          },
+          {
+            "id": "e",
+            "text": "5",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "According to the OSI model, computer network architecture is divided into how many layers?",
+        "options": [
+          {
+            "id": "a",
+            "text": "7",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "10",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "8",
+            "is_correct": false
+          },
+          {
+            "id": "e",
+            "text": "4",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

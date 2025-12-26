@@ -1,0 +1,323 @@
+{
+    "quiz": {
+        "title": "Chapter 3: Attempt review | BK-LMS",
+        "total_questions": 16,
+        "total_marks": "22.00/24.00",
+        "grade": "9.17/10.00 (91.67%)",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which of the following protocols is connectionless?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "ATM",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "TCP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "UDP",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "X25",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 2,
+                "question_text": "UDP:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "belongs to the Transport layer.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "has packets containing sequence numbers.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "is connection-oriented.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "uses acknowledgement numbers.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 3,
+                "question_text": "Which fields are in the Header of both TCP and UDP segments?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Sequence number",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Checksum",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Window size",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Acknowledgment number",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 4,
+                "question_text": "In the components of the socket there is the presence of IP address and Port. What is this port address?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "An 8-bit number",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "A 16-bit number",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Any positive integer",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "A 32-bit number",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 5,
+                "question_text": "Suppose Host A sends Host B 18 bytes of data in a segment with a sequence number of 92, select the value of the acknowledgment number of the next segment that Host B will send to Host A:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "110",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "111",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "100",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "92",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 6,
+                "question_text": "Select the FALSE statement about the sequence number of a TCP connection:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "The largest value of the sequence number is 2^32 - 1.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Sequence numbers limit the maximum amount of data that can be sent over a TCP channel.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "When the connection is established, the starting sequence number is a random number.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "The numbers are counted incrementally.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 7,
+                "question_text": "TCP is a connection-oriented protocol. One of its advantages is that the connection is established between the two ends before the data is transferred. One of its disadvantages compared to UDP protocol is:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Packet acknowledgment can increase overhead.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Loss or duplication of packets may occur.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "The application layer is responsible for ordering data packets.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Packets are not numbered with sequence numbers.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 8,
+                "question_text": "In the Cumulative ACK method: Host A continuously sends two TCP segments to Host B as follows: 1. [SEQ: 92, DATA: 18]; 2. [SEQ: 110, DATA: 2]. B sends back two corresponding ACK packets, but the ACK packet for packet number 1 is lost, only the ACK packet of packet number 2 returns to Host A. Then if A wants to continue sending to B, what will be the SEQ number of the packet?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "112",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "110",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "102",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "92",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 9,
+                "question_text": "How many total SYNs are sent during the opening of a TCP connection?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "2",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "3",
+                        "is_correct": false
+                    }
+                ],
+                "note": "Incorrect in original quiz, correct answer is 2"
+            },
+            {
+                "question_number": 10,
+                "question_text": "In the Congestion avoidance stage of TCP congestion control:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "CongWin is assigned 1 MSS then doubled after each ACK received.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "CongWin is assigned a fixed and unchanging value.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "CongWin increases by 1 MSS after each ACK received.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "CongWin is changed by the application according to its transmission needs.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 11,
+                "question_text": "In TCP Reno congestion control, if the sender receives 3 ACKs that duplicate the previous ACK then:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "CongWin is halved and then increases linearly.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "CongWin = 1 MSS and then increases exponentially.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "CongWin = 1 MSS and then increases linearly.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "CongWin is halved and then increases exponentially.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 12,
+                "question_text": "Transport Layer is implemented mainly on:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Routers",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Switches",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "All network devices",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Users' computers",
+                        "is_correct": true
+                    }
+                ]
+            }
+        ]
+    }
+}

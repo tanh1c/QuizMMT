@@ -1,0 +1,702 @@
+{
+    "quiz": {
+        "title": "Chapter 6, 7 & 8: Attempt review | BK-LMS",
+        "total_questions": 27,
+        "total_marks": "47.00/54.00",
+        "grade": "8.70/10.00 (87.04%)",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Suppose two machines A and B are on the same LAN, A wants to send a message to B but does not know B's MAC address. A uses the ARP protocol to find B's MAC address. Choose the correct sequence:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "A sends an ARP query with destination MAC address FF-FF-FF-FF-FF-FF, containing B's IP address; B creates an ARP packet containing B's MAC address and sends it to A's IP address.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "A sends an ARP query with destination MAC address 00-00-00-00-00-00, containing B's IP address; B creates an ARP packet containing B's MAC address and sends it to A's MAC address.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "A sends an ARP query with destination MAC address FF-FF-FF-FF-FF-FF, containing B's IP address; B creates an ARP packet containing B's MAC address and sends it to A's MAC address.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "A sends an ARP query with destination MAC address 00-00-00-00-00-00, containing B's IP address; B creates an ARP packet containing B's MAC address and sends it to A's IP address.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 2,
+                "question_text": "A computer wants to send data to another computer on the same LAN. What type of address does this machine use to send data that is appropriate for Data Link layer services?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "IP",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "MAC",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "URL",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Port",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 3,
+                "question_text": "IPv6 addresses have the size of:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "32 bytes",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "128 bytes",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "96 bytes",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "64 bytes",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 4,
+                "question_text": "Select the correct description of CDMA (Code Division Multiple Access):",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "CDMA is a specific solution of FDMA (Frequency Division Multiple Access).",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "CDMA is the standard used for Ethernet LAN.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "In CDMA, all users share the same frequency band, and can send data simultaneously.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "CDMA is a specific solution of TDMA (Time Division Multiple Access).",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 5,
+                "question_text": "Which of the following access control protocols requires time clock synchronization between hosts:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "CSMA/CD",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Token Ring",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "FDMA",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Slotted ALOHA",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 6,
+                "question_text": "Which of the following is not a characteristic of an ideal multiple access protocol, given a broadcast channel at a rate of R bps?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Need to have a centralized control node for easy management",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "No need for clock or time slot synchronization.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "When M nodes want to transmit, each node can transmit at an average speed of R/M.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "When a node wants to transmit, it can transmit at speed R.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 7,
+                "question_text": "What advantages does the CSMA/CD algorithm have over the CSMA algorithm?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Improves the actual efficiency of the channel by reducing the time spent transmitting useless data after a collision has occurred.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Make sure a collision will never happen.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Easier to implement.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 8,
+                "question_text": "In the Multiple Access protocols used for shared channels, what advantages does the Random Access protocol group have over the static Channel Partitioning protocol group?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Channels are used more effectively when there are few users.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "The data collision problem does not occur.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Data transmission speed is guaranteed.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Service quality is guaranteed.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 9,
+                "question_text": "In the CSMA (Carrier Sense Multiple Access) algorithm group, a machine will check the channel to see if it is idle before transmitting data. Why can collisions still happen?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Because the collision detection device may be faulty.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Because the signal strength varies sinusoidally, sometimes weak and sometimes strong, it is not always detectable.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Because it takes a certain time for the signal to go from point A to point B in the channel, at the time of checking, B may not have detected a collision, while B has actually started transmitting data.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 10,
+                "question_text": "It is known that public key cryptography is used to create digital signatures. In this process, which key (public key, private key) is used to create the signature:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Neither of these keys",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Both keys",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Public key",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Private key",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 11,
+                "question_text": "To increase security in accessing Web sites with sensitive information, people often use the HTTP protocol in the form of HTTPS. This is the protocol:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Required to use electronic signature.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Combined with IPsec.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Combined with VPN.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Combined with SSL/TLS.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 12,
+                "question_text": "What are the advantages of the Public-key algorithm compared to the Symmetric-key algorithm?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Faster processing time.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Easier to use and manage.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "The key length is always larger.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Higher level of safety.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 13,
+                "question_text": "Which address does SWITCH use when deciding which output port to transfer data to?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Destination MAC address",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Source MAC address",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Destination IP address",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Source IP address",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 14,
+                "question_text": "How many MAC address fields are there in a Wifi frame header?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "2",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "4",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "3",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "1",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 15,
+                "question_text": "For wireless LANs, the CSMA/CD (Carrier Sense Multiple Access with Collision Detection) method cannot be used at the Data Link layer because:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Collision does not occur in Wireless LAN.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "CSMA/CD is used at the application layer.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Collision cannot be determined because of the problem of “hidden” and “exposed” stations.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Sender cannot detect collision because collision only occurs at Receiver.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 16,
+                "question_text": "Bluetooth is designed primarily for:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "WAN (Wide Area Network)",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "MAN (Metropolitan Area Network)",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "LAN (Local Area Network)",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "PAN (Personal Area Network)",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 17,
+                "question_text": "Choose appropriate wireless network technology for an office area with a radius of about 50m:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Ad-hoc",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cellular Radio Network",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "IEEE 802.11 WLAN",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Bluetooth",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 18,
+                "question_text": "Choose the correct statement about wireless networks:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "WiMAX is another version of the WiFi standard.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Access point (or base station) is an indispensable component in an ad-hoc wireless network.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "IEEE 802.11x standard set used for wireless local area networks (Wireless LAN)",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "WiFi is the only standard used for wireless networks.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 19,
+                "question_text": "A home network device with integrated ADSL modem, 4-port Switch, Router and Wifi Access Point. The error checking algorithm used on the transmission line is Cyclic Redundancy Check (CRC). Which layer of the OSI model is appropriate to implement this algorithm?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Application",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Network",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Physical",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Data Link",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 20,
+                "question_text": "When moving a computer from a LAN A to a LAN B belonging to two different subnets:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "The machine's MAC address will be changed.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Both the MAC address and IP address will be changed.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Neither the MAC address nor the IP address will be changed.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Only the machine's IP address will be changed.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 21,
+                "question_text": "Computer A is on the local network. The internal network is connected to the Internet through a Gateway G. On the Internet there is a computer B. During the process of sending data from A to B, the Ethernet packet originating from A will have the destination:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "IP address of default gateway G",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "MAC address of the default gateway G",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "MAC address of Computer B",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "IP address of Computer B",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 22,
+                "question_text": "The Data Link Layer address has:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "128 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "56 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "32 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "48 bits",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 23,
+                "question_text": "Which of the following strings is the correct representation of a MAC address?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "59:A1:FG:C5:D2",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "10:A1:FF:C5:D2:93",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "78:B5:FF:FF:65",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "78:B5:FF:DG:65:93",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 24,
+                "question_text": "A computer wants to send data to another computer that is NOT on the same LAN. How will this machine send data?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Send data in a BROADCAST FRAME to all machines on the LAN.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Use ARP to determine the MAC address of the receiving machine and send it directly.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Set up a tunnel to the receiving machine and send data in this tunnel.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Send data to Default Router (Default gateway)",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 25,
+                "question_text": "Which of the following services is not part of the Data Link Layer:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Error correction",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Error detection",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Flow control",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Routing",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 26,
+                "question_text": "Data Link Layer activities take place mainly in:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Outside of the computer",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "NIC (Network Interface Card)",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "CPU",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Main memory",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 27,
+                "question_text": "Parity checking method can be used to:",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Can only be used to detect errors on individual data clusters.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Detect and correct errors for individual data bits.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Can only be used to detect errors on individual bits.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Detect and correct errors for a burst of multiple data bits.",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    }
+}
