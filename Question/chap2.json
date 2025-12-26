@@ -80,7 +80,7 @@
             },
             {
                 "question_number": 4,
-                "question_text": "The DNS service will be used when you use a Web browser to access a Web site addressed by a URL for the first time. Suppose that n DNS servers are queried before your browser receives the IP address from the DNS system with query times RTT1, RTT2,...RTTn, and RT10 are Round Trip Time (RTT) between the browser and the Web server. Please tell us how long it will take you to get the content of the Web page if there is only a small paragraph with 20 characters on that Web page?",
+                "question_text": "The DNS service will be used when you use a Web browser to access a Web site addressed by a URL for the first time. Suppose that n DNS servers are queried before your browser receives the IP address from the DNS system with query times RTT1, RTT2,...RTTn, and RTT0 are Round Trip Time (RTT) between the browser and the Web server. Please tell us how long it will take you to get the content of the Web page if there is only a small paragraph with 20 characters on that Web page?",
                 "options": [
                     {
                         "id": "a",
@@ -617,4 +617,5 @@
             }
         ]
     }
+
 }
