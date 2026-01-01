@@ -1,0 +1,1168 @@
+{
+  "quiz": {
+    "title": "Chương 6",
+    "total_questions": 45,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Nội dung nào dưới đây là đặc điểm của các loại hình tôn giáo trong xã hội nguyên thuỷ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có hệ thống tổ chức và những người hoạt động tôn giáo chuyên nghiệp,",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chưa có hệ thống tổ chức và những người hoạt động tôn giáo chuyên nghiệp.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Có hệ thống tổ chức nhưng chưa có những người hoạt động tôn giáo chuyên nghiệp. ..",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chưa có hệ thống tổ chức nhưng có những người hoạt động tôn giáo chuyên nghiệp.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Nội dung nào sau đây không phải là nguồn gốc dẫn tới sự ra đời của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tâm lí.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giáo dục,",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tự nhiên, kinh tế – xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Khi khoảng cách giữa biết và chưa biết vẫn tồn tại, khi những điều mà khoa học chưa giải thích được, thì điều này được giải thích thông qua lăng kính các tôn giáo là nội dung của nguồn gốc",
+        "options": [
+          {
+            "id": "a",
+            "text": "nhận thức.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tâm lí.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "văn hoá. khả năng tư duy",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kinh tế - xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Đặc trưng nổi bật của tôn giáo khu vực và tôn giáo thế giới là",
+        "options": [
+          {
+            "id": "a",
+            "text": "tính đa dân tộc, đa quốc gia.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tính đa vùng miền, đơn quốc gia.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tính đơn dân tộc, đơn quốc gia.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tính đơn dân tộc, đa quốc gia.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Loại hình tôn giáo mà đối tượng thờ phụng là những vị thần của một dân tộc; ảnh hưởng của vị thần đó chỉ giới hạn chủ yếu trong phạm vi một dân tộc nhất định là nội dung thể hiện khái niệm",
+        "options": [
+          {
+            "id": "a",
+            "text": "tôn giáo quốc tế.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tôn giáo dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tôn giáo vùng miền",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tôn giáo khu vực.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Câu nói: “Sự bất lực của giai cấp bị bóc lột trong cuộc đấu tranh chống bọn bóc lột tất nhiên đẻ ra lòng tin vào cuộc đời đẹp hơn ở thế giới bên kia, cũng giống y như sự bất lực của con người dã man trong cuộc đấu tranh chống thiên nhiên đẻ ra lòng tin vào thần thánh, ma quỷ và những phép màu...” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ph. Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "VI. Lênin",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "G.W.F. Hegel.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Con người chỉ sáng tạo ra tôn giáo khi trình độ nhận thức đạt tới khả năng tư duy",
+        "options": [
+          {
+            "id": "a",
+            "text": "chi tiết hoá, trừu tượng hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tổng hợp và phân tích.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "trừu tượng hoá, khái quát hoá.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "logic và trừu tượng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Tôn giáo giúp con người có những nhận thức nhất định về thế giới và con người, thông qua hệ thống giáo thuyết của nó là nội dung thể hiện chức năng nào dưới đây của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chức năng đền bù hư ảo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chức năng thế giới quan.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Chức năng điều chỉnh hành vi đạo đức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chức năng liên kết cộng đồng và chuyển tải, bảo lưu văn hoá.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Trong mối quan hệ với tín ngưỡng, tôn giáo là",
+        "options": [
+          {
+            "id": "a",
+            "text": "khái niệm nhỏ hơn, là một loại hình (dạng) tín ngưỡng.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "một khái niệm tương đương tín ngưỡng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "một khái niệm hoàn toàn độc lập, không có mối liên hệ.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "một khái niệm rộng hơn, bao trùm tín ngưỡng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Việc các tôn giáo bị phân liệt, chia tách thành nhiều tôn giáo, nhiều hệ phái khác nhau do sự thay đổi của các điều kiện lịch sử, kinh tế - xã hội phản ánh tính chất nào dưới đây của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tính chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tính quần chúng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tính lịch sử.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tính khái quát.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Loại hình tôn giáo sùng bái lãnh tụ, thủ lĩnh, thánh thần bộ lạc hay các tổ chức bộ lạc là biểu hiện của",
+        "options": [
+          {
+            "id": "a",
+            "text": "vật linh giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "ma thuật giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tô tem giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sa man giáo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Loại hình tôn giáo mà ở đó người ta tôn thờ và có những hành vi thế hiện niềm tin, sự tôn thờ một số vật như hòn đá, gốc cây, bức tường,... có thể có những thuộc tính siêu nhiên là biểu hiện của",
+        "options": [
+          {
+            "id": "a",
+            "text": "sa man giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "vật linh giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tô tem giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "bái vật giáo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Loại hình tôn giáo cổ xưa nhất, thể hiện niềm tin của con người vào một loài động vật, cây cỏ, đồ vật, hiện tượng trong đời sống là nội dung của",
+        "options": [
+          {
+            "id": "a",
+            "text": "ma thuật giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tô tem giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "bái vật giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sa man giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Sự bất lực của con người trong cuộc đấu tranh với tự nhiên, xã hội để giải quyết các yêu cầu, các mục đích kinh tế - xã hội, cũng như cuộc sống của bản thân họ là nội dung phản ánh nguồn gốc",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hoá của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tự nhiên, kinh tế – xã hội của tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tâm lí của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nhận thức của tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Sự bần cùng về kinh tế, nạn áp bức về chính trị, sự hiện diện những bất công xã hội cùng với những thất vọng, bất hạnh trong đấu tranh của giai cấp bị trị là nội dung phản ánh nguồn gốc",
+        "options": [
+          {
+            "id": "a",
+            "text": "kinh tế - xã hội của tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tâm lí của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nhận thức của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tự nhiên của tôn giáo..",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Theo Luật Tín ngưỡng, Tôn giáo Việt Nam (2016), niềm tin con người tồn tại với hệ thống quan niệm và hoạt động bao gồm đối tượng tôn thờ, giáo lý, giáo luật, lễ nghi và tổ chức là nội dung thể hiện khái niệm",
+        "options": [
+          {
+            "id": "a",
+            "text": "hệ thống giáo lí.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "mê tín dị đoan.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tín ngưỡng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Tôn giáo nào dưới đây ra đời ở Việt Nam.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đạo Cao Đài.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đạo Hồi. D, Đạo Ki-tô.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đạo Phật.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Nhận định: “Tôn giáo là sự tự ý thức và sự tự cảm giác của con người chưa tìm được bản thân mình hoặc đã lại để mất bản thân mình một lần nữa” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "C. Mác.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "V.I. Lênin.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hồ Chí Minh.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Tin một cách mê muội, mù quáng vào những điều thiếu cơ sở khoa học là biểu hiện của",
+        "options": [
+          {
+            "id": "a",
+            "text": "mê tín.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "dị đoan.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tín ngưỡng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Khi xã hội có sự phân chia giai cấp, có sự khác biệt, sự đối kháng về lợi ích kinh tế, chính trị giữa các giai cấp thì tôn giáo xuất hiện thêm",
+        "options": [
+          {
+            "id": "a",
+            "text": "tính lịch sử.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tính quần chúng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tính văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tính chính trị.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Đặc trưng nổi bật của tôn giáo dân tộc là",
+        "options": [
+          {
+            "id": "a",
+            "text": "tính chất giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tính chất dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tính chất vùng miền.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tính chất khu vực.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Câu: “Sợ hãi trước các thế lực mù quáng của tư bản, mù quáng vì quần chúng nhân dân không thể đoán trước được nó, - là thế Tụ lúc nào trong đời sống của người vô sản và người tiêu chủ, cũng đe dọa đem lại cho họ và đang đem lại cho họ sự phá sản “đột ngột”, “bất ngờ”, “ngẫu nhiên”, làm cho họ phải diệt vong, biến họ thành người ăn xin, một kẻ bần cùng, một gái điểm, và dồn họ vào cảnh chết đói, đó chính là nguồn gốc sâu xa của tôn giáo hiện đại” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "V.I. Lênin.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "G.W.F. Hegel.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Không chỉ sự sợ hãi, lo lắng mà ngay cả tình yêu, lòng biết ơn, sự kính trọng,... trong mối quan hệ giữa con người với tự nhiên và con người với con người nhiều khi cũng được thể hiện qua tín ngưỡng, tôn giáo là nội dung thể hiện nguồn gốc nào dưới đây của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tâm lí.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tự nhiên.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế – xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Nhận định “Tất cả mọi tôn giáo chẳng qua chỉ là sự phản ánh hư ảo - vào trong đầu óc của con người - những lực lượng ở bên ngoài chi phối cuộc sống hằng ngày của họ, chỉ là sự phản ánh trong đó những lực lượng ở trần thể đang mang hình thức những lực lượng siêu trần thế” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "V.I. Lênin.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ph. Ăngghen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Tôn giáo nào dưới đây không phải là tôn giáo ra đời ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đạo Phật.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Từ Ân Hiếu Nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đạo Cao Đài. D, Đạo Hoà Hảo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Nội dung nào dưới đây phản ánh đúng nhất lập trường của những người cộng sản về vấn đề tín ngưỡng, tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Luôn tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhanh chóng xóa bỏ tín ngưỡng, tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Không quan tâm đến nhu cầu tín ngưỡng, tôn giáo của nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sử dụng bạo lực để giải quyết vấn đề tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Niềm tin của con người được thể hiện thông qua những lễ nghi gắn liền với phong tục, tập quán truyền thống để mang lại sự bình an về tinh thần cho cá nhân và cộng đồng là nội dung của khái niệm",
+        "options": [
+          {
+            "id": "a",
+            "text": "tín ngưỡng.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "mê tín.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "mê tín dị đoan.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Tôn giáo mang thế giới quan",
+        "options": [
+          {
+            "id": "a",
+            "text": "duy vật biện chứng.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "duy tâm.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "vừa duy vật, vừa duy tâm.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "duy vật.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Nội dung nào dưới đây không phải là chức năng của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thế giới quan..",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Điều chỉnh hành vi đạo đức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đền bù hư ảo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Một hình thái ý thức xã hội phản ánh một cách hoang đường hư ảo hiện thực khách quan, thông qua sự phản ánh đó, các lực lượng và xã hội đều trở thành siêu tự nhiên, thần bí là nội dung thể hiện bản chất của khái niệm",
+        "options": [
+          {
+            "id": "a",
+            "text": "tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "mê tín dị đoan.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tín ngưỡng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hoá.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Tôn giáo là một hiện tượng xã hội phản ánh sự bất lực và bế tắc của con người trước tự nhiên và xã hội, tuy nhiên, tôn giáo cũng chứa đựng một số giá trị phù hợp với đạo đức, đạo lí của con người là nội dung thể hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "chức năng của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "bản chất của tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "nguồn gốc của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tính chất của tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Tôn giáo hình thành, tồn tại và phát triển trong những giai đoạn lịch sử nhất định, nó có khả năng biến đổi, thích nghi với nhiều chế độ chính trị - xã hội, khi các điều kiện kinh tế, xã hội thay đổi, tôn giáo cũng thay đổi theo là nội dung thể hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "tính chính trị - lịch sử của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tính chính trị của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tính lịch sử của tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tình quân chủng của tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Vượt ra khỏi phạm vi một dân tộc, một quốc gia, tôn giáo này ảnh hưởng đến nhiều quốc gia, nhiều khu vực khác nhau, thậm chí, toàn thế giới, đây là hình thức",
+        "options": [
+          {
+            "id": "a",
+            "text": "tôn giáo dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tôn giáo vùng miền.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tôn giáo khu vực và tôn giáo thế giới.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tôn giáo khu vực.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Loại hình tôn giáo mà con người thể hiện niềm tin vào khả năng tác động đến các hiện tượng xuất hiện trong tự nhiên, thông qua những hành động như cầu khấn, phù phép, bùa chú là biểu hiện của",
+        "options": [
+          {
+            "id": "a",
+            "text": "tô tem giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "bái vật giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "ma thuật giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "sa man giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Tôn giáo nguyên thuỷ phản ánh một thực trạng xã hội mà",
+        "options": [
+          {
+            "id": "a",
+            "text": "đời sống vật chất, tinh thần của con người còn nhiều khó khăn.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "mâu thuẫn giai cấp ngày càng sâu sắc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nhận thức của con người quá thấp kém, thậm chí mông muội.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "sự áp bức giai cấp bắt đầu xuất hiện.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Loại hình tôn giáo mà người ta tin rằng các sự vật, hiện tượng trong tự nhiên cũng giống như con người, đều có linh hồn là biểu hiện của",
+        "options": [
+          {
+            "id": "a",
+            "text": "vật linh giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tô tem giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "sa man giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "ma thuật giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Tôn giáo có tính chất nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tính tổng hợp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tính khái quát.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tính chính trị. .",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tính logic.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Nội dung nào dưới đây là chức năng của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đối nội, đối ngoại.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Liên kết cộng đồng và chuyển tải, bảo lưu văn hoá.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Khi nghiên cứu vấn đề tôn giáo, để tránh quan điểm, tư tưởng, nhận thức có tính cực đoan, ta không được đối lập một cách cực đoan tôn giáo với",
+        "options": [
+          {
+            "id": "a",
+            "text": "giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "nền kinh tế thị trường.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "khoa học",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "các vấn đề chính trị..",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Nội dung nào dưới đây không phải là tính chất của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tính quần chúng.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tính logic.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tính lịch sử.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tính chính trị.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, khi khoa học và giáo dục giúp cho đại đa số quần chúng nhân dân nhận thức được bản chất của các hiện tượng tự nhiên, tôn giáo sẽ",
+        "options": [
+          {
+            "id": "a",
+            "text": "ngày càng phát triển.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "biến mất hoàn toàn.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "trở nên khoa học.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "dần mất đi vị trí của nó.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "Sự suy đoán, hành động một cách tuỳ tiện với những hành vi sai lệch quá mức, trái với các giá trị văn hoá, đạo đức, pháp luật, gây tổn hại cho cá nhân và cộng đồng là biểu hiện của",
+        "options": [
+          {
+            "id": "a",
+            "text": "mê tín.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "dị đoan.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tín ngưỡng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "Tôn giáo là một hiện tượng xã hội phổ biến ở tất cả các dân tộc quốc gia, châu lục, không một quốc gia dân tộc nào không có một hay nhiều tôn giáo là nội dung thể hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "tính chính trị của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tính quần chúng của tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tính phổ biến của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tính quốc tế của tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "Số lượng tín đồ tôn giáo đông đảo, các tôn giáo là nơi sinh hoạt văn hoá, tinh thần của một bộ phận khá đông đảo quần chúng nhân dân. là nội dung thể hiện tính chất nào dưới đây của tôn giáo?.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tính xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tính chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tính giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tính quần chúng.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 45,
+        "question_text": "Câu: “Sự sợ hãi sinh ra thần linh” bàn đến nguồn gốc nào dưới đây của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tâm lí",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tự nhiên, kinh tế – xã hội.",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

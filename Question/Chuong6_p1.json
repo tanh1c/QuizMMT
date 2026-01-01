@@ -1,0 +1,1844 @@
+{
+  "quiz": {
+    "title": "Chương 6",
+    "total_questions": 71,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Đảng Cộng sản Việt Nam xác định rõ “Vấn đề dân tộc và đoàn kết các dân tộc luôn luôn có vị trí chiến lược trong sự nghiệp cách mạng” tại Đại hội nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội XI.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội XII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội X.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Các thành viên cũng như các cộng đồng tộc người trong một dân tộc đều chịu sự quản lý, điều khiển của",
+        "options": [
+          {
+            "id": "a",
+            "text": "một xã hội độc lập.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "một tổ chức độc lập.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "một nhà nước độc lập.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "một đảng độc lập.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Nâng cao nhận thức của đồng bào các dân tộc thiểu số về tầm quan trọng của vấn đề dân tộc, đoàn kết các dân tộc là nội dung thực hiện chính sách dân tộc của Đảng ta trong lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "giáo dục.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hoá – xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Đối với cộng đồng các dân tộc ở Việt Nam, tư tưởng nhất quán của Đảng là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tập trung đẩy nhanh sự phát triển của dân tộc đa số, sau đó hỗ trợ phát triển cho các dân tộc thiểu số.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giảm mức đầu tư cho dân tộc đa số, tập trung đẩy nhanh sự phát triển của dân tộc thiểu số.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bảo đảm sự bình đẳng, đoàn kết và giúp đỡ nhau giữa các dân tộc, nhất là các dân tộc thiểu số.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ưu tiên và tạo điều kiện cho những dân tộc đa số phát triển.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Yếu tố nào dưới đây có ý nghĩa quyết định nhất đến sự ra đời của dân tộc ở phương Tây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vị trí địa lí, điều kiện tự nhiên.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự phát triển của quan hệ sản xuất trong sản xuất hàng hoá tư bản chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự chín muồi của yếu tố tộc người.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự phát triển của lực lượng sản xuất trong sản xuất hàng hoá tư bản chủ nghĩa.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Trong một quốc gia có nhiều cộng đồng người, với các ngôn ngữ khác nhau, nhưng bao giờ cũng sẽ có một ngôn ngữ chung thống nhất là nội dung thể hiện đặc trưng nào dưới đây của quốc gia dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có ngôn ngữ nói riêng.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Có chung một ngôn ngữ làm công cụ giao tiếp.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Có ngôn ngữ viết chung.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Có nhiều ngôn ngữ làm công cụ giao tiếp.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Nội dung nào dưới đây trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin không chỉ là lời kêu gọi mà còn là giải pháp hữu hiệu đảm bảo việc thực hiện quyền bình đẳng và quyền tự quyết dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các dân tộc liên hiệp lại với nhau.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Các dân tộc hoàn toàn bình đẳng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Liên hiệp công nhận tất cả các dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc tách ra thành quốc gia độc lập.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Theo Tổng điều tra dân số và nhà ở năm 2019 được tiến hành vào thời điểm 0 giờ ngày 01/4/2019 theo Quyết định số 772/QĐ-TTg ngày 26/6/2018 của Thủ tướng Chính phủ, dân tộc Kinh chiếm khoảng bao nhiêu phần trăm dân số Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "82,6 %",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "85,3 %",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "81,3 %",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "80 %",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Sự thống nhất những lợi ích về kinh tế, chính trị, văn hoá, xã hội,... là nguyên nhân dẫn tới xu hướng hình thành",
+        "options": [
+          {
+            "id": "a",
+            "text": "dân tộc độc lập",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "các tổ chức kinh tế. D, các tổ chức phi chính phủ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "liên hiệp các dân tộc.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Nội dung nào sau đây đóng vai trò liên kết các nội dung còn lại trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin thành một chỉnh thể?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các dân tộc có quyền tự quyết.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Các dân tộc có quyền tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Liên hiệp công nhận tất cả các dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc hoàn toàn bình đẳng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Đổi mới cơ cấu kinh tế, thực hiện định canh, định cư, giao đất, giao rừng, phát triển kinh tế trang trại, chuyển giao công nghệ, trao đổi dân tộc trong lĩnh vực kinh nghiệm và bồi dưỡng nghiệp vụ quản lí là nội dung của chính sách dân tộc tronglĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "quốc phòng an ninh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "ngoại giao.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kinh tế.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Đối với quốc gia dân tộc Việt Nam, nội dung nào dưới đây được xem là sợi chỉ đỏ xuyên suốt đường lối chính trị của Đảng ta?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thực hiện quyền bình đẳng và quyền tự quyết của dân tộc Việt Nam.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Độc lập dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thực hiện đoàn kết và bình đẳng giữa các dân tộc trong cộng đồng các dân tộc Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chủ nghĩa xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Nội dung nào dưới đây không phải là đặc điểm của dân tộc theo nghĩa rộng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có chung một phương thức sinh hoạt kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Có chung một vùng lãnh thổ ổn định.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mỗi vùng miền sử dụng riêng một loại ngôn ngữ.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Có chung nền văn hoá và tâm lí.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Theo Tổng điều tra dân số và nhà ở năm 2019 được tiến hành vào thời điểm 0 giờ ngày 01/4/2019 theo Quyết định số 772/QĐ-TTg 26/6/2018 của Thủ tướng Chính phủ, các dân tộc thiểu số chiếm khi | bao nhiêu phần trăm dân số Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "15,5 %.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "18 %.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "12,3 %.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "14,7 %.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Theo quan điểm của Chủ tịch Hồ Chí Minh, sự gắn bó giữa độc lập dân tộc và chủ nghĩa xã hội thống nhất với nhau ở mục đích nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng con người khỏi áp bức, bất công.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Mở rộng giao lưu kinh tế, văn hoá, xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát triển kinh tế đất nước.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc có điều kiện phát triển bình đẳng, tiến bộ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Nội dung nào sau đây không phải là điều kiện đưa đến sự hình thành dân tộc Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yêu cầu của cuộc đấu tranh chống ngoại xâm.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Yêu cầu của cuộc đấu tranh chống thiên tai, phát triển nông nghiệp lúa nước.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhu cầu trao đổi hàng hoá giữa các vùng miện hình thành thị trường dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Sự tác động của chế độ sở hữu công cộng về ruộng đất và cỗng xã nông thôn.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Theo quan điểm của Chủ tịch Hồ Chí Minh, con đường để độc lập, tự do, chủ quyền quốc gia là",
+        "options": [
+          {
+            "id": "a",
+            "text": "cách mạng vô sản.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "nâng cao dân trí.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "vận động cải cách.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cách mạng tư sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Yếu tố nào dưới đây thể hiện đầy đủ chủ quyền của một dân tộc trong tương quan với các quốc gia dân tộc khác?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lãnh thổ.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Địa giới hành chính",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lãnh hải.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Biên giới.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Tháng 5/1946, trước khi sang Pháp, Chủ tịch Hồ Chí Minh đã dặn cụ Huỳnh Thúc Kháng “Dĩ bất biến, ứng vạn biến” - lấy điều không đội ứng phó với vạn điều thay đổi để thực hiện điều không đổi. Điều không đổi được mà Chủ tịch Hồ Chí Minh nói đến ở đây là",
+        "options": [
+          {
+            "id": "a",
+            "text": "độc lập dân tộc, duy trì chế độ phong kiến.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "độc lập dân tộc và chủ nghĩa xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "giữ mối liên hệ giữa dân tộc Việt Nam với dân tộc thế giới. D, tinh thần khoan dung và đoàn kết các dân tộc anh em.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Dân tộc ở phương Tây là loại hình dân tộc",
+        "options": [
+          {
+            "id": "a",
+            "text": "hậu tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "hậu phong kiến.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tư sản.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tiền phong kiến.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Sự ra đời của dân tộc chủ yếu do tác động của các yếu tố kinh tế chính trị, văn hoá từ bên ngoài, yếu tố tộc người mờ nhạt là nội dung thể hiện sự ra đời của các dân tộc ở",
+        "options": [
+          {
+            "id": "a",
+            "text": "châu Âu.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "châu Mỹ.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "châu Á.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "châu Phi.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Sự trưởng thành của ý thức dân tộc, sự thức tỉnh về chủ quyền là nguyên nhân dẫn đến việc các cộng đồng dân cư muốn",
+        "options": [
+          {
+            "id": "a",
+            "text": "tách ra để thành dân tộc độc lập.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "liên minh với nhau về kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "thể hiện tính độc lập trong phát triển kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "liên kết lại với nhau.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Nguyên tắc cơ bản nào dưới đây được Đảng và Nhà nước ta thực hiện. nhất quán trong các chủ trương, chính sách về dân tộc?.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đoàn kết, tập trung cho phát triển đồng bào thiểu số.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đoàn kết, tập trung cho phát triển đồng bào đa số..",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bình đẳng, đoàn kết, xây dựng đất nước theo con đường chủ nghĩa. xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bình đẳng, đoàn kết, tôn trọng giúp nhau cùng phát triển.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Để thực hiện được quyền bình đẳng và quyền tự quyết một cách đúng đắn thì các dân tộc phải thực hiện nguyên tắc",
+        "options": [
+          {
+            "id": "a",
+            "text": "đứng vững trên lập trường của giai cấp công nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tôn trọng lẫn nhau trong việc giải quyết các vấn đề chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "không can thiệp vào nội bộ của nhau.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "thành lập chính đảng vô sản và quốc gia dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Nguyên tắc đầu tiên trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các dân tộc hoàn toàn bình đẳng.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Các dân tộc có quyền tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Liên hệ công nhận tất cả các dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc có quyền tự quyết.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Theo tư tưởng Hồ Chí Minh, những người ở dân tộc lớn dễ mắc bệnh",
+        "options": [
+          {
+            "id": "a",
+            "text": "chủ quan.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "quan liêu.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "hẹp hòi.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kiêu ngạo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Tổ chức nào dưới đây là đặc trưng cho thể chế chính trị của dân tộc, là đại diện cho dân tộc trong quan hệ với các quốc gia dân tộc khác trên thế giới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các đoàn thể chính trị - xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhà nước.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Mặt trận Tổ quốc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đảng Cộng sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Sự phát triển của phương thức sản xuất châu Á, của chế độ sở hữu công cộng về ruộng đất là yếu tố quyết định nhất dẫn tới sự ra các dân tộc ở",
+        "options": [
+          {
+            "id": "a",
+            "text": "phương Đông.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "khu vực Đông Bắc Á.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "khu vực Đông Nam Á.",
+            "is_correct": false
+          },
+          {
+            "id": "a",
+            "text": "khu vực Tây Á.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Theo Chủ tịch Hồ Chí Minh, mục tiêu cao nhất trong cách mạng dân tộc dân chủ ở Việt Nam là",
+        "options": [
+          {
+            "id": "a",
+            "text": "xoá bỏ chế độ phong kiến, giải phóng người lao động.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giành độc lập dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "xoá bỏ chế độ phong kiến.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giành ruộng đất cho nông dân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Chính sách dân tộc của Đảng ta phải chú trọng nhất đến lĩnh vực nào dưới đây để thực hiện bình đẳng và đoàn kết giữa các dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Văn hoá - xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giáo dục.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Nội dung nào dưới đây không phản ánh đúng đặc điểm của các dân tộc ở nước ta?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mỗi dân tộc đều có bản sắc văn hoá riêng.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Các dân tộc có tinh thần đoàn kết và ý thức cộng đồng sâu sắc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các dân tộc có truyền thống yêu nước và tự hào dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mỗi dân tộc đều có tiếng nói và chữ viết riêng.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Quan điểm, chính sách của Đảng, Nhà nước ta đối với dân tộc trong giai đoạn hiện nay được khẳng định chủ yếu tại",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nghị quyết số 21-NQ/TW ngày 12/3/2003.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nghị quyết số 24-NQ/TW ngày 12/3/2003.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nghị quyết số 21-NQ/TW ngày 12/3/2004.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nghị quyết số 24-NQ/TW ngày 12/3/2004.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Trình tự nào sau đây thể hiện chính xác quá trình phát triển của các hình thức cộng đồng người trong lịch sử?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bộ lạc – bộ tộc – thị tộc – dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bộ tộc – bộ lạc – dân tộc – thị tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thị tộc – bộ lạc – bộ tộc – dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Thị tộc – bộ tộc – bộ lạc – dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Nhiệm vụ nào dưới đây là nghĩa vụ và trách nhiệm cao nhất của mỗi thành viên dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lao động phát triển kinh tế đất nước.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tham gia giải quyết các vấn đề xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Xây dựng nền văn hoá tiên tiến.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bảo vệ chủ quyền quốc gia.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Một trong những mục tiêu được Đảng ta xác định trong những năm đầu đưa miền Bắc quá độ lên chủ nghĩa xã hội là làm cho",
+        "options": [
+          {
+            "id": "a",
+            "text": "số lượng cán bộ địa phương tăng lên ngang bằng với cán bộ miền xuôi.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "miền núi và miền xuôi cùng phát triển, cùng đi lên chủ nghĩa xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "miền núi tiến kịp miền xuôi, cùng nhau tiến lên chủ nghĩa xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "các dân tộc thiểu số nhận thức đúng về con đường đi lên chủ nghĩa xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Con đường giải phóng dân tộc của Hồ Chí Minh khác với các phong trào yêu nước ở Việt Nam cuối thế kỉ XIX, đầu thế kỉ XX có nội dung căn bản nào sau đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gắn con đường giải phóng dân tộc với duy trì chế độ phong",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Gắn con đường giải phóng dân tộc với cách mạng dân chủ tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Gắn con đường giải phóng dân tộc với cách mạng vô sản thế giới",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Gắn giải phóng dân tộc với liên minh các nước láng giềng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Dân tộc Việt Nam thuộc loại hình dân tộc",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư bản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "phong kiến.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tiền tư bản.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tiền phong kiến.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Nội dung nào sau đây phản ánh đúng mục đích cao nhất của xu hướng hình thành quốc gia dân tộc độc lập?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự độc lập về lựa chọn chế độ chính trị.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Sự khẳng định về chủ quyền.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự độc lập về lựa chọn chế độ kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự trưởng thành của ý thức dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Biểu hiện thông qua tâm lí, tính cách, phong tục, tập quán, lối sống của dân tộc, tạo nên bản sắc riêng của dân tộc là nội dung thể hiện khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Văn hoá vật chất và văn hoá tinh thần.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Văn hoá dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Giao lưu văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Văn hoá đa quốc gia.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Đặc trưng nào dưới đây là quan trọng nhất, là cơ sở gắn kết các bộ phân, các thành viên trong dân tộc, tạo nên tính thống nhất, ổn định, bền vững của dân tộc?.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chung một ngôn ngữ làm công cụ giao tiếp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chung một nền văn hoá và tâm lí.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chung một phương thức sinh hoạt kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Chung một vùng lãnh thổ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "Các bản sắc văn hoá đa dạng của các dân tộc thống nhất với nhau ở nội dung cốt lõi nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lòng yêu chuộng hoà bình.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tinh thần quốc tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lòng yêu nước,",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tinh thần vượt khó.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "Nội dung nào dưới đây là nguyên nhân dẫn đến việc hình thành dân tộc có sự khác nhau giữa các khu vực trên thế giới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự khác nhau về vị trí địa lí, điều kiện tự nhiên và ý thức tộc người.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự khác nhau về vị trí địa lí, điều kiện tự nhiên.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự khác nhau về vị trí địa lí, tài nguyên thiên nhiên.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự khác nhau về yếu tố kinh tế, xã hội và ý thức tộc người.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "Khắc phục sự chênh lệch về trình độ phát triển kinh tế, văn hóa xã hội giữa các dân tộc, tạo điều kiện để các dân tộc còn lạc hậu phát triển nhanh trên con đường tiến bộ là điều kiện để đảm bảo việc thi hiện quyền nào dưới đây của các dân tộc trong một quốc gia đa dân tộc.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bình đẳng.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hợp tác.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát triển.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giao lưu.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "Giải quyết tốt vấn đề đoàn kết dân tộc và quan hệ dân tộc trong mối liên hệ tộc người, giữa các tộc người và liên quốc gia trong xu thế toàn cầu hoá là nội dung của chính sách dân tộc trong lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "ngoại giao.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "quốc phòng, an ninh.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 45,
+        "question_text": "Dấu hiệu xác định không gian sinh tồn, vị trí địa lí của một dân tộc, biểu thị vùng đất, vùng trời, vùng biển mà mỗi dân tộc được quyền sở hữu là nội dung của khái niệm",
+        "options": [
+          {
+            "id": "a",
+            "text": "biên giới.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "lãnh thổ.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tổ quốc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "địa giới hành chính,",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 46,
+        "question_text": "Tất cả mọi dân tộc (kể cả bộ tộc và chủng tộc) dù lớn hay nhỏ, dù đông người hay ít người, dù phát triển ở trình độ cao hay - có quyền lợi và nghĩa vụ ngang nhau... là nội dung thể hiện quyề dưới đây của các dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tự quyết.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bình đẳng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hợp tác.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Độc lập.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 47,
+        "question_text": "Các dân tộc được tự do lựa chọn con đường phát triển, lựa chọn nội dung của quyền chế độ chính trị trong quá trình vận động, phát triển của dân tộc mình là",
+        "options": [
+          {
+            "id": "a",
+            "text": "bình đẳng giữa các dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "dân tộc tự quyết.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "hợp tác giữa các dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giao lưu giữa các dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 48,
+        "question_text": "Điều từ ngữ thích hợp vào chỗ trống: Văn kiện Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam đã khẳng định: “Độc lập dân tộc là điều kiện ...... để thực hiện chủ nghĩa xã hội và chủ nghĩa xã hội là ...... bảo đảm vững chắc cho độc lập dân tộc”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "quyết định, cơ sở.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "căn bản, nền tảng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tiên quyết, căn bản.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tiên quyết, cơ sở.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 49,
+        "question_text": "Chủ tịch Hồ Chí Minh khẳng định mục tiêu cao nhất của cách mạng dân tộc dân chủ ở Việt Nam là giành độc lập dân tộc, chủ quyền quốc gia. Khẳng định này xuất phát từ cơ sở nào dưới đây”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cách mạng Việt Nam cần có sự ủng hộ của dân tộc quốc tế.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Có độc lập mới có chủ quyền lãnh thổ, nhân dân mới có tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đó là tất cả những gì Chủ tịch Hồ Chí Minh mong muốn cho Tổ quốc, cho đồng bào.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Độc lập tự do là nội dung cốt lõi của vấn đề dân tộc thuộc địa.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 50,
+        "question_text": "Sự hình thành của một số dân tộc ở đâu dưới đây có sự tham gia của nhóm người nhập cư từ châu u và châu lục khác trong quá trình xâm lược thuộc địa của chủ nghĩa đế quốc, thực dân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Châu Mỹ.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Châu Phi.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Châu Đại Dương.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Châu Á.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 51,
+        "question_text": "Ở các nước phương Tây, dân tộc ra đời vào khoảng",
+        "options": [
+          {
+            "id": "a",
+            "text": "thế kỉ XI.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "thế kỉ XIII.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "thế kỉ XV.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "thế kỉ XII.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 52,
+        "question_text": "Theo Chủ tịch Hồ Chí Minh, con đường duy nhất để dân tộc Việt Nam giành được độc lập, nhân dân Việt Nam được tự do là",
+        "options": [
+          {
+            "id": "a",
+            "text": "thực hiện đấu tranh giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "lật đổ giai cấp phong kiến.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "cách mạng vô sản.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "cách mạng giải phóng dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 53,
+        "question_text": "Theo tư tưởng Hồ Chí Minh, điều kiện tiên quyết để tiến lên chủ nghĩa xã hội ở Việt Nam là",
+        "options": [
+          {
+            "id": "a",
+            "text": "dân tộc Việt Nam nhận được sự ủng hộ của các quốc gia dân tộc trên thế giới.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân Việt Nam được giải phóng khỏi giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp nông dân Việt Nam được giải phóng khỏi chế độ phong kiến.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "dân tộc Việt Nam được độc lập.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 54,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống: “ Bàn về hai xu hướng khách quan của sự phát triển dân tộc, VI Lênin đã viết:.” Trong quá trình phát triển của ......, có hai xu hướng - vấn đề ...... Cả hai xu hướng đó là quy luật ...... của chủ nghĩa tư bản”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "chủ nghĩa tư bản, khách quan, dân tộc, phổ biến.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chủ nghĩa tư bản, lịch sử, dân tộc, phổ biến.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "dân tộc, lịch sử, dân tộc, khách quan.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "dân tộc, phát triển, dân tộc, khách quan.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 55,
+        "question_text": "Ủng hộ các phong trào dân tộc tiến bộ, kiên quyết đấu tranh chống lại những mưu đồ lợi dụng vấn đề dân tộc làm chiêu bài để can thiệp công việc nội bộ của các nước và chia rẽ dân tộc là lưu ý khi xem xét quyền",
+        "options": [
+          {
+            "id": "a",
+            "text": "phân tách thành quốc gia độc lập.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "liên hiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tự quyết.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "bình đẳng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 56,
+        "question_text": "Nội dung nào dưới đây là nguyên nhân dẫn đến sự ra đời của dân tộc phương Tây gắn liền với sự ra đời của chủ nghĩa tư bản?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ý thức tư sản phát triển mạnh mẽ dẫn đến sự hợp nhất các bộ tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giữa các địa phương có sự khác biệt về trình độ phát triển kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lực lượng sản xuất trong chủ nghĩa tư bản phát triển.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Chủ nghĩa tư bản đi chiếm các nước làm thuộc địa, mở rộng lãnh thổ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 57,
+        "question_text": "Đảm bảo an sinh xã hội, thực hiện bình đẳng, công bằng thông qua việc thực hiện chính sách phát triển kinh tế – xã hội, xóa đói giảm nghèo, dân số, y tế, giáo dục trên cơ sở chú ý đến tính đặc thù mỗi vùng, mỗi dân tộc là nội dung của chính sách dân tộc trong lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "kinh tế quốc phòng, an ninh.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giáo dục.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chính trị.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 58,
+        "question_text": "Theo tư tưởng Hồ Chí Minh, những cán bộ địa phương, nhân dân địa phương thường không cố gắng, cái gì cũng cho mình là không làm được, bởi",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư tưởng dựa dẫm.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tự ti rằng mình là dân tộc nhỏ bé.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tư tưởng dân tộc hẹp hòi.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tự đại dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 59,
+        "question_text": "Quyền bình đẳng của các dân tộc phải được ghi vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "luật pháp quốc gia, quy định của từng tộc người.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "công pháp khu vực, luật pháp quốc gia.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "công pháp quốc tế, luật pháp quốc gia.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "công pháp và công ước quốc tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 60,
+        "question_text": "Trong thời đại của chủ nghĩa tư bản, xu hướng hình thành các quốc gia dân tộc độc lập này biểu hiện thành phong trào nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đấu tranh chống cưỡng bức văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đấu tranh chống áp bức dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đấu tranh chống áp bức giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đấu tranh chống áp bức, bóc lột.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 61,
+        "question_text": "Đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa bá quyền nước lớn, chống sự áp bức bóc lột, sự vi phạm lợi ích của nước lớn, nước phát triển đối với các nước nhỏ, lạc hậu, chậm phát triển là biểu hiện của quyền",
+        "options": [
+          {
+            "id": "a",
+            "text": "tự do trong quan hệ giữa các quốc gia dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tự quyết trong quan hệ giữa các quốc gia dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bình đẳng trong quan hệ giữa các quốc gia dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "giao lưu trong quan hệ giữa các quốc gia dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 62,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống trong câu nói sau của Chủ tịch Hồ Chí Minh: “... cho đồng bào tôi, ... cho Tổ quốc tôi, đấy là tất cả những điều tôi muốn; đấy là tất cả những điều tôi hiểu”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Độc lập, tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hạnh phúc, tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hạnh phúc, độc lập.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tự do, độc lập.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 63,
+        "question_text": "Tiêu chí nào dưới đây là quan trọng nhất để phân định tộc người này với tộc người khác và có vị trí quyết định đối với sự tồn tại triển của mỗi tộc người?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự nâng cao đời sống vật chất và tinh thần.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự phát triển về kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự tiến bộ trong nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ý thức tự giác tộc người.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 64,
+        "question_text": "Đặc điểm nào dưới đây của dân tộc Việt Nam vừa tạo cơ sở cho sự đoàn kết, thống nhất hữu cơ giữa các dân tộc, vừa tiềm ẩn nguy cơ của những mâu thuẫn, thậm chí sự kì thị hoặc xung đột trong quan hệ dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các dân tộc Việt Nam có ý thức cộng đồng cao.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Các dân tộc Việt Nam có tinh thần yêu nước.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các dân tộc Việt Nam có địa bàn cư trú đan xen.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc Việt nam có trình độ phát triển khác nhau,",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 65,
+        "question_text": "Khi xem xét quyền tự quyết của dân tộc cần đứng vững trên lập trường của",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "giai cấp nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "đội ngũ doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "đội ngũ trí thức.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 66,
+        "question_text": "Giữ gìn và phát huy giá trị văn hoá truyền thống của các tộc người, phát triển ngôn ngữ, xây dựng đời sống văn hoá ở cơ sở, nâng cao trình độ văn hoá cho nhân dân các dân tộc là nội dung của chính sách dân tộc trong lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "giáo dục.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hoá.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 67,
+        "question_text": "Mục tiêu chính trị chủ yếu của mọi quốc gia trong thời đại ngày nay là",
+        "options": [
+          {
+            "id": "a",
+            "text": "chủ nghĩa xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "liên kết khu vực.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "độc lập dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "liên minh quốc tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 68,
+        "question_text": "Lợi ích của công nhân ở dân tộc áp bức và dân tộc bị áp bức đều thống nhất là cơ sở khách quan của nguyên tắc nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Liên hiệp công nhận tất cả các dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Các dân tộc có quyền tự quyết.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các dân tộc có quyền tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc hoàn toàn bình đẳng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 69,
+        "question_text": "“Đề án tổng thể phát triển kinh tế – xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2011 - 2030” được Chính phủ phê duyệt vào năm",
+        "options": [
+          {
+            "id": "a",
+            "text": "2017.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "2019.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "2018.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "2020.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 70,
+        "question_text": "Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin thể hiện quan điểm, lập trường của chủ thể nào dưới đây trong giải quyết quan hệ dân tộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đội ngũ trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhân dân lao động.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp công nhân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 71,
+        "question_text": "Lí do nào dưới đây làm xuất hiện nhu cầu xóa bỏ hàng rào ngăn cách , tạo nên mối quan hệ quốc gia và quốc tế rộng lớn, thúc đẩy các dân tộc xích lại gần nhau?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự xâm lược của các nước đế quốc thực dân, phong trào đấu tranh của các nước thuộc địa, phụ thuộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự phát triển của lực lượng sản xuất, khoa học công nghệ, giao lưu kinh tế và văn hoá.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Sự phát triển của khoa học công nghệ đặc biệt là lĩnh vực giao thông vận tải.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chính sách mở cửa các nhà nước trong hoạt động kinh tế.",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

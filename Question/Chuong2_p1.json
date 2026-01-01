@@ -1,0 +1,1152 @@
+{
+  "quiz": {
+    "title": "Chương 2",
+    "total_questions": 44,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "giai cấp công nhân là sản phẩm của nền đại công nghiệp trong phương thức sản xuất tư bản chủ nghĩa, là chủ thể của quá trình sản xuất vật chất hiện đại, vì thế, giai cấp công nhân là lực lượng",
+        "options": [
+          {
+            "id": "a",
+            "text": "phá vỡ quan hệ sản xuất tư bản chủ nghĩa, giành chính quyền về tay giai cấp mình",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "phá vỡ quan hệ sản xuất sản xuất tư bản chủ nghĩa, giành chính quyền cho giai cấp nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "phá vỡ quan hệ sản xuất xã hộ chủ nghĩa, giành chính quyền về tay giai cấp mình",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phá vỡ các quan hệ sản xuất phong kiến, giành chính quyền về tay giai cấp mình",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "giai cấp công nhân đại diện cho lực lượng sản xuất hiện đại, là lực lượng quyết định phá vỡ",
+        "options": [
+          {
+            "id": "a",
+            "text": "quan hệ giữa tư sản và các giai tầng khác trong xã hội tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "máy móc trong các nhà máy xí nghiệp của các nhà tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quan hệ sản xuất tư bản chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "chủ nghĩa tư bản độc quyền",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "nội dung nào dưới đây không phải là sứ mệnh lịch sử thế giới của giai cấp công nhân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "xây dựng xã hội cộng sản chủ nghĩa văn minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xóa bỏ tận gốc chế độ người bóc lột người, giải phóng cho giai cấp tư sản",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "xóa bỏ tận gốc chế độ người bóc lột người, xóa bỏ chủ nghĩa tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giải phóng cho giai cấp công nhân và toàn thể nhân loại bị áp bức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "nội dung nào dưới đây là phạm trù trung tâm, là nguyên lí xuất phát của chủ nghĩa xã hội khoa học",
+        "options": [
+          {
+            "id": "a",
+            "text": "chủ nghĩa xã hội và thời kì quá độ lên chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "vấn đề dân tộc trong thời kì quá độ lên chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "dân chủ xã hội của chủ nghĩa và nhà nước xã hội chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sứ mệnh lịch sử thế giới của giai cấp công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "lao động trực tiếp hoặc gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao là nội dung thể hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "địa vị xã hội của người công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "vị trí trong quan hệ sản xuất tư bản chủ nghĩa của người công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "công cụ lao động của người công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phương thức lao động của người công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "giai cấp nào dưới đây là sản phẩm của bản thân nền đại công nghiệp, là chủ thể của quá trình sản xuất vật chất hiện đại?",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "giai cấp chủ nô",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "giai cấp, tầng lớp nào dưới đây chỉ có thể sống với điều kiện là kiếm được việc làm, và chỉ kiếm được việc làm, nếu lao động của họ làm tăng thêm tư bản?",
+        "options": [
+          {
+            "id": "a",
+            "text": "địa chủ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nông dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "giai cấp nào dưới đây là con đẻ của nền đại công nghiệp tư bản chủ nghĩa",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp địa chủ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "giai cấp, tầng lớp nào dưới đây không sở hữu tư liệu sản xuất chủ yếu, phải bán sức lao động cho nhà tư bản và bị nhà tư bản bóc lột giá trị thặng dư",
+        "options": [
+          {
+            "id": "a",
+            "text": "doanh nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tiểu tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "biểu hiện về mặt xã hội của mâu thuẫn cơ bản trong phương thức sản xuất tư bản chủ nghĩa là mâu thuẫn giữa:",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp công nhân và giai cấp tư sản",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "các tập đoàn tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tư bản và lao động",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "lực lượng sản xuất và quan hệ sản xuất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "phát biểu nào dưới đây không phải là đặc điểm của giai cấp công nhân mang sứ mệnh lịch sử thế giới",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp công nhân là giai cấp đại diện cho lực lượng sản xuất tiến bộ của thời đại",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân là lực lượng động đảo và tiên phong",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp công nhân là lực lượng đại diện cho khuynh hướng tiến bộ của nhân loại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân là lực lượng tiến bộ nhưng chỉ bảo vệ lợi ích cho giai cấp mình",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "sứ mệnh lịch sử thế giới của giai cấp công nhân được quy định bởi",
+        "options": [
+          {
+            "id": "a",
+            "text": "nguyện vọng của nhân dân lao động",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "địa vị kinh tế, chính trị - xã hội của giai cấp công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "nguyên vọng của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sự lãnh đạo của đảng cộng sản đối cới giai cấp công nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "cải tạo cái cũ, lỗi thời, lạc hậu, xây dựng cái mới, tiến bộ trong lĩnh vực ý thức tư tưởng, trong tâm lí, lối sống và trong đời sống tinh thần xã hội là nhiệm vụ của giai cấp công nhân trong lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tâm lí, ý thức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hóa, tư tưởng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "lực lượng nào dưới đây là đại biểu cho lực lượng sản xuất tiên tiến, cho phương thức sản xuất tiên tiến, quyết định sự tồn tại và phát triển của xã hội hiện đại?",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đọi ngũ trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "sử dụng nhà nước của mình để cải tạo xã hội cũ và tổ chức xây dựng xã hội mới, phục vụ quyền và lợi ích của nhân dân lao động theo lí tưởng và mục tiêu của chủ nghĩa xã hội là nhiệm vụ của giai cấp công nhân trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hóa, tư tưởng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị - xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "giai cấp công nhân lao động bằng phương thức công nghiệp với đặc trưng công cụ lao động là",
+        "options": [
+          {
+            "id": "a",
+            "text": "trí óc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "máy móc có tính chất công nghiệp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "ruộng đất",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "con trâu, cái cày",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "quan điểm nào sau đây phản ánh đúng về việc xóa bỏ hình thái kinh tế - xã hội tư bản chủ nghĩa?",
+        "options": [
+          {
+            "id": "a",
+            "text": "xóa bỏ văn hóa và tư tưởng bóc lột trong chủ nghĩa tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xóa bỏ cả quan hệ sản xuất bóc lột và lực lượng sản xuất trong chủ nghĩa tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xóa bỏ quan hệ sản xuất bóc lột và kế thừa thành tựu tiến bộ về lực lượng sản xuất trong chủ nghĩa tư bản",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "xóa bỏ lực lượng sản xuất và kế thừa thành tự tiến bộ về quan hệ sản xuất trong chủ nghĩa tư bản",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "“Các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản là sản phẩm của bản thân nền đại công nghiệp” là luận điểm của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ph.Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "V.I. Lênin",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "C.Mác",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "C.Mác và Ph.Ăngghen",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "giai cấp công nhân là sản phẩm của nền đại công nghiệp trong phương thức sản xuất tư bản chủ nghĩa, là chủ thế của quá trình sản xuất vật chất hiện đại, vì thế giai cấp công nhân đại diện cho",
+        "options": [
+          {
+            "id": "a",
+            "text": "phương thức sản xuất lỗi thời và lực lượng sản xuất hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "phương thức sản xuất lỗi thời và lực lượng sản xuất lạc hậu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "phương thức sản xuất tiên tiến và lực lượng sản xuất lạc hậu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Xóa bỏ quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản về tư liệu sản xuất chủ yếu, xâu dựng quan hệ sản xuất mới, phù hợp với tính chất xã hội hóa cao của lực lượng sản xuất, với chế độ công hữu về tư liệu sản xuất chủ yếu của xã hội là nhiệm vụ của giai cấp công nhân trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị - xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tư tưởng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "tinh thần đoàn kết, ý thức tổ chức kỉ luật cao là nội dung thể hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "địa vị kinh tế - xã hội của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đặc điểm vốn có của con người nói chung",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "thói quen của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "đặc điểm chính trị - xã hộ của giai cấp công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "để thực hiện sứ mệnh lịch sử của mình, bước đầu tiên giai cấp công nhân phải làm là",
+        "options": [
+          {
+            "id": "a",
+            "text": "xóa bỏ sự bóc lột đem lại hạnh phúc, ấm no cho nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giành chính quyền, thiết lập được nhà nước của giai cấp mình",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "liên minh với nông ndân, giải phóng cho loià người",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cải tạo xã hội cũ, xây dựng thành công xã hội mới – xã hội cộng sản chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "sứ mệnh lịch sử của giai cấp công nhân không phải là thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác mà là",
+        "options": [
+          {
+            "id": "a",
+            "text": "xóa bỏ hoàn toàn chế độ công hữu về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xóa bỏ phần lớn chế độ tư hữu về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xóa bỏ triệt để tư hữu về tư liệu sản xuất chủ yếu",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "xóa bỏ một phần chế độ tư hữu về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "xây dựng con người mới, đạo đức và lối sống mới xã hội chủ nghĩa là một trong những nhiệm vụ đặt ra đối với sứ mệnh lịch sử của giai cấp công nhân trong lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hóa, tư tưởng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "đạo đức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tâm lí, ý thức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "quan điểm nào dưới đây không đúng về giai cấp công nhân",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp công nhân là lực lượng chủ yếu của tiến trình lịch sử quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp công nhân là một tập đoàn xã hội ổn định, hình thành và phát triển cùng với quá trình phát triển của nền công nghiệp hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân là giai cấp không đại diện cho quan hệ sản xuất tiên tiến",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "muốn thực hiện sứ mệnh lịch sử thế giới của mình, giai cấp công nhân phải",
+        "options": [
+          {
+            "id": "a",
+            "text": "phải lật đổ sự thống trị của giai cấp tư sản, giành chính quyền về tay giai cấp mình, thiết lập nhà nước chuyên chính vô sản, cải tạo xã hội cũ, xây dựng xã hội mới",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "lật đổ sự thống trị của giai cấp tiểu tư sản, giành chính quyền về tay giai cấp mình, cải tạo xã hội vũ, xây dựng xã hội mới",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "lật đổ sự thống trị của bộ phận đại tư sản, giành chính quyền về tay giai cấp mình, cải tạo xã hội cũ, xây dựng xã hộ mới",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "lật đổ sự thống trị của giai cấp vô sản, giành chính quyền về tay giai cấp mình, thiệt lập nhà nước, cải tạo xã hộ cũ, xây dựng xã hội mới",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "phát biểu nào dưới đây không đúng về điều kiện khách quan, quy định sứ mệnh lịch sử thế giới của giai cấp công nhân",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp công nhân là giai cấp vô cùng nghèo khổ",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân đại diện cho lực lượng sản xuất hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp công nhân đại diện cho phương thức sản xuất tiến tiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân là giai cấp đại biẻu cho tương lai, cho xu thế đi lên của tiến trình phát triển lịch sử",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "giữa giai cấp công nhân và giai cấp nông dân có",
+        "options": [
+          {
+            "id": "a",
+            "text": "toàn bộ lợi ích thống nhất với nhau",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "lợi ích hoàn toàn khác nhau",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "lợi ích hoàn toàn đối lập nhau",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nhiều lợi ích cơ bản thống nhất với nhau",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "lực lượng nào dưới đây buộc phải tự bán mình để kiếm ăn từng bữa, là một hàng hóa, tức là một món hàng đem bán như bất cứ món hàng nào khác, vì thế, họ phải chịu hết mọi sự may rủi của cạnh tranh, mọi sự lên xuống của thị trường?",
+        "options": [
+          {
+            "id": "a",
+            "text": "nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "người làm nghề tự do",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tiểu tư sản",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "nội dung nào dưới đây là nguồn gốc cơ bản của giá trị thặng dư và sự giàu có của giai cấp tư bản",
+        "options": [
+          {
+            "id": "a",
+            "text": "lao động sống của giai cấp công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "kinh tế thị trường",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quá trình trao đổi, mua bán",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "hoạt động thương mại",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "phát biểu nào dưới đây không đúng về giai cấp công nhân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp công nhân là giai cấp có sứ mệnh phủ định chế độ tư bản chủ nghĩa, xây dựng thành công chủ nghĩa xã hội và chủ nghĩa cộng sản trên toàn thế giới",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân là người làm thuê do không có tư liệu sản xuất, buộc phải bản sức lao động để sống, không bị giai cấp tư sản bóc lột giá trị thặng dư",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "giai cấp công nhân là người làm thuê do không có tư liệu sản xuất, buộc phải bán sức lao động để sống và bị giai cấp tư sản bóc lột giá trị thặng dư",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "lợi ích cơ bản của giai cấp công nhân đối lập với lợi ích cơ bản của giai cấp tư sản",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "lật đổ quyền thống trị của giai cấp tư sản, giành quyền lực về tay giai cấp công nhân và nhân dân lao động, thiệt lập nhà nước mang bản chất giai cấp công nhân, xây dựng nền dân chủ xã hộ chủ nghĩa, thực hiền quyền lực của nhân dân, quyền dân chủ và làm chủ xã hộ của tuyệt đại đa số nhân dân lao động là nhiệm vụ của giai cấp công nhân trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư tưởng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị - xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hóa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "xây dựng hệ giá trị mới: lao động, công bằng, dân chủ, bình đẳng và tự do là nhiệm vụ của giai cấp công nhân trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hóa, tư tưởng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "về vị trí trong quan hệ sản xuất tư bản chủ nghĩa, công nhân là những người lao động",
+        "options": [
+          {
+            "id": "a",
+            "text": "có sở hữu tư liệu sản xuất là sức lao động",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "không sở hữu bất cứ tư liệu sản xuất nào của xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "không sở hữu tư liệu sản xuất chủ yếu của xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "có sử hữu tư liệu sản xuất là kinh nghiệm cá nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "tiếp thu có chọn lọc, trên tinh thần vê phán những tinh hóa giá trị, những thành tựu văn hóa tư tưởng của mọi thời đại, kể rcả thời đại tư sản trong lịch sử văn hóa và văn minh của nhân loại là điều mà giai cấp công nhân cần chú ý khi thực hiện sứ mệnh của mình trong lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "văn hóa tư tưởng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản là mâu thuẫn",
+        "options": [
+          {
+            "id": "a",
+            "text": "về lợi ích không cơ bản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đối kháng trực tiếp về lợi ích",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "đối kháng gián tiếp về lợi ích",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "không đối kháng về lợi ích",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "xây dựng và củng cố ý thức hệ tiên tiến của giai cấp công nhân, đấu tranh để khắc phục ý thức hệ tư sản và các tàn dư còn sót lại của các hệ tư tưởng cũ là nhiệm vụ của giai cấp công nhân trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "văn hóa tư tưởng",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "chính trị",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "mâu thuẫn giữ lực lượng sản xuất mang tính xã hội hóa ngày càng cao với quan hệ sản xuất dựa trên chế độ chiếm hữu nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu là mâu thuẫn cơ bản của phương thức sản xuất nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "cộng sản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chiếm hữu nô lệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tư bản chủ nghĩa",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "nền sản xuất đại công nghiệp và phương thức sản xuất tiên tiến đã rèn luyện cho giai cấp công nhân những phẩm chất đặc biệt về tính tổ chức, kỉ luật lao động, tinh thần hợp tác và",
+        "options": [
+          {
+            "id": "a",
+            "text": "tâm lí lao động nông nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tâm lí lao động công nghiệp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tâm lí lao động tư do",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tác phong nông nghiệp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Câu nói: “cùng với sự phát triển của đại công nghiêp (...) giai cấp tư sản sản sinh ra người đào huyệt chôn chính nó. Sự sụp đổ của giai cấp tư sản và thắng lợi của giai cấp vô sản đều là tất yếu như nhau” phản ánh nội dung nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "nhấn mạnh vai trò của đảng cộng sản trong việc thực hiện sứ mệnh lịch sử thế giới của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "khẳng định tính tất yếu chủ quan trong sứ mệnh lịch sử của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "khẳng định nguyên vọng đưuọc giải phóng mình của nhân dân lao động",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "khẳng định tính tất yếu khách quan trong sứ mệnh lịch sử của giai cấp công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "thực hiện công nghiệp hóa, gắn liền với công nghiệp hóa với hiện đại hóa, đẩy mạnh công nghiệp hóa gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường là nhiệm vụ của giai cấp công nhân trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị - xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tư tưởng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hóa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "mục tiêu nào dưới đây là mục tiêu lớn nhất mà giai cấp công nhân thực hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "xóa bỏ tận gốc chế độ nô lệ làm thuê",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xóa bỏ tận gốc chế độ tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xóa bỏ tận gốc chế độ phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xóa bỏ tận gốc chế độ người bóc lột người",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "trong chủ nghĩa tư bản, mục tiêu của công nhân là xóa bỏ quan hệ xản xuất dựa trên chế độ",
+        "options": [
+          {
+            "id": "a",
+            "text": "sở hữu chung về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "sở hữu công cộng về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "công hữu về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sở hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "mục tiêu cao nhất trong viẹce thực hiện sứ mệnh lịch sử thế giới của giai cấp công nhân là",
+        "options": [
+          {
+            "id": "a",
+            "text": "giải phóng dân tộc khỏi ách áp bức của chủ nghĩa thực dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giải phóng con người",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "giải phóng nông dân khỏi chế độ phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giành chính quyền, thiết lập nhà nước mới",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

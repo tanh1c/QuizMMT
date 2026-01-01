@@ -1,0 +1,1058 @@
+{
+  "quiz": {
+    "title": "Ôn tập",
+    "total_questions": 40,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Dân chủ được xem xét dưới góc độ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phạm trù chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phạm trù lịch sử",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phạm trù văn hoá",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Sự thay đổi căn bản, toàn diện và triệt để một hình thái kinh tế – xã hội này bằng một hình thái kinh tế – xã hội khác là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tiến bộ xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cách mạng xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đột biến xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cải cách xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Sứ mệnh lịch sử của giai cấp công nhân do các yếu tố khách quan nào quy định?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Địa vị kinh tế - xã hội và đặc điểm chính trị - xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Là con đẻ của nền đại công nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Do sự phát triển của lực lượng sản xuất hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đường lối, chính sách",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hiến pháp, pháp luật",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tuyên truyền, giáo dục.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Điền từ vào ô trống: “Lực lượng sản xuất hàng đầu của nhân loại là…, là người lao động” ( V.I.Lênin).",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học kỹ thuật",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nền đại công nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là bỏ qua yếu tố nào của chủ nghĩa tư bản?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bỏ qua chế độ áp bức bóc lột của giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư tưởng tư bản chủ nghĩa.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Bỏ qua cơ sở kinh tế của chủ nghĩa tư bản.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bỏ qua nhà nước của giai cấp tư sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Do sự phát triển của lực lượng sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đảng cộng sản Việt Nam đã có đường lối đúng đắn",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Vì nó phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Vì nó đáp ứng được nguyện vọng và mong ước của nhân dân ta",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Những biểu hiện cơ bản của tư tưởng xã hội chủ nghĩa là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Là những ước mơ nguyện vọng về một chế độ xã hội ai cũng có việc làm ai cũng lao động .",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Là quan niệm về một chế độ xã hội mà tư liệu sản xuất đều thuộc về mọi thành viên xã hội .",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Là những tư tưởng về một xã hội, trong đó mọi người đều bình đẳng, có cuộc sống ấm no, tự do, hạnh phúc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Ai là người được Ph.Ăngghen nhận xét là “có tầm mắt rộng thiên tài” ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phurie",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Xanh Ximông",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ôoen",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "G. Ba lớp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Chọn từ thích hợp điền vào ô trống “đối với chúng ta, chủ nghĩa cộng sản không phải là một …. (1) cần phải sáng tạo ra, không phải là một …(2) mà hiện thực phải khuôn theo. Chúng ta gọi chủ nghĩa cộng sản là một phong trào….(3) nó xoá bỏ trạng thái hiện nay” (C.Mác: Hệ tư tưởng Đức).",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trạng thái(1), lý tưởng (2), hiện thực (3)",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hiện thực (1), lý tưởng (2), trạng thái (3)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Trạng thái (1), hiện thực (2), lý tưởng (3)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lý tưởng(1), trạng thái (2), hiện thực (3)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Trong xã hội có giai cấp, cơ cấu nào có vị trí quyết định nhất, chi phối các loại hình cơ cấu xã hội khác?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội - giai cấp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội - nghề nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội - dân số",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Nguyên nhân nào dẫn đến sự sụp đổ của CNXH ở Liên Xô và Đông Âu:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quan niệm và vận dụng không đúng đắn về CNXH",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Những sai lầm của Đảng và của những người lãnh đạo cấp cao nhất Đảng Cộng sản Liên Xô.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự chống phá của chủ nghĩa đế quốc và các thế lực thù địch bằng “Diễn biến hoà bình”",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Khi phân tích về thời kỳ quá độ lên chủ nghĩa xã hội, ai là người đầu đặt vấn đề phải học tập các kinh nghiệm tổ chức, quản lý kinh tế của chủ nghĩa tư bản để cải tạo nền kinh tế tiểu nông lạc hậu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "C.Mác",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Stalin",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I. Lênin",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Cơ cấu xã hội nào có vai trò quan trọng nhất:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu nghề nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu dân cư",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu giai cấp",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Khái niệm nào trong sau đây được dùng để chỉ một cộng đồng người ổn định được hình thành trong lịch sử trong một lãnh thổ nhất định, có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hoá?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quốc gia",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bộ lạc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bộ tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Dân tộc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Đặc trưng nổi bật trong quan hệ giữa các dân tộc ở nước ta là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Là các dân tộc có bản sắc văn hoá riêng, đa dạng, phong phú.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Là có sự chênh lệch về trình độ phát triển kinh tế - xã hội giữa các dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Là sự phân bố đan xen nhau, không một dân tộc nào có lãnh thổ riêng.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Là sự cố kết dân tộc, hoà hợp dân tộc trong một cộng đồng thống nhất.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Hiện nay tôn giáo nào ở Việt Nam có số lượng tín đồ đông nhất?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phật giáo",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hồi giáo",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tin lành",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công giáo",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Giai cấp nào không có hệ tư tưởng riêng.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp nông dân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp vô sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp phong kiến",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Câu “Tôi coi sự phát triển của những hình thái kinh tế xã hội là một quá trình lịch sử tự nhiên” là của ai ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "C.Mác",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Ph.Ăng ghen",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "C.Mác và Ph.Ăng ghen",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I.Lênin",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Theo Lênin, quy luật hình thành và phát triển Đảng cộng sản của giai cấp công nhân là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ nghĩa Mác – Lênin kết hợp với Phong trào công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chủ nghĩa Mác – Lênin kết hợp với phong trào công nhân và Phong trào yêu nước",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chủ nghĩa Mác kết hợp với phong trào công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Chủ nghĩa xã hội nghiên cứu vấn đề tín ngưỡng, tôn giáo dưới góc độ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hình thái ý thức xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cả a, b và c",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Góc độ chính trị-xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tâm lý-xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Ai là người đã nêu ra “Tuyên ngôn của những người bình dân”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Morenly",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xanh Ximông",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tômát Morơ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Grắccơ Babớp",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Quốc tế cộng sản là tên gọi khác của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quốc tế III",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hội liên hiệp công nhân quốc tế",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Quốc tế II",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Quốc tế I",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Tác phẩm nào được Lênin coi là cuốn bách khoa toàn thư thực sự của chủ nghĩa cộng sản ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chống Đuy rinh",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Tuyên ngôn của Đảng cộng sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đấu tranh giai cấp ở Pháp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự khốn cùng của triết học",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Điền từ còn thiếu vào chỗ trống: Tôn trọng, bảo đảm quyền tự do ... và không ... của nhân dân.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tín ngưỡng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Tín ngưỡng - tôn giáo",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tôn giáo",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tôn giáo - tín ngưỡng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Tư tưởng về “Giang sơn ngàn năm của Chúa” xuất hiện ở thời đại nào.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cộng sản nguyên thuỷ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thời cổ đại",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Thời cận đại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thời phục hưng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Ai đã nhận xét: “ ý nghĩa của chủ nghĩa không tưởng phê phán và của chủ nghĩa cộng sản không tưởng phê phán là tỉ lệ nghịch với thời gian”",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ph.Ăng ghen",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "C.Mác và Ph.Ăng ghen",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "C.Mác",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I. Lênin",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Để tăng cường, củng cố khối đại đoàn kết dân tộc ở nước ta hiện nay thì chính sách cụ thể nào của Đảng và Nhà nước ta được coi là vấn đề cực kỳ quan trọng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng cường bồi dưỡng, đào tạo đội ngũ cán bộ là người dân tộc thiểu số.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phát triển kinh tế hàng hoá ở các vùng dân tộc thiểu số.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phát huy truyền thống đoàn kết giữa các dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tôn trọng lợi ích, truyền thống, văn hoá của các dân tộc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Tôn giáo hình thành là do:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trình độ nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trong xã hội có áp bức bóc lột.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Do tâm lý, tình cảm.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b và c",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Điền từ còn thiếu vào chỗ trống: Nhà nước xã hội chủ nghĩa vừa có bản chất giai cấp công nhân, vừa có tính nhân dân rộng rãi và tính ... sâu sắc.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhân đạo",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cộng đồng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Trong Văn kiện Đại hội IX, Đảng ta xác định phải tiếp thu và kế thừa những gì của chủ nghĩa tư bản trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa, đặc biệt về khoa học và công nghệ, để phát triển nhanh lực lượng sản xuất, xây dựng nền kinh tế hiện đại.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Tiếp thu, kế thừa mô hình quản lý kinh tế - xã hội và thành tựu khoa học công nghệ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tiếp thu, kế thừa những giá trị kinh tế, chính trị, văn hoá - xã hội và pháp luật trong chủ nghĩa tư bản.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả ba đều sai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Hãy tìm ý đúng trong các phương án dưới đây. Trong Văn kiện Đại hội đại biểu toàn quốc lần thứ IX, Đảng Cộng sản Việt Nam đã nêu rõ:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vấn đề dân tộc và tăng cường khối đại đoàn kết toàn dân tộc là vấn đề chiến lược của Việt Nam hiện nay.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vấn đề dân tộc và đoàn kết các dân tộc luôn có vị trí chiến lược trong sự nghiệp cách mạng.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Vấn đề dân tộc và đoàn kết các dân tộc có vị trí quyết định đến sự sống còn của dân tộc ta hiện nay.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Vấn đề dân tộc có vai trò quan trọng đối với sự nghiệp phát triển kinh tế - xã hội ở nước ta hiện nay.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Nguyên nhân chủ yếu của những hạn chế của chủ nghĩa xã hội không tưởng là?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Do trình độ nhận thức của những nhà tư tưởng.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Do những điều kiện lịch sử khách quan quy định.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Do khoa học chưa phát triển.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b, c.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Phát hiện nào sau đây của C. Mác và Ph. Ăngghen ?",
+        "options": [
+          {
+            "id": "c",
+            "text": "Mác và Ph. Ăngghen ?",
+            "is_correct": false
+          },
+          {
+            "id": "a",
+            "text": "Chủ nghĩa duy vật lịch sử",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Học thuyết giá trị thặng dư",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sứ mệnh lịch sử của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cả a, b, c",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Bản chất của nhà nước xã hội chủ nghĩa là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mang bản chất của giai cấp công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mang bản chất của đa số nhân dân lao động.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Vừa mang bản chất của giai cấp công nhân, vừa mang bản chất của nhân dân lao động và tính dân tộc sâu sắc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "C. Mác và Ph. Ăngghen đã dựa vào những phát kiến nào để xây dựng luận chứng về sứ mệnh lịch sử của giai cấp công nhân.",
+        "options": [
+          {
+            "id": "c",
+            "text": "Mác và Ph. Ăngghen đã dựa vào những phát kiến nào để xây dựng luận chứng về sứ mệnh lịch sử của giai cấp công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "a",
+            "text": "Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chủ nghĩa xã hội không tưởng – phê phán",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cả ba đều đúng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Triết học cổ điển Đức và Kinh tế chính trị học cổ điển Anh.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Những đặc trưng cơ bản của chủ nghĩa xã hội mà nhân dân ta đang xây dựng hiện nay được thông qua tại:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VII",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Lý thuyết phân kỳ hình thái kinh tế-xã hội cộng sản chủ nghĩa lần đầu tiên được đề cập trong tác phẩm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nội chiến ở Pháp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tuyên ngôn của Đảng cộng sản.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phê phán Cương lĩnh Gôta.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bộ tư bản",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Định nghĩa về giai cấp được Lênin trình bày lần đầu tiên trong tác phẩm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Những nhiệm vụ trước mắt của chính quyền Xô viết",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Làm gì?",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Một bước tiến, hai bước lùi.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sáng kiến vĩ đại.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Mâu thuẫn cơ bản nổi bật của thời đại hiện nay là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mâu thuẫn giữa chủ nghĩa xã hội và chủ nghĩa tư bản",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Mâu thuẫn giữa các nước tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp tư sản và giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Các dân tộc thuộc địa và phụ thuộc với Chủ nghĩa đế quốc",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

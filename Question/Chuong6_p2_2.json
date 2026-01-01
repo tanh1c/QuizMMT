@@ -1,0 +1,975 @@
+{
+  "quiz": {
+    "title": "Chương 6",
+    "total_questions": 37,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Tôn giáo điều chỉnh hành vi đạo đức của con người thông qua",
+        "options": [
+          {
+            "id": "a",
+            "text": "các chuẩn mực đạo đức chung của xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "hệ thống quy định của địa bàn cư trú.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "các quy định của pháp luật.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "hệ thống giá trị chuẩn mực của tôn giáo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Công tác tôn giáo là trách nhiệm của cả hệ thống chính trị bao gồm | hệ thống tổ chức Đảng, chính quyền, Mặt trận Tổ quốc và",
+        "options": [
+          {
+            "id": "a",
+            "text": "các đoàn thể chính trị, do Đảng lãnh đạo.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đoàn Thanh niên, do Nhà nước lãnh đạo",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "các đoàn thể chính trị, do Nhà nước lãnh đạo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội Liên hiệp Phụ nữ, do Đảng lãnh đạo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Nội dung nào dưới đây không là nguyên nhân chính trị - xã hội dẫn tới sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nền kinh tế nhiều thành phần vận hành theo cơ chế thị trường với nhiều mặt trái của nó.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nỗi lo sợ của quần chúng nhân dân về chiến tranh, đói nghèo bệnh tật hiểm nghèo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhiều thế lực chính trị vẫn chú ý duy trì và lợi dụng tôn giáo vào các mục đích chính trị khác nhau.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tôn giáo tự biến đổi và thích nghi với điều kiện chính trị - xã hội mới để tồn tại.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Để đoàn kết các lực lượng quần chúng có tín ngưỡng, tôn giáo và không tín ngưỡng, tôn giáo, đấu tranh chống các luận điệu vu có các hoạt động lợi dụng tôn giáo chống nhà nước xã hội chủ nghĩa chúng ta phải đảm bảo nguyên tắc",
+        "options": [
+          {
+            "id": "a",
+            "text": "tôn trọng, ủng hộ các giáo hội và các chức sắc tôn giáo có ảnh hưởng lớn tới đông đảo nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "ủng hộ các tôn giáo dân tộc, bài trừ các tôn giáo khu vực và thế giới.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "ủng hộ các tôn giáo có số lượng tín đồ đông đảo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tôn trọng, đảm bảo quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng, tôn giáo của quần chúng nhân dân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "“Không được tuyên bố chiến tranh với tôn giáo” là câu nói của.",
+        "options": [
+          {
+            "id": "a",
+            "text": "V.I. Lênin.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hồ Chí Minh.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "C. Mác.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Tính đến tháng 12/2017, Việt Nam có khoảng bao nhiêu tổ chức tôn giáo được công nhận về mặt tổ chức hoặc đã đăng kí hoạt động)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trên 40 tổ chức.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Dưới 40 tổ chức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Trên 35 tổ chức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trên 30 tổ chức.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Con người đôi khi vẫn cảm thấy sợ hãi, lo lắng, bất an khi đối diện với những tác động bởi sức mạnh tự phát từ tự nhiên, xã hội là nguyên nhân dẫn tới sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội ở lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tâm lí.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Việc theo đạo, đổi đạo, hay không theo đạo thuộc quyền tự do lựa chọn của mỗi người dân, không cá nhân, tổ chức nào được quyền can thiệp vào sự lựa chọn này là nội dung của nguyên tắc",
+        "options": [
+          {
+            "id": "a",
+            "text": "tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng, tôn giáo của quần chúng nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "quan điểm lịch sử cụ thể trong việc giải quyết vấn đề tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "phân biệt hai mặt chính trị và tư tưởng của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "khắc phục dần những ảnh hưởng tiêu cực của tôn giáo phải gắn liền với quá trình cải tạo xã hội cũ, xây dựng xã hội mới.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Quan điểm: “Những người Công giáo Việt Nam theo Pháp và bù nhìn, làm hại đồng bào, chẳng những là Việt gian, mà cũng là giáo gian. Còn những đồng bào Công giáo kháng chiến mới là tín đồ chân chính của Đức Chúa” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Võ Nguyên Giáp. .",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phan Bội Châu.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phạm Văn Đồng.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hồ Chí Minh.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Mục đích trong chủ trương đoàn kết những người có tín ngưỡng, không có tín ngưỡng của Chủ tịch Hồ Chí Minh là",
+        "options": [
+          {
+            "id": "a",
+            "text": "dần xoá bỏ tôn giáo ra khỏi đời sống xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "mở rộng giao lưu tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xây dựng khối đại đoàn kết dân tộc.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tạo điều kiện thuận lợi cho sự phát triển của tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Trong tôn giáo, con người đã biến cái chủ quan thành khách quan, biến cái chỉ tồn tại trong tư duy của mình, trong sự tưởng tượng của mình thành một cái tồn tại ở bên ngoài tư duy của mình và gán cho nó một sức mạnh siêu nhiên là nội dung thể hiện tính chất nào dưới đây trong sự phản ảnh thế giới của tôn giáo”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khách quan, mơ hồ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chân thực, khách quan.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hoang đường, hư ảo.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Chân thực, chủ quan.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Nội dung nào dưới đây không là đặc điểm cơ bản của tình hình tôn giáo ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đa tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đa dạng, đan xen, chung sống hoà bình, không có xung đột, chiến tranh tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hoạt động tôn giáo không thể kiểm soát.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Các tôn giáo luôn đồng hành cùng dân tộc, có nhiều đóng góp quan trọng trong quá trình xây dựng và bảo vệ đất nước.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Nhiều giá trị của các tôn giáo đang có những đóng góp to lớn và trở thành một bộ phận quan trọng trong nền văn hoá mỗi dân tộc, mỗi quốc gia là nguyên nhân dẫn tới sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội ở lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Văn hoá.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhận thức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chính trị - xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Một trong những nguyên tắc cơ bản trong việc giải quyết vấn đề tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội là",
+        "options": [
+          {
+            "id": "a",
+            "text": "phân biệt hai mặt chính trị và tư tưởng trong giải quyết vấn đề tôn giáo",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "dần dần loại bỏ tôn giáo ra khỏi đời sống xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "kiên quyết đấu tranh với những phần tử, những hoạt động lợi dụng tôn giáo chống phá cách mạng.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "các tôn giáo đều bình đẳng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Quan điểm: “Tranh thủ những ai có thể tranh thủ được, khoan hồng cho những ai nhẹ dạ cả tin, nhưng đối với bọn ngoan cố chống phá cách mạng thì kiên quyết trừng trị” trong việc giải quyết vấn đề tôn giáo là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Võ Nguyên Giáp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hồ Chí Minh.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "C. Mác.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Nền kinh tế nhiều thành phần vận hành theo cơ chế thị trường với những mặt trái của nó dẫn tới sự bất bình đẳng, sự may rủi, ngẫu nhiên, phân hoá giàu nghèo là nguyên nhân dẫn đến sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội ở lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị - xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kinh tế.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Nội dung nào dưới đây không phải là nguyên tắc cơ bản trong việc giải quyết vấn đề tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phân biệt hai mặt chính trị và tư tưởng trong việc giải quyết vấn đề tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khắc phục dần những ảnh hưởng tiêu cực của tôn giáo gắn liền với quá trình cải tạo xã hội cũ, xây dựng xã hội mới, phát huy những mặt tích cực của tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tôn trọng, đảm bảo quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng, tôn giáo của quần chúng nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nhân nhượng với những phần tử, những hoạt động lợi dụng tôn giáo chống phá cách mạng.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Sự phản ánh thế giới của tôn giáo là sự phản ánh có tính chất",
+        "options": [
+          {
+            "id": "a",
+            "text": "chân thực.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "hoang đường, hư ảo.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "khách quan.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chân thực, chủ quan.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Ý nào dưới đây thể hiện đầy đủ nhất nội dung luận điểm của C. Mác: “Tôn giáo là thuốc phiện của nhân dân”?",
+        "options": [
+          {
+            "id": "c",
+            "text": "Mác: “Tôn giáo là thuốc phiện của nhân dân”?",
+            "is_correct": false
+          },
+          {
+            "id": "a",
+            "text": "Tôn giáo giống như thuốc phiện làm cho con người rơi vào trạng thái sống ảo, làm cho con người trở nên thiếu minh mẫn.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tôn giáo làm dịu nỗi đau, bù đắp những thiếu hụt về mặt tinh thần, đồng thời cũng có thể tác động có hại đối với con người.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tôn giáo nguy hiểm như một thứ thuốc phiện, cần loại bỏ ngay ra khỏi đời sống.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tôn giáo là một liều thuốc có tính chất gây nghiện, tiêm nhiễm cho con người những quan niệm phi khoa học.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Để phân biệt được hai mặt chính trị và tư tưởng trong việc giải quyết vấn đề tôn giáo, các đảng cộng sản cần nêu cao tinh thần",
+        "options": [
+          {
+            "id": "a",
+            "text": "cảnh giác, cương quyết, kịp thời, tránh chủ quan, định kiến.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "giải quyết vấn đề tôn giáo khi có điều kiện thuận lợi.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bỏ qua vấn đề tôn giáo khi cần thiết.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "mọi vấn đề liên quan đến tôn giáo đều phải giải quyết bằng bạo lực.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Tôn giáo không phải là một hiện tượng xã hội bất biến, vì thế khi xem xét và giải quyết vấn đề tôn giáo cần quán triệt",
+        "options": [
+          {
+            "id": "a",
+            "text": "quan điểm khách quan.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "quan điểm lịch sử – cụ thể.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "quan điểm toàn diện.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "quan điểm lấy dân làm gốc.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "“Mọi sự phân biệt quyền lợi giữa công dân có tín ngưỡng tôn giáo khác nhau là hoàn toàn không thể dùng thứ được” là câu nói của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "G.W.F. Hegel",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I. Lênin.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Theo tư tưởng của chủ nghĩa Mác – Lênin, muốn khắc phục dần những ảnh hưởng tiêu cực của tôn giáo, chúng ta phải.",
+        "options": [
+          {
+            "id": "a",
+            "text": "phát triển kinh tế thị trường một cách mạnh mẽ, nâng cao đời sống vật chất cho nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "hạn chế dần ảnh hưởng của tôn giáo, tiến tới xoá bỏ tôn giáo khỏi đời sống xã hội..",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nâng cao trình độ nhận thức của người dân, dần tiến tới xoá bỏ hoàn toàn tôn giáo khỏi đời sống xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xác lập một thế giới hiện thực tốt đẹp không có áp bức, bất công, không nghèo đói và thất nghiệp, không tệ nạn xã hội,...",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Nhiều thế lực vẫn chú ý duy trì và lợi dụng tôn giáo vào các mục đích chính trị khác nhau là nội dung thể hiện nguyên nhân nào dưới đây dẫn tới sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chính trị - xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Văn hoá",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhận thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Tư tưởng các tôn giáo đều bình đẳng thể hiện thái độ nào dưới đây của Chủ tịch Hồ Chí Minh trong vấn đề tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thái độ hài hòa, thiên vị.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thái độ chủ quan, duy ý chí.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thái độ khách quan, duy ý chí.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thái độ khách quan, không thiên vị.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Theo Chủ tịch Hồ Chí Minh, lí tưởng cộng sản và các học thuyết tôn giáo chân chính có điểm chung là đều muốn",
+        "options": [
+          {
+            "id": "a",
+            "text": "có cuộc sống tốt đẹp sau khi con người từ giã cõi đời",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tôn giáo có ảnh hưởng ngày càng lớn trong đời sống xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "lí giải mọi vấn đề của đời sống một cách khách quan.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xoá bỏ tình trạng áp bức, bóc lột, bất công, xây dựng cuộc sống hoà bình, hữu nghị",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Nội dung nào dưới đây không là biểu hiện của chức năng liên kết cộng đồng và chuyển tải, bảo lưu văn hoá của tôn giáo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Liên kết, giữ gìn ổn định trật tự xã hội dựa trên hệ thống giá trị và chuẩn mựcchung.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nâng cao đời sống vật chất, tinh thần của đông đảo quần chúng nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Góp phần giao lưu giữa các quốc gia, dân tộc và các nền văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tập hợp các lực lượng đấu tranh chống áp bức, bóc lột, chống lại các thế lực chính trị - xã hội phản tiến bộ đương thời.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Còn nhiều vấn đề mà khoa học chưa thể làm rõ, mặt bằng dân trí chưa thật cao, khả năng nhận thức những vấn đề xảy ra trong cuộc sốngcòn nhiều hạn chế là nguyên nhân dẫn tới sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội ở lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nhận thức.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Sinh hoạt tín ngưỡng, tôn giáo có khả năng đáp ứng nhu cầu văn hoá, tinh thần và có ý nghĩa giáo dục về ý thức cộng đồng, đạo đức phong cách, lối sống là nguyên nhân dẫn tới sự tồn tại của tôn giáo trong thời kì quá độ lên chủ nghĩa xã hội ở lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Văn hoá.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tâm lí.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chính trị - xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Quan điểm, chính sách của Đảng, Nhà nước ta đối với tôn giáo, tín ngưỡng trong giai đoạn hiện nay được thể hiện chủ yếu trong",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nghị quyết số 21-NQ/TW ngày 12/3/2003.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nghị quyết số 26-NQ/TW ngày 12/3/2003.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nghị quyết số 25-NQ/TW ngày 13/3/2003.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nghị quyết số 25-NQ/TW ngày 12/3/2003.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Muốn thay đổi ý thức xã hội, trước hết cần phải thay đổi bản thân tồn tại xã hội; muốn xóa bỏ ảo tưởng nảy sinh trong đầu óc con người, phải xóa bỏ nguồn gốc sinh ra ảo tưởng ấy là cơ sở của nguyên tắc",
+        "options": [
+          {
+            "id": "a",
+            "text": "tôn trọng, đảm bảo quyền tự do tín ngưỡng và không tín ngưỡng của nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "khắc phục dần những ảnh hưởng tiêu cực của tôn giáo phải gắn liền với quá trình cải tạo xã hội cũ, xây dựng xã hội mới.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "quan điểm lịch sử cụ thể trong giải quyết vấn đề tín ngưỡng, tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phân biệt hai mặt chính trị và tư tưởng của tôn giáo.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Tính đến tháng 12/2017, Việt Nam có khoảng",
+        "options": [
+          {
+            "id": "a",
+            "text": "24 triệu tín đồ.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "26 triệu tín đồ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "23 triệu tín đồ.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "25 triệu tín đồ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Mọi hành vi cấm đoán, ngăn cản tự do theo đạo, đổi đạo, bỏ đạo hay đe doạ, bắt buộc người dân phải theo đạo đều là",
+        "options": [
+          {
+            "id": "a",
+            "text": "xâm phạm quyền tự do tín ngưỡng, không tín ngưỡng của nhân dân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "xâm phạm các giá trị văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "vi phạm quy định của các tổ chức tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "vi phạm các giá trị đạo đức của cộng đồng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Mục đích cao nhất trong tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhân dân theo quan điểm Hồ Chí Minh là",
+        "options": [
+          {
+            "id": "a",
+            "text": "phát triển tôn giáo dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tăng nhanh số tín đồ tôn giáo, nâng cao vị thế trong xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "làm cho tôn giáo phát triển, số lượng tín đồ tôn giáo tăng nhanh.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nhân dân được hạnh phúc, lợi ích của đất nước được đảm bảo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Nội dung nào dưới đây là đặc điểm cơ bản của tình hình tôn giáo ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hầu như người dân không tham gia các tổ chức tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tôn giáo phát triển vô cùng mạnh mẽ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chỉ có tôn giáo dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đa tôn giáo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Các thế lực phản động quốc tế đang lợi dụng tôn giáo để thực hiện chiến lược “diễn biến hoà bình” nhằm",
+        "options": [
+          {
+            "id": "a",
+            "text": "xoá bỏ chế độ xã hội chủ nghĩa ở các nước xã hội chủ nghĩa còn lại.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "đẩy các nước đang phát triển vào tình trạng lệ thuộc các nước lớn.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "thâu tóm thị trường.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chi phối các nước trên thế giới cả về kinh tế, chính trị, văn hoá xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Hai mặt chính trị và tư tưởng có mối quan hệ với nhau trong vấn đề tôn giáo và trong mỗi tôn giáo khi",
+        "options": [
+          {
+            "id": "a",
+            "text": "kinh tế thị trường xuất hiện, lực lượng chính trị lợi dụng tôn giáo để đạt được mục đích của mình.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xã hội xuất hiện sản xuất hàng hoá gắn với nhu cầu mở rộng thị trường, mở rộng thuộc địa.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "xã hội chủ nghĩa tư bản chuyển từ giai đoạn tự do cạnh tranh sang giai đoạn độc quyền, tăng cường xâm lược các nước trên thế giới.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xã hội xuất hiện giai cấp, có mâu thuẫn và đấu tranh giai cấp.",
+            "is_correct": true
+          }
+        ]
+      }
+    ]
+  }
+}

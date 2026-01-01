@@ -24,7 +24,6 @@ const state = {
 const homeScreen = document.getElementById('home-screen');
 const quizScreen = document.getElementById('quiz-screen');
 const resultScreen = document.getElementById('result-screen');
-const chapterList = document.getElementById('chapter-list');
 const startBtn = document.getElementById('start-btn');
 const nextBtn = document.getElementById('next-btn');
 const prevBtn = document.getElementById('prev-btn');
@@ -32,33 +31,57 @@ const submitBtn = document.getElementById('submit-btn');
 
 // Initialize
 async function init() {
-    const chaptersToLoad = [
-        { id: 'chap1', name: 'Chương 1', file: 'Question/chap1.json' },
-        { id: 'chap2', name: 'Chương 2', file: 'Question/chap2.json' },
-        { id: 'chap3', name: 'Chương 3', file: 'Question/chap3.json' },
-        { id: 'chap4,5', name: 'Chương 4 & 5', file: 'Question/chap4,5.json' },
-        { id: 'chap6,7,8', name: 'Chương 6, 7 & 8', file: 'Question/chap6,7,8.json' }
-    ];
+    const categories = {
+        mmt: {
+            containerId: 'chapter-list-mmt',
+            chapters: [
+                { id: 'chap1', name: 'Chương 1', file: 'Question/chap1.json' },
+                { id: 'chap2', name: 'Chương 2', file: 'Question/chap2.json' },
+                { id: 'chap3', name: 'Chương 3', file: 'Question/chap3.json' },
+                { id: 'chap4,5', name: 'Chương 4 & 5', file: 'Question/chap4,5.json' },
+                { id: 'chap6,7,8', name: 'Chương 6, 7 & 8', file: 'Question/chap6,7,8.json' }
+            ]
+        },
+        cnxh: {
+            containerId: 'chapter-list-cnxh',
+            chapters: [
+                { id: 'Chuong2_p1', name: 'Chương 2 (P1)', file: 'Question/Chuong2_p1.json' },
+                { id: 'Chuong2_p2', name: 'Chương 2 (P2)', file: 'Question/Chuong2_p2.json' },
+                { id: 'Chuong4', name: 'Chương 4', file: 'Question/Chuong4.json' },
+                { id: 'Chuong5', name: 'Chương 5', file: 'Question/Chuong5.json' },
+                { id: 'Chuong6_p1', name: 'Chương 6 (P1)', file: 'Question/Chuong6_p1.json' },
+                { id: 'Chuong6_p2_1', name: 'Chương 6 (P2-1)', file: 'Question/Chuong6_p2_1.json' },
+                { id: 'Chuong6_p2_2', name: 'Chương 6 (P2-2)', file: 'Question/Chuong6_p2_2.json' },
+                { id: 'Chuong7', name: 'Chương 7', file: 'Question/Chuong7.json' },
+                { id: 'OnTap', name: 'Ôn tập tổng hợp', file: 'Question/OnTap.json' }
+            ]
+        }
+    };
 
-    for (const chap of chaptersToLoad) {
-        try {
-            const response = await fetch(chap.file);
-            const data = await response.json();
-            const questions = data.quiz.questions.map(q => ({
-                ...q,
-                chapterId: chap.id,
-                chapterName: chap.name
-            }));
+    for (const catKey in categories) {
+        const category = categories[catKey];
+        const container = document.getElementById(category.containerId);
 
-            state.allQuestions.push(...questions);
-            state.chapters.push({
-                ...chap,
-                count: questions.length
-            });
+        for (const chap of category.chapters) {
+            try {
+                const response = await fetch(chap.file);
+                const data = await response.json();
+                const questions = data.quiz.questions.map(q => ({
+                    ...q,
+                    chapterId: chap.id,
+                    chapterName: chap.name
+                }));
 
-            renderChapterCard(chap, questions.length);
-        } catch (e) {
-            console.error(`Error loading ${chap.file}:`, e);
+                state.allQuestions.push(...questions);
+                state.chapters.push({
+                    ...chap,
+                    count: questions.length
+                });
+
+                renderChapterCard(chap, questions.length, container);
+            } catch (e) {
+                console.error(`Error loading ${chap.file}:`, e);
+            }
         }
     }
 
@@ -127,7 +150,7 @@ function viewHistoryItem(index) {
     renderQuestion();
 }
 
-function renderChapterCard(chap, count) {
+function renderChapterCard(chap, count, container) {
     const card = document.createElement('div');
     card.className = 'chapter-card premium-card';
     card.dataset.chapter = chap.id;
@@ -150,7 +173,7 @@ function renderChapterCard(chap, count) {
         document.querySelectorAll('.chapter-card').forEach(c => c.classList.remove('selected'));
         card.classList.add('selected');
     };
-    chapterList.appendChild(card);
+    container.appendChild(card);
 }
 
 function setupEventListeners() {

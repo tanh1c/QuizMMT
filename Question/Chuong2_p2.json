@@ -1,0 +1,1173 @@
+{
+  "quiz": {
+    "title": "Chương 2",
+    "total_questions": 45,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "quan điểm nào dưới đây là đúng khi nói về số lượng của giai cấp công nhân hiện nay?",
+        "options": [
+          {
+            "id": "a",
+            "text": "số lượng lao động trực tiếp giảm, lao động gián tiếp tăng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "số lượng lao động trực tiếp và gián tiếp cùng tăng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "số lượng lao động trực tiếp và gián tiếp cùng giảm",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "số lượng lao động trực tiếp tăng, lao động gián tiếp giảm",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "trong quá trình thực hiện sứ mệnh lịch sử thế giới của mình, liên minh giai cấp giưac giai cấp công nhân với gian cấp nông dân và các tầng lớp nhân dân lao động khác trong xã họi là một tất yếu do",
+        "options": [
+          {
+            "id": "a",
+            "text": "tầng lớp doanh nhân lãnh đạo",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đội ngũ trí thức lãnh đạo",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp nông dân lãnh đạo",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân lãnh đạo",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "ở các nước xã hội chủ nghĩa, giai cấp công nhân đã trở thành",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp có vai trò tương đối quan trọng đối với sự phát triển của xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp không còn vai trò lãnh đạo cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp có vai trò ngày càng mờ nhạt đối với sự phát triển của xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp lãnh đạo thông qua tổ chức tiên phong của nó là đảng cộng sản",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Lực lượng ngày càng đông đảo, tỉ lệ và cơ cấu của giai cấp công nhân phù hợp với yêu cầu của sản xuất công nghiệp hiện đại và cơ cấu kinh tế là nội dung thẻ hiện sự phát triển của giai cấp công nhân về",
+        "options": [
+          {
+            "id": "a",
+            "text": "tổ chức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "số lượng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "chất lượng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cơ cấu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Mục tiêu đấu tranh lâu dài của giai cấp công nhân và phong trào công nhân ở các nước tư bản hiện nay là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "nâng cao vị thế của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chống áp bức giai cấp, chống bóc lột giá trị thặng dư",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giảnh chính quyền về tay giai cấp công nhân và nhân dân lao động",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "chống bất công và bất bình đẳng xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "ngày nay, công nhân được đào tạo chuẩn mực và thường xuyên được đào tạo lại, đáp ứng sự thay đổi nhanh chóng của công nghệ trong nền sản xuất, điều này đã làm xuất hiện xu hướng",
+        "options": [
+          {
+            "id": "a",
+            "text": "trí tuệ hóa giai cấp công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tha hóa giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bần cùng hóa giai cấp công nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "giai cấp công nhân Việt Nam ra đời gắn liền với",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính sách ngu dân của thực dân Pháp ở Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính sách khai thác thuộc địa của thực dân Pháp ở Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "chính sách khai hóa văn minh của thực dân Pháp ở Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chính sách chia để trị của thực dân Pháp ở Việt Nam",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "đại biểu cho giai cấp công nhân ngày nay là đội ngũ",
+        "options": [
+          {
+            "id": "a",
+            "text": "công nhân tri thức",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "công nhân làm việc trong các công xưởng thủ công",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "công nhân nông nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "công nhân cơ khí",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc là nội dung thể hiện sứ mệnh lịch sử hiện nay của giai cấp công nhân Việt Nam trên phương diên",
+        "options": [
+          {
+            "id": "a",
+            "text": "xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "văn hóa, tư tưởng",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "nọi dung nào dưới đây không phải là nguyên nhân của việc giai cấp công nhân có tính tổ chức kỉ luật cao?",
+        "options": [
+          {
+            "id": "a",
+            "text": "yêu cầu của đấu tranh cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "sự quản lí chặt chẽ của giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "đặc thù môi trường làm việc là dây chuyền sản xuất công nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "bản chất sẵnn có của công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "đặc trưng chính trị ưu trội của công nhân Việt Nam không chỉ thể hiện ở ý thức giai cấp và lập trường chính trị mà còn thể hiện",
+        "options": [
+          {
+            "id": "a",
+            "text": "tinh thần giai cấp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tinh thần dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "ý thức tổ chức kỉ luật",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tinh thần lao động",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "tham gia phát triển nền kinh tế thị trường hiện đại, định hướng xã hội chủ nghĩa, lấy khoa học - công nghệ làm động lực quan trọng, quyết định tăng năng suất lao động, chất lượng và hiệu quả là nội dung sứ mệnh của giai cấp công nhân Việt Nam hiện nay trên phương diện",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị - xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tư tưởng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "nội dung nào dưới đây không phải là đặc điểm chính trị - xã hội của giai cấp công nhân",
+        "options": [
+          {
+            "id": "a",
+            "text": "có bản chất quốc tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đại diện cho lực lượng sản xuất hiện đại",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "có ý thức, kỉ luật cao",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tiên phong cách mạng và có tinh thần cách mạng triệt để nhất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "hiện nay ở các nước tư bản, một bộ phân công nhân đã tham gia sở hữu một lượng tư liệu sản xuất của xã hội thông qua chế độ cổ phần hóa, từ đó làm xuất hiện xu hướng",
+        "options": [
+          {
+            "id": "a",
+            "text": "trung lưu hóa giai cấp công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "hiện đại hóa giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bần cùng hóa giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "trí tuệ hóa giai cấp công nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "điều kiện chủ quan có vai trò quyết định nhất trong việc thực hiện sứ mệnh lịch sử thế giới của giai cấp công nhân là",
+        "options": [
+          {
+            "id": "a",
+            "text": "sự tăng nhanh về số lượng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân liên minh được với giai cấp nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "sự phát triển cao về trình độ tay nghề",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sự trưởng thành của giai cấp công nhân, đặc biệt là khi có Đảng tiên phong lãnh đạo",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "tổ chức nào dưới đây là đại biểu trung thành cho lợi ích của giai cấp công nhân, của dân tộc và xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "công đoàn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đảng cộng sản",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "mặt trận tổ quốc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "đoàn thanh niên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "nguyên nhân nào dưới đây tạo thành động lực thúc đẩy đoàn kết giai cấp gắn liền với đoàn kết dân tộc trong mọi thời kì đấu tranh cách mạng ở Việt Nam",
+        "options": [
+          {
+            "id": "a",
+            "text": "lợi ích giai cấp công nhân và lợi ích dân tộc gắn chặt với nhau",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "lợi ích giai cấp công nhân cao hơn lợi ích dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "toàn thể dân tộc tập trung giải quyết vấn đề lợi ích của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "lợi ích dân tộc tách rời lợi ích giai cấp công nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "nội dung nào dưới đây không đúng khi nói về sự tương đồng giữa công nhân hiện nay và công nhân thế kỉ XIX?",
+        "options": [
+          {
+            "id": "a",
+            "text": "ở các nước tư bản, giai cấp công nhân vẫn bị giai cấp tư sản và chủ nghĩa tư bản bóc lột về giá trị thặng dư",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân vẫn là lực lượng sản xuất hàng đầu trong xã hội hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "phong trào cộng sản và công nhân ở nhiều nước vẫn là lực lượng đi đầu trong cuộc đấu tranh vì hòa bình, hợp tác và phát triển",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "ở các nước tư bản, giai cấp công nhân hiện nay đã có được trung lưu hóa nên họ không còn sứ mệnh lịch sử thế giới nữa",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Quan điểm nào dưới đây không đúng về giai cấp công nhân hiện nay?",
+        "options": [
+          {
+            "id": "a",
+            "text": "phải huy động trí tuệ vào sản xuất nhiều hơn là sức lao động cơ bắp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "đòi hỏi năng lực sáng tạo nhiều hơn",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bị bóc lột ít hơn công nhân truyền thống",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "làm việc trong môi trường kinh tế tri thức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "tự giác nhận thức được vai trò và trọng trách của giai cấp mình đói với lịch sử, năng lực, trình độ làm chủ khoa học kĩ thuật và công nghệ hiện đại là nội dung thể hiện sự phát triển của giai cấp công nhân về",
+        "options": [
+          {
+            "id": "a",
+            "text": "tổ chức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "số lượng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "cơ cấu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chất lượng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "C.Mác là Ph.ăngghen đã nhấn mạnh rằng: giai cấp vô sản chỉ có thể hành động với tư cách là một gia cấp được khi giai cấp vô sản",
+        "options": [
+          {
+            "id": "a",
+            "text": "thành lập được tổ chức công đoàn ở các nhà máy xí nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tự mình tổ chức thành một chính đảng độc lập của mình",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "liên minh tổ chức thành một chính đảng độc lập của mình",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "liên minh được với giai cấp nông dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "có một người cho rằng: ở các nước tư bản phát triển hiện nay,đời sống của một bộ phận công nhân đã được nâng cao (có ô tô, có nhà cửa, có phương tiện sinh hoạt hiện đại, có cổ phần,...) như vậy, giai cấp công nhân ở các nước này không còn bị bóc lột nữa. Bản đồng ý với quan điểm nào sau đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "sai, vì cái mà họ được hưởng ít hơn các nhà tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "sai, vì họ vẫn phải bán sức lao động cho nhà tư bản để kiếm sống và bị bóc lột tinh vi hơn",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "đúng, vì học bắt đầu có sử hữu giống như các nhà tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "đúng, vì họ đã giàu và không còn là những người vô sản như trước",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "tổ chức nào dưới đây là đội tiên phong của giai cấp công nhân, đảm nhận vai trò lãnh đạo giai cấp công nhân và quần chúng nhân dân lao động tiến hành cuộc cách mạng nhằm xóa bỏ chế độ tư bản chủ nghĩa, chế độ người bóc lột người, xây dựng chế độ xã hội mới – cộng sản chủ nghĩa?",
+        "options": [
+          {
+            "id": "a",
+            "text": "đảng cộng sản",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "công đoàn",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nhà nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "mặt trận tổ quốc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "theo quan điểm của chủ nghĩa Mác lênin, quy luật chung, phổ biến cho sự ra đời của Đảng cộng sản là sự kết hợp giữ chủ nghĩa Mác –lênin với",
+        "options": [
+          {
+            "id": "a",
+            "text": "phong trào yêu nước",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "phong trào công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "phong trào giải phóng dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phong trào cải cách",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "nội dung nào sau đây không phải là biện pháp điều hòa mâu thuẫn và xung đột xã hội của giai cấp tư sản?",
+        "options": [
+          {
+            "id": "a",
+            "text": "thực hiện chế độ cổ phần hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "áp dụng phương thức quản lí mới",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "dừng bóc lột giá trị thặng dư",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "trợ cấp thất nghiệp cho công nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "điền từ ngữ thích hợp vào chỗ trống: “Giai cấp công nhân Việt Nam là một lực lượng … to lớn, đang phát triển, bao gồm những người lao động … và …, làm công hưởng lương trong các loại hình sản xuất kinh doanh và dịch vụ công nghiệp hoặc sản xuất, kinh doanh dịch vụ có tính chất công nghiêp” (hội nghị lần thứ sau của ban chấp hành trung ương khóa X)",
+        "options": [
+          {
+            "id": "a",
+            "text": "xã hội, cơ bắp, trí tuệ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chính trị, chân tay, trí óc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị, cơ bắp, trí tuệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xã hội, chân tay, trí óc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "nội dung nào dưới đây là lí do quyết định giai cấp công nhân Việt Nam sớm trở thành lực lượng chính trị độc lập và giữ vai trò lãnh đạo cách mạng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "có số lượng đông và đi đầu trong các cuộc đấu tranh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "có mối quan hệ gắn bó với nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "kế thừa truyền thống yêu nước bất khuất của dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "hình thành được chính đảng thực sự cách mạng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "đảng cộng sản Việt Nam ra đời là sự kết hợp giữa",
+        "options": [
+          {
+            "id": "a",
+            "text": "chủ nghĩa yêu nước với phong trào công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chủ nghĩa Mác - Lênin với phong trào công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh với phong trào công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "giai cấp nông dân không thể là giai cấp có sứ mệnh lịch sử thế giới xóa bỏ chế độ tư bản chủ nghĩa, xây dựng chế độ xã hội mới – cộng sản chủ nghĩa bởi",
+        "options": [
+          {
+            "id": "a",
+            "text": "họ không đại hiện cho phương thức sản xuất tiên tiến",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "họ có hệ tư tưởng riêng nhưng thiếu tinh thần đoàn kết",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "họ có tư tưởng sở hữu lớn",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "họ có số lượng không đông đảo",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Đảng cộng sản là",
+        "options": [
+          {
+            "id": "a",
+            "text": "tổ chức chính trị cao nhất của giai cấp nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tổ chức chính trị cao nhất của giai cấpc công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tổ chức chính trị cao nhất của toàn dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tổ chức quản lí kinh tế - xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "nội dung nào dưới đây không phải là điều kiện chủ quan quy định sứ mệnh lịch sử thế giớii của giai cấp công nhân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "sự ra đời của Đảng Cộng sản – đội tiên phong của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân đã nhận thức đưuọc vai trò và trọng trách của giai cấp mình đối với lịch sử",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "sự lớn mạnh về số lượng của giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "điền từ ngữ thích hợp vào chỗ trống Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân và…",
+        "options": [
+          {
+            "id": "a",
+            "text": "truyền thống yêu nước",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "lòng yêu nước",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chủ nghĩa yêu nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phong trào yêu nước",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Mục tiêu đấu tranh trực tiếp của giai cấp công nhân và phong trào công nhân ở các nước tư bản hiện nay là",
+        "options": [
+          {
+            "id": "a",
+            "text": "xóa bỏ chế độ tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xây dựng chế độ xã hội mới công bằng bình đẳng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giành chính quyền, thiết lập nhà nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chống bất công và bất bình đẳng xã hội",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "đấu tranh để bảo vệ nền tảng tư tưởng của đảng cộng sản, giáo dục nhận thức và củng cố niềm tin khoa học đối với lí tưởng, mục tiêu của chủ nghĩa xã hội cho giai cấp công nhân và nhân dân lao động… là nhiệm vụ hiện nay của giai cấp công nhân trong lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị - xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nhận thức",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "văn hóa, tư tưởng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "giữ vững bản chất giai cấp công nhân của Đảng, vai trò tiên phong, gương mẫu của cán bộ đảng viên, tăng cường xây dựng, chỉnh đống Đảng là những nội dung chính yếu, nổi bật thể hiện sứ mệnh lịch sử giai cấp công nhân trên phương diện",
+        "options": [
+          {
+            "id": "a",
+            "text": "kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị - xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tư tưởng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "cũng giống như thế kỉ XIX, ở các nước tư bản chủ nghĩa hiện nay, công nhân vẫn bị giai cấp tư sản và chủ nghĩa tư bản",
+        "options": [
+          {
+            "id": "a",
+            "text": "bắt lao động trong điều kiện vô cùng khắc nghiệt",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "ép buộc lao động 14 tiếng, thậm chí 16 tiếng/ngày",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bóc lột giá trị thặng dư",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "trả lương không đủ để chi trả cho nhu cầu tối thiểu của cuộc sống hàng ngày",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "quan điểm nào sao đây không đúng về Đảng Cộng sản?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng cộng sản là nơi tập trung những người giác ngộ cao nhất lí luận của chủ nghĩa Mác - Lênin",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đảng cộng sản là nơi tập trung những trí thức xuất sắc nhất trong xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đảng Cộng sản là nơi tập trung những quần chúng nhân dân ưu tú nhất",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đảng Cộng sản là nơi tập trung những người ưu tú nhất trong giai cấp công nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "điều kiện có ý nghĩa quyết định đối với việc hoàn thành sứ mệnh lịch sử của giai cấp công nhân là",
+        "options": [
+          {
+            "id": "a",
+            "text": "phải thực hiện liên minh giai cấp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "phải có tổ chức đoàn thế trong mỗi nhà máy xí nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "phải có một đảng chính trị vững vàng, kiên định và sáng suốt",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "phải đoàn kết với giai cấp vô sản quốc tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "sinh ra và lớn lên ở một nước thuộc địa nửa phong kiến, dưới ách thống trị của thực dân Pháp, giai cấp công nhân Việt Nam",
+        "options": [
+          {
+            "id": "a",
+            "text": "có lực lượng vô cùng đông đảo",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "phát triển nhanh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "có trình độ cao",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phát triển chậm",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "lực lượng nào dưới đây là cơ sở xã hội và nguồn bổ sung lực lượng quan trọng nhất của Đảng, làm cho Đảng mang bản chất giai cấp công nhân, trở thành đội tiên phong, bộ tham mưu chiến đấu của lực lượng này?",
+        "options": [
+          {
+            "id": "a",
+            "text": "đội ngũ trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tầng lớp doanh nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "Ở các nước xã hội chủ nghĩa, lãnh đạo thành công sự nghiệp đổi mới, giải quyết thành công các nhiệm vụ trong thời kì quá độ lên chủ nghĩa xã hội, thực hiện thành công sự nghiệp công nghiệp hóa, hiên đại hóa, đưa đất nước phát triển nhanh và bền vững là nhiệm vụ hiện nay của giai cấp công nhân trong lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư tưởng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị - xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "Cải cách, đổi mới để xây dựng chủ nghĩa xã hội ở các nước xã hội chủ nghĩa, nơi giai cấp công nhân thông qua đội tiên phong của mình là Đảng Cộng sản đang cầm quyền, đây là sứ mệnh của giai cấp công nhân hiện nay trong lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị - xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tư tưởng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống: … là cơ sở xã hội của Đảng Cộng sản, là… của Đảng Cộng sản.",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp nông dân, đồng minh vững chắc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân, lực lượng lãnh đạo",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp công nhân, nguồn bổ sung lực lượng",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "giai cấp nông dân, lực lượng cổ vũ phong trào đấu tranh",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "cuối thế kỉ XIX - đầu thế kỉ XX, giai cấp công nhân Việt Nam có lợi ích đối kháng trực tiếp với",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư sản Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "bè lũ tay sai của thực dân Pháp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "thực dân Pháp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "địa chủ Việt Nam",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 45,
+        "question_text": "gắn liền với cách mạng khoa học và công nghệ hiện đại, với sự phát triển kinh tế tri thức, công nhân hiện đại có xu hướng",
+        "options": [
+          {
+            "id": "a",
+            "text": "bần cùng hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "trí tuệ hóa",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "nông dân hóa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tha hóa",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

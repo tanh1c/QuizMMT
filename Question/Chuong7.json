@@ -1,0 +1,554 @@
+{
+  "quiz": {
+    "title": "Chương 7",
+    "total_questions": 21,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Quan điểm sau đây của ai: “Nếu nghĩa vụ của vợ và chồng là phải yêu thương nhau thì nghĩa vụ của những kẻ yêu nhau há chẳng phải là kết hôn với nhau và không được kết hôn với người khác”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "C.Mác và Ph.Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ph.Ăngghen",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "CMác",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I.Lênin",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Trong xã hội hiện đại, độ bền vững của gia đình Việt Nam phụ thuộc vào những yếu tố nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự ràng buộc của các mối quan hệ về trách nhiệm, nghĩa vụ giữa vợ và chồng; cha mẹ và con cái",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự hy sinh lợi ích cá nhân cho lợi ích gia đình, các mối quan hệ hòa hợp tình cảm giữa chồng và vợ; cha mẹ và con cái",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự đảm bảo hạnh phúc cá nhân, sinh hoạt tự do, chính đáng của mỗi thành viên gia đình trong cuộc sống chung",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Quan điểm sau đây của ai: “Nhiều gia đình cộng lại mới thành xã hội, xã hội tốt thì gia đình càng tốt, gia đình tốt thì xã hội mới tốt. Hạt nhân của xã hội chính là gia đình”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "CMác",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ph.Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hồ Chí Minh",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "V.I.Lênin",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Yếu tố nào ảnh hưởng đến chất lượng nguồn lực lao động mà gia đình cung cấp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trình độ phát triển kinh tế, văn hóa, xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Trình độ phát triển kinh tế, văn hóa, nghệ thuật",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Trình độ phát triển kinh tế, chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Quan điểm sau đây của ai: “…một mặt là sản xuất ra tư liệu sinh hoạt: thực phẩm, quần áo, nhà ở và những công cụ cần thiết để sản xuất ra những thứ đó; mặt khác là sự sản xuất ra bản thân con người, là sự truyền nòi giống…”. Quan điểm trên đây của ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "V.I.Lênin",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "C.Mác và Ph.Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ph.Ăngghen",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "CMác",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Thực hiện hôn nhân một vợ một chồng là điều kiện đảm bảo hạnh phúc gia đình, đồng thời cũng phù hợp với:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quy luật tự nhiên",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tâm lý, tình cảm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đạo đức con người",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Quan điểm sau đây của ai: “Nếu không giải phóng phụ nữ là xây dựng chủ nghĩa xã hội chỉ một nửa”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "CMác",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ph.Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "V.I.Lênin",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hồ Chí Minh",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Trong gia đình Việt Nam hiện nay, người chủ gia đình được quan niệm là người:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có những phẩm chất, năng lực và đóng góp vượt trội, được các thành viên trong gia đình coi trọng; là người kiếm ra nhiều tiền",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Người có đạo đức, có địa vị trong xã hội và được đồng nghiệp coi trọng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Người kiếm ra nhiều tiền, yêu thương và chăm sóc các thành viên trong gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Người có năng lực, có nhiều tiền và có địa vị trong xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Quan điểm sau đây của ai: “Chính quyền Xô Viết, một chính quyền của nhân dân lao động, chính quyền đầu tiên và duy nhất trên thế giới đã hủy bỏ tất cả những đặc quyền gắn liền với chế độ tư hữu, những đặc quyền của người đàn ông trong gia đình”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "V.I.Lênin",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "V.I.Xtalin",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ph.Ăngghen",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Trong các chế độ xã hội dựa trên sở hữu tư nhân về tư liệu sản xuất thì hôn nhân một vợ một chồng thực chất chỉ đối với ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chỉ đối với người phụ nữ",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chỉ đối với người đàn ông",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cả người đàn ông và phụ nữ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Không bắt buộc đối với cả người đàn ông và người phụ nữ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Gia đình là một cộng đồng người đặc biệt, được hình thành, duy trì và củng cố chủ yếu dựa trên cơ sở nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quan hệ hôn nhân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Quan hệ nuôi dưỡng, cùng với những quy định về quyền và nghĩa vụ của các thành viên trong gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Quan hệ huyết thống",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Gia đình văn hóa là một mô hình gia đình tiến bộ mà nhiều gia đình Việt Nam hướng đến đó là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gia đình ấm no, hòa thuận, tiến bộ, khỏe mạnh và hạnh phúc; thực hiện tốt nghĩa vụ công dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thực hiện kế hoạch hóa gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đoàn kết tương trợ trong cộng đồng dân cư",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Chức năng nào được coi là chức năng thường xuyên của gia đình?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nuôi dưỡng và giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tái sản xuất ra con người",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế và tổ chức tiêu dùng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Vì sao phải thực hiện thủ tục pháp lý trong hôn nhân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vì nó thể hiện sự tôn trọng trong tình yêu, trách nhiệm giữa nam và nữ, trách nhiệm của cá nhân đối với gia đình, xã hội và ngược lại",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vì đây là biện pháp ngăn chặn những cá nhân lợi dụng quyền tự do kết hôn, tự do ly hôn để thỏa mãn những nhu cầu không chính đáng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Vì nó là cơ sở để bảo vệ hạnh phúc cá nhân và gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Trong gia đình Việt Nam hiện nay, nhu cầu thỏa mãn tâm lý - tình cảm đang tăng lên, là do:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gia đình có xu hướng chuyển đổi từ chủ yếu là đơn vị kinh tế sang chủ yếu là đơn vị tình cảm",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chuyển từ gia đình truyền thống sang gia đình hạt nhân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đời sống vật chất của gia đình được nâng cao",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nhận thức được tầm quan trọng của yếu tố tâm lý – tình cảm trong gia đình",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội thể hiện như thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Biến đổi quy mô, kết cấu của gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Biến đổi trong thực hiện các chức năng của gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Biến đổi trong các mối quan hệ gia đình",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả đều đúng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Quan điểm sau đây của ai: “Nếu chỉ riêng hôn nhân dựa trên cơ sở tình yêu mới hợp đạo đức thì cũng chỉ riêng hôn nhân trong đó tình yêu được duy trì, mới là hợp đạo đức mà thôi... và nếu tình yêu đã hoàn toàn phai nhạt hoặc bị một tình yêu say đắm mới át đi, thì ly hôn sẽ là điều hay cho đôi bên cũng như cho xã hội”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ph.Ăngghen",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "C.Mác và Ph.Ăngghen",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "CMác",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I.Lênin",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Trong gia đình Việt Nam hiện đại, sự bền vững của hôn nhân phụ thuộc rất nhiều vào yếu tố nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Địa vị xã hội, kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Có con hay không có con",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Có con trai hay không có con trai",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tâm lý, tình cảm, kinh tế",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Chế độ xã hội nào để củng cố, duy trì chế độ bóc lột, với quan hệ gia trưởng, độc đoán, chuyên quyền đã có những quy định khắt khe đối với phụ nữ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xã hội tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xã hội phong kiến",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Xã hội chiếm hữu nô lệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Quan hệ nào là mối quan hệ tự nhiên, là yếu tố mạnh mẽ nhất gắn kết các thành viên trong gia đình với nhau?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quan hệ huyết thống",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Quan hệ nuôi dưỡng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Quan hệ hôn nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Quan hệ dòng tộc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Chế độ hôn nhân một vợ một chồng đã xuất hiện lần đầu tiên trong xã hội nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xã hội chiếm hữu nô lệ",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Xã hội tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Xã hội xã hội chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội nguyên thủy",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

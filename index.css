@@ -203,10 +203,17 @@ input[type="checkbox"] {
     border-top: 1px solid var(--border-light);
 }
 
-.custom-quiz-section {
+.custom-quiz-section,
+.subject-section {
     margin-top: 3rem;
     padding-top: 2rem;
     border-top: 1px solid var(--border-light);
+}
+
+.subject-section:first-of-type {
+    margin-top: 1rem;
+    padding-top: 0;
+    border-top: none;
 }
 
 .upload-area {

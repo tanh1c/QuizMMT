@@ -1,0 +1,1360 @@
+{
+  "quiz": {
+    "title": "Chương 5",
+    "total_questions": 52,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Yếu tố nào dưới đây quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có những lợi ích cơ bản thống nhất với nhau.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Mong muốn của giai cấp công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mục tiêu về chính trị của giai cấp công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cùng một kẻ thù là giai cấp tư sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Trong thời kì quá độ lên chủ nghĩa xã hội, các giai cấp, tầng lớp liên minh với nhau trên những lĩnh vực nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế, chính trị, tôn giáo,",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế, chính trị, văn hoá - xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế, chính trị, xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế, văn hoá, xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Giai cấp, tầng lớp nào dưới đây được coi là rường cột của nước nhà, chủ nhân tương lai của đất nước?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thanh niên.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phụ nữ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Nội dung nào dưới đây không phải là nội dung văn hoá - xã hội của liên minh giai cấp, tầng lớp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chống các biểu hiện tiêu cực và tệ nạn xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chống âm mưu diễn biến hoà bình của các thế lực thù địch và phản động.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Thực hiện xoá đói giảm nghèo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nâng cao dân trí, thực hiện tốt an sinh xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Trong quá trình xây dựng chủ nghĩa xã hội, liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức trong lĩnh vực nào dưới đây giữ vai trò quyết định?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tư tưởng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Nội dung nào dưới đây không phải là vai trò của giai cấp công nhân",
+        "options": [
+          {
+            "id": "a",
+            "text": "Là lực lượng lao động sáng tạo đặc biệt.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Là giai cấp đại diện cho phương thức sản xuất mới.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Là lực lượng nòng cốt trong khối liên minh giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Là giai cấp lãnh đạo. trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Thực hiện đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức theo định hướng xã hội chủ nghĩa là nội dụng của liên minh giai cấp ở Việt Nam trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chính trị.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Xét dưới góc độ kinh tế, nội dung nào dưới đây không phải là nguyên nhân của liên minh giai cấp trong thời kì quá độ lên chủ nghĩa xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yêu cầu khách quan của quá trình công nghiệp hoá, hiện đại hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự chuyển dịch cơ cấu kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhu cầu lợi ích kinh tế của các giai cấp, tầng lớp. .",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Yêu cầu khách quan của đấu tranh giành chính quyền.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Nội dung nào dưới đây không phải là nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyển giao và ứng dụng khoa học kĩ thuật và công nghệ hiện đại vào sản xuất kinh doanh.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xác định đúng tiềm lực kinh tế và nhu cầu kinh tế của các giai cấp, tầng lớp.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Xây dựng nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Xác định đúng cơ cấu kinh tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Trong xã hội có giai cấp, cơ cấu nào dưới đây có vị trí quyết định nhất, chi phối các loại hình cơ cấu xã hội khác?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - giai cấp.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội - dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội – dân số.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Cần phải giữ vững vai trò lãnh đạo của tổ chức nào dưới đây đối với khối liên minh và toàn xã hội trên lĩnh vực chính trị trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng Cộng sản Việt Nam.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Quốc hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mặt trận Tổ quốc Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nhà nước cộng hoà xã hội chủ nghĩa Việt Nam.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Khi khẳng định “một hình thức đặc biệt của liên minh giai cấp giữa giai cấp vô sản, đội tiên phong của người lao động, với đông đảo những tầng lớp lao động không phải vô sản”, V.I. Lênin muốn nói đến khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyên chính vô sản.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hiệp hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công đoàn.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Tập hợp những cộng đồng người được hình thành lâu dài trong lịch sử và tương đối ổn định, gắn kết chặt chẽ với nhau về kinh tế, lãnh thổ, văn hoá, ngôn ngữ là nội dung thể hiện khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội – kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội – nhân khẩu.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội - dân tộc.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp, tà. dưới đây giữ vai trò chủ đạo trong cơ cấu xã hội - giai cấp",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nông dân..",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Doanh nhân..",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Lực lượng nào ở nước ta hiện nay có sự đóng góp tích cực vào việc thực hiện chiến lược phát triển kinh tế – xã hội, giải quyết việc làm cho người lao động và tham gia giải quyết các vấn đề an sinh xã hội, xoá đói, giảm nghèo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Doanh nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trí thức.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Theo V.I. Lênin, để giai cấp vô sản giữ được vai trò lãnh đạo và chính quyền nhà nước, nguyên tắc cao nhất của chuyên chính là duy trì khối liên minh giữa",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp vô sản và nông dân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "giai cấp nông dân và giai cấp tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp vô sản và tầng lớp doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tầng lớp doanh nhân và đội ngũ trí thức.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Sự biến đổi của cơ cấu xã hội - giai cấp gắn liền và được quy định bởi sự biến đổi của cơ cấu nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu dân cư.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu dân số.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Nước ta hiện nay có sự phát triển nhanh chóng cả về số lượng và quy mô với vai trò không ngừng tăng lên gắn với nền kinh tế thị trường định hướng xã hội chủ nghĩa của lực lượng",
+        "options": [
+          {
+            "id": "a",
+            "text": "doanh nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "công nhân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, nội dung nào dưới đây có vai trò quyết định đối với sự biến đổi cơ cấu xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sản xuất kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đời sống văn hoá, tinh thần.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tôn giáo, tín ngưỡng.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự đa dạng tộc người.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Câu nói “Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "V.I. Lênin",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hồ Chí Minh.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ph.Ăngghen. .",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Nội dung nào dưới đây không phải là mục đích của việc nghiên cứu cơ cấu xã hội - giai cấp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhận diện xu hướng biên đội, phát triển của các giai cấp, tầng lớp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Để xây dựng hệ thống chính sách xã hội phù hợp với từng giai cấp, tầng lớp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chỉ ra xu hướng biến đổi trong quan hệ các dân tộc trên tất cả các lĩnh vực.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Làm rõ vị trí, vai trò của các giai cấp, tầng lớp trong xã hội..",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Bộ phận cơ bản và quan trọng nhất trong cơ cấu xã hội, liên quan trực tiếp đến các đảng phái chính trị, nhà nước, sở hữu tư liệu sản xuất cũng như địa vị xã hội của con người trong hệ thống sản xuất, tổ chức lao động và phân phối lợi ích xã hội là",
+        "options": [
+          {
+            "id": "a",
+            "text": "cơ cấu xã hội - dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "cơ cấu xã hội – giai cấp.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cơ cấu xã hội – nhân khẩu.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ây tạo nên là nội dung thi khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dân cư.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cộng đồng.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Để xây dựng chính sách phát triển kinh tế, văn hoá, xã hội phù hợp cho từng giai cấp, tầng lớp trong từng giai đoạn lịch sử cụ thể cần căn cứ vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "cơ cấu xã hội – giai cấp.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "cơ cấu xã hội – tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cơ cấu xã hội - dân cư.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Thời kì quá độ lên chủ nghĩa xã hội có cơ cấu xã hội – giai cấp với nhiều giai cấp, tầng lớp khác nhau vì",
+        "options": [
+          {
+            "id": "a",
+            "text": "tồn tại nhiều nghề nghiệp và phân công lao động khác nhau,",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tồn tại nhiều đức tin tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tồn tại nhiều hình thức sở hữu và nhiều thành phần kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "tồn tại nhiều dân tộc khác nhau.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Nội dung kinh tế xuyên suốt của thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+        "options": [
+          {
+            "id": "a",
+            "text": "đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức theo định hướng xã hội chủ nghĩa.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "xác định đúng tiềm lực kinh tế và nhu cầu kinh tế của các tầng lớp và toàn xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chuyển giao và ứng dụng khoa học kĩ thuật và công nghệ hiện đại vào sản xuất.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xác định đúng cơ cấu kinh tế, phát triển kinh tế thị trường.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "“Nếu không liên minh với nông dân thì không thể có được chính quyền của giai cấp vô sản, không thể nghĩ được đến việc duy chính quyền đó...” là câu nói của ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "V.I. Lênin.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hồ Chí Minh",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Thực hiện xoá đói giảm nghèo; thực hiện tốt các chính sách xã hội đối với công nhân, nông dân, trí thức và các tầng lớp nhân dân; chăm sóc sức khoẻ và nâng cao chất lượng sống cho nhân dân; nâng cao dân trí, thực hiện tốt an sinh xã hội là nội dung của liên minh giai cấp ở Việt Nam trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xã hội.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Giữ vững lập trường chính trị – tư tưởng của giai cấp công nhân, vai trò lãnh đạo của Đảng Cộng sản Việt Nam, kiên định mục tiêu con đường: độc lập dân tộc và chủ nghĩa xã hội là nội dung của liên minh giai cấp trên lĩnh vực",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kinh tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Trong thời đại chuyên chính vô sản, các giai cấp vẫn tồn tại. những bộ mặt của mỗi một giai cấp đều có thay đổi, quan hệ qua lại giữa các giai cấp cũng biến đổi. Cuộc đấu tranh giai cấp chưa chấm dứt dưới thời chuyên chính vô sản, nó chỉ diễn biến ra dưới những hình thức khác mà thôi” là câu nói của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "VI. Lênin.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "C. Mác.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ph. Ăngghen",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Vấn đề liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức, được Đảng ta khẳng định lần đầu tiên tại",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội đại biểu toàn quốc lần thứ II (1951).",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội đại biểu toàn quốc lần thứ III (1960).",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội đại biểu toàn quốc lần thứ IV (1976)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội đại biểu toàn quốc lần thứ V (1982).",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Đảng ta xác định xây dựng vững mạnh giai cấp, tầng lớp nào dưới đây là trực tiếp nâng tầm trí tuệ của dân tộc, sức mạnh của tác nâng cao năng lực lãnh đạo của Đảng và chất lượng hoạt động thống chính trị?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thanh niên.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trí thức.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Sự liên kết, hợp tác, hỗ trợ nhau giữa các giai cấp, tầng lớp chủ yếu có lợi ích cơ bản thống nhất và cũng có thể có lợi ích cơ bản đối kháng là nội dung thể hiện khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Liên hiệp giai cấp, tầng lớp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Liên minh giai cấp, tầng lớp.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đoàn kết giai cấp, tồn.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đấu tranh giai cấp..",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Ở Việt Nam, vai trò của lực lượng nào dưới đây ngày càng trở nên quan trọng trong bối cảnh đẩy mạnh công nghiệp hoá, hiện đại hoá gắn với phát triển kinh tế tri thức?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trí thức.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Hiện nay ở nước ta, giai cấp, tầng lớp nào dưới đây giữ vai trò lãnh đạo khối liên minh?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông dân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Nội dung nào dưới đây không phải là nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng cường các hình thức giao lưu hợp tác liên kết giữa công nghiệp - nông nghiệp – khoa học công nghệ.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bảo vệ vững chắc chế độ chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xây dựng hoàn thiện nền dân chủ xã hội chủ nghĩa.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Giai cấp, tầng lớp nào dưới đây được coi là “người bạn đồng minh tự nhiên” của giai cấp công nhân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông dân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Trong luận điểm: “Trước sự liên minh của các đại biểu khoa học, giai cấp vô sản và giới kĩ thuật, không một thế lực đen tối nào đứng vững được”, V.I. Lênin đã nhấn mạnh tới vai trò của giai cấp, tầng lớp nào dưới đây trong khối liên minh giai cấp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trí thức.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông dân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Để dự báo xu hướng vận động và phát triển của dân số ở những giai đoạn lịch sử nhất định và tác động của nó đến sự phát triển mọi mặt của một quốc gia, cần nghiên cứu cơ cấu xã hội nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội – tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội – dân số.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội - dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Liên minh giữa các giai cấp, tầng lớp trong thời kì quá độ lên chủ nghĩa xã hội phải dựa trên lập trường tư tưởng - chính trị của giai cấp, tầng lớp nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "Tập hợp những cộng đồng người có cùng đức tin tôn giáo dựa trên nền tảng giáo lí, giáo luật và thực hành các nghi lễ tôn giáo là",
+        "options": [
+          {
+            "id": "a",
+            "text": "cơ cấu xã hội – kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "cơ cấu xã hội – tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "cơ cấu xã hội - dân cư.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cơ cấu xã hội – nhân khẩu.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "Tập hợp những cộng đồng người hình thành, phát triển theo các nghề nghiệp khác nhau là kết quả của sự phát triển sản xuất, phân lao động là nội dung thể hiện khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - dân cư.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội – nhân khẩu.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội – kinh tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "Lực lượng nào dưới đây được Đảng ta coi là lực lượng chủ trương xây dựng thành lực lượng vững mạnh?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thanh niên",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Doanh nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "Nội dung nào dưới đây là nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyển giao và ứng dụng khoa học công nghệ hiện đại vào quá trình sản xuất.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đảm bảo các quyền dân chủ, quyền con người của công dân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nâng cao chất lượng sống cho nhân dân, thực hiện tốt an sinh xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phát triển giáo dục và đào tạo, nâng cao dân trí.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 45,
+        "question_text": "Cơ cấu xã hội nào dưới đây đề cập tới mối quan hệ về sở hữu tư liệu sản xuất, về tổ chức quản lí, về địa vị chính trị - xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội – tôn giáo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội – giai cấp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội - dân cư.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 46,
+        "question_text": "Giai cấp, tầng lớp nào hiện nay không còn trong cơ cấu xã hội - giai cấp ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Địa chủ,",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nông dân,",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 47,
+        "question_text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp, tâng lớp nào dưới đây có xu hướng giảm dần về số lượng và tỉ lệ trong cơ cấu xã hội - giai cấp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trí thức.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nông dân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Doanh nhân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 48,
+        "question_text": "Tổng thể các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu tư liệu sản xuất, về tổ chức quản lí quá trình sản xuất, về địa vị chính trị - | xã hội,... giữa các giai cấp và tầng lớp, đó là nội dung thể hiện khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - nghề nghiệp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội – nhân khẩu.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội - giai cấp.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội – kinh tế.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 49,
+        "question_text": "Nội dung nào dưới đây không phải là sự biến đổi có tính quy luật của cơ cấu xã hội - giai cấp trong thời kì quá độ lên chủ nghĩa xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ cấu xã hội - giai cấp biến đổi và chịu sự tác động của sự biến đổi dân số, tôn giáo.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị quy định bởi cơ cấu kinh tế.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cơ cấu xã hội - giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp xã hội mới.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ cấu xã hội – giai cấp biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh, dẫn đến sự xích lại gần nhau giữa các giai tầng trong xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 50,
+        "question_text": "Nội dung nào dưới đây không phải là phương hướng cơ bản để xây dựng cơ cấu xã hội – giai cấp và tăng cường liên minh giai cấp, tầng lớp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xây dựng và thực hiện hệ thống chính sách xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chủ động, tích cực hội nhập kinh tế quốc tế.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đẩy mạnh công nghiệp hoá, hiện đại hoá.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 51,
+        "question_text": "Trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp, quan trọng? tầng lớp nào dưới đây được coi là lực lượng lao động sáng tạo đặc biệt",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trí thức.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Doanh nhân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 52,
+        "question_text": "Sự biến đổi đa dạng, phức tạp của cơ cấu xã hội- giai cấp ở Việt Nam trong thời kì quá độ lên chủ nghĩa xã hội là do",
+        "options": [
+          {
+            "id": "a",
+            "text": "chuyển đổi cơ chế kinh tế kế hoạch hoá tập trung sang kinh tế thị trường",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "sự đa dạng của văn hoá, tôn giáo, tín ngưỡng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "duy trì cơ chế kế hoạch hoá tập trung quan liêu bao cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sự đa dạng về tộc người.",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

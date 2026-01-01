@@ -1,0 +1,1802 @@
+{
+  "quiz": {
+    "title": "Chương 4",
+    "total_questions": 69,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống: “Nước ta là nước dân chủ, nghĩa là nước nhà do nhân dân làm chủ. Nhân dân có quyền lợi làm chủ, thì phải có ...... làm tròn bổn phận công dân” (Hồ Chí Minh).",
+        "options": [
+          {
+            "id": "a",
+            "text": "nghĩa vụ.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "trình độ để.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "trách nhiệm.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "khả năng để.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Nhà nước của giai cấp bóc lột thực hiện chức năng nào dưới đây là chủ yếu",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chức năng tổ chức, xây dựng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chức năng bạo lực trấn áp.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Chức năng đối ngoại.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chức năng đối nội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Hình thái kinh tế – xã hội nào dưới đây không có nền dân chủ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chiếm hữu nô lệ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phong kiến.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cộng sản chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tư bản chủ nghĩa.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là",
+        "options": [
+          {
+            "id": "a",
+            "text": "nền kinh tế thị trường xã hội chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "chế độ sở hữu tư nhân về tư liệu sản xuất.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nền kinh tế hàng hoá nhiều thành phần.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "“Dân chủ là dân là chủ và dân làm chủ” là quan điểm của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "V.I. Lênin",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ph. Ăngghen.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "C. Mác.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Nền dân chủ xã hội chủ nghĩa có sự kết hợp hài hoà về",
+        "options": [
+          {
+            "id": "a",
+            "text": "lợi ích giữa cá nhân, tập thể với lợi ích của toàn xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "văn hoá giữa cá nhân, tập thể với toàn xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nhận thức giữa cá nhân, tập thể với toàn xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "quan điểm giữa cá nhân, tập thể với toàn xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Không ngừng mở rộng dân chủ, nâng cao mức độ giải phóng cho những người lao động, thu hút họ tham gia tự giác vào công việc quản lý nhà nước, quản lí xã hội là",
+        "options": [
+          {
+            "id": "a",
+            "text": "nguyên tắc cơ bản của nền dân chủ tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "nguyên tắc cơ bản của nền dân chủ xã hội chủ nghĩa.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "nội dung cơ bản của nền dân chủ xã hội chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nguyên tắc cơ bản của nền dân chủ chủ nô.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Căn cứ vào phạm vi tác động của quyền lực, nhà nước có chức năng nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chức năng giai cấp và chức năng xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chức năng lãnh đạo và chức năng giám sát.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chức năng quản lý kinh tế và quản lí chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chức năng đối nội và chức năng đối ngoại.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Nhà nước xã hội chủ nghĩa hiện thực đầu tiên được thành lập ở",
+        "options": [
+          {
+            "id": "a",
+            "text": "Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trung Quốc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Liên Xô.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cu Ba.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Định hướng nào dưới đây không phải là định hướng nhằm phát huy dân chủ xã hội chủ nghĩa ở Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xây dựng và từng bước hoàn thiện các hệ thống giám sát, phản biện xã hội, phát huy quyền làm chủ của nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa tạo ra cơ sở kinh tế vững chắc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh với tư cách là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phát huy vai trò của các tổ chức chính trị - xã hội bằng cách tách các tổ chức. này ra ngoài hệ thống chính trị nhằm tăng tính độc lập của các tổ chức",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Trong việc thực hiện quyền dân chủ trên lĩnh vực chính trị, công dân sẽ không thực hiện hành vi nào sau đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tham gia quản lý nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tham gia giám sát mọi hoạt động của nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ứng cử và bầu cử.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kiểm tra, thanh tra mọi hoạt động của nhà nước.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Nội dung nào dưới đây không phải là định hướng nhằm tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa đặt dưới sự lãnh đạo của nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Xây dựng đội ngũ cán bộ, công chức trong sạch, có năng lực.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cải cách thể chế và phương thức hoạt động của Nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đấu tranh phòng, chống tham nhũng, lãng phí, thực hành tiết kiệm",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Trong chế độ cộng sản nguyên thuỷ đã xuất hiện hình thức manh nha của dân chủ mà Ph. Ăngghen gọi là",
+        "options": [
+          {
+            "id": "a",
+            "text": "dân chủ sơ khai.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "dân chủ nguyên thuỷ.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "dân chủ công xã.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "dân chủ cộng sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Các quy chế dân chủ từ cơ sở cho đến Trung ương và trong các | tổ chức chính trị - xã hội đều thực hiện phương châm",
+        "options": [
+          {
+            "id": "a",
+            "text": "“dân biết, dân tham gia, dân làm, dân kiểm tra”,",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "“dân bàn, dân tham gia, dân kiểm tra”.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "“dân biết, dân bàn, dân làm, dân kiểm tra”.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "“dân biết, dân làm, dân kiểm tra”.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Trong xã hội có giai cấp, nhà nước luôn mang bản chất của",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp đại diện cho lực lượng sản xuất tiên tiến.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp có trình độ cao nhất.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "giai cấp thống trị xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "giai cấp có lực lượng đông đảo nhất.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Theo quan niệm từ thời cổ đại, dân chủ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "quyền tự do không giới hạn của mỗi người.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "quyền lực thuộc về thiểu số người trong xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quyền bình đẳng tuyệt đối của con người.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "quyền lực thuộc về nhân dân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Mức độ, phạm vi tham gia thật sự của quần chúng nhân dân vào công việc quản lý nhà nước phản ánh",
+        "options": [
+          {
+            "id": "a",
+            "text": "sự ra đời của nền dân chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "quá trình đấu tranh giành dân chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "cấu trúc của nền dân chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "trình độ phát triển của nền dân chủ.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Nền dân chủ xuất hiện khi",
+        "options": [
+          {
+            "id": "a",
+            "text": "có công cụ lao động.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "có xã hội loài người.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "có nhà nước.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "có nhà nước vô sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Nền dân chủ nào dưới đây là nền dân chủ rộng rãi nhất trong | lịch sử?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dân chủ cộng sản nguyên thuỷ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dân chủ chủ nô.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Dân chủ tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Dân chủ xã hội chủ nghĩa.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Yếu tố nào dưới đây là quan trọng nhất đối với việc phát huy quyền làm chủ của người dân?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nâng cao đời sống vật chất của người dân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nâng cao đời sống văn hoá tinh thần cho người dân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nâng cao bản lĩnh làm chủ cho người dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nâng cao trình độ dân trí cho người dân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Nhà nước xã hội chủ nghĩa trong thời kì quá độ thực hiện chức năng bạo lực trấn áp, nhưng đó là sự trấn áp của",
+        "options": [
+          {
+            "id": "a",
+            "text": "nhân dân lao động với lực lượng chậm tiến.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "nhân dân lao động đối với thiểu số bóc lột",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "giai cấp bóc lột đối với thiểu số chậm tiến.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "thiểu số bóc lột với nhân dân lao động",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Trên phương diện quyền lực, dân chủ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "một hình thức hay hình thái nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "một nguyên tắc – nguyên tắc dân chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quyền lực thuộc về nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "một quan niệm – quan niệm về dân chủ, về tinh thần dân chủ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Nội dung chủ yếu và mục đích cuối cùng của nhà nước xã hội chủ nghĩa là",
+        "options": [
+          {
+            "id": "a",
+            "text": "bạo lực trấn áp đối với thiểu số bóc lột, cải tạo xã hội cũ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "bạo lực trấn áp đối với thiểu số bóc lột.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "cải tạo xã hội cũ, xây dựng thành công xã hội mới.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "cải tạo xã hội cũ, đưa giai cấp công nhân lên địa vị làm chủ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống: Bán chủ xã hội chủ nghĩa là nền dân chủ ...... So với nền dân chủ tư sản, 15 nền dân chủ mà ở đó mọi quyền lực thuộc về nhân dân, ......dân chủ và pháp luật nằm trong sự thống nhất biện chứng, được thực hiện bằng ...đặt dưới sự lãnh đạo của Đảng Cộng sản.",
+        "options": [
+          {
+            "id": "a",
+            "text": "cao hơn về chất; dân là chủ và dân làm chủ, Nhà nước pháp quyền xã hội chủ nghĩa.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "cao nhất; của dân, do dân, vì dân; quyền lực nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tuyệt đối; dân bàn, dân làm, dân kiểm tra; Hiến pháp và pháp luật.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "tuyệt đối, dân bàn, dân làm, dân kiểm tra; Hiến pháp và pháp luật.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Bản chất của nhà nước xã hội chủ nghĩa chịu sự quy định của cơ sở kinh tế xã hội chủ nghĩa, đó là",
+        "options": [
+          {
+            "id": "a",
+            "text": "quan hệ sở hữu tư nhân về tư liệu sản xuất chủ yếu.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chủ yếu là quan hệ sở hữu xã hội về tư liệu sản xuất.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quan hệ sở hữu xã hội về tư liệu sản xuất chủ yếu.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "vừa quan hệ sở hữu tư nhân vừa quan hệ sở hữu xã hội về tư liệu sản xuất chủ yếu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Căn cứ vào lĩnh vực tác động của quyền lực nhà nước có",
+        "options": [
+          {
+            "id": "a",
+            "text": "chức năng chính trị, kinh tế, văn hoá..",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "chức năng đối nội và chức năng đối ngoại.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chức năng lãnh đạo và chức năng giám sát.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "chức năng giai cấp và chức năng xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Đảng Cộng sản Việt Nam khẳng định: “Trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng “lấy dân làm gốc”, xây dựng và phát huy quyền làm chủ của nhân dân lao động trong Đại hội nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội V.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IV.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VII.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Theo quan niệm của chủ nghĩa Mác - Lênin, dân chủ phản ánh cuộc đấu tranh của nhân dân lao động chống lại áp bức, cường quyền, vì thế dân chủ được coi là một",
+        "options": [
+          {
+            "id": "a",
+            "text": "giá trị xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "yếu tố xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tổ chức xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "thành phần xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định của Đảng Cộng sản Việt Nam trong Cương lĩnh năm 1991: “Dân chủ gắn liền với ..... xã hội phải được thực hiện trong thực tế cuộc Sống trên tất cả các lĩnh vực chính trị, kinh tế, văn hoá, xã hội thông qua hoạt động của Nhà nước do nhân dân cử ra và bằng các hình thức dân chủ ….”",
+        "options": [
+          {
+            "id": "a",
+            "text": "bình đẳng, gián tiếp,",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "công bằng, trực tiếp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "công bằng gián tiếp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "bình đẳng, trực tiến",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Căn cứ vào tính chất của quyền lực, nhà nước có chức năng nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chức năng lãnh đạo và chức năng giám sát.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chức năng quản lý kinh tế và quản lí chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chức năng đối nội và chức năng đối ngoại.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chức năng giai cấp và chức năng xã hội.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Nguyên nhân nào dưới đây dẫn tới sự xuất hiện của nhà nước?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự xuất hiện của chế độ tư hữu và phân chia giai cấp.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Sự xuất hiện chế độ tư bản chủ nghĩa và phân chia giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự xuất hiện của chế độ phong kiến và phân chia giai cấp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự xuất hiện của chế độ xã hội chủ nghĩa và phân chia giai cấp.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định sau “Trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng... xây dựng và phát huy quyền làm chủ của nhân dân lao động”",
+        "options": [
+          {
+            "id": "a",
+            "text": "lấy dân làm gốc.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "lấy dân làm nền tảng.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "lấy dân làm chỗ dựa.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "lấy dân làm đích.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Khái niệm “dân chủ xã hội chủ nghĩa” đồng nghĩa với thế nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dân chủ nguyên thuỷ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dân chủ vô sản.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Dân chủ chủ nô.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Dân chủ tư sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Nền dân chủ xã hội chủ nghĩa trên thế giới chính thức được xác lập gắn với sự kiện nào sau đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cách mạng tháng Hai Nga (1917)",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công xã Pari ra đời (1871).",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Cách mạng tháng Tám ở Việt Nam (1945).",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cách mạng tháng Mười Nga (1917).",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "“Quyền lực thuộc về nhân dân, nhân dân tự tổ chức và thực hiện trước hết và chủ yếu là thông qua nhà nước của mình” là nội dung của khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bình đăng.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hạnh phúc..",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Dân chủ.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Đảng Cộng sản Việt Nam rút ra bốn bài học chủ yếu, trong đó có bài học: “Đổi mới phải dựa vào nhân dân, vì lợi ích của nhân dân, phù hợp với thực tiễn, luôn luôn sáng tạo” tại Đại hội nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VIII (1996).",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII (1991).",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX (2001).",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VI (1986).",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Nhà nước xã hội chủ nghĩa vừa có tính nhân dân rộng rãi và tính dân tộc sâu sắc, vừa có bản chất của giai cấp",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chủ nô.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "địa chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "công nhân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Quyền lực Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là",
+        "options": [
+          {
+            "id": "a",
+            "text": "thống nhất, không có sự phân công và phối hợp giữa ba cơ quan:lập pháp, hành pháp và tư pháp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "không thống nhất nhưng có sự phân công và phối hợp giữa ba cơ quan: lập pháp, hành pháp và tư pháp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "có sự phân chia độc lập, rõ ràng giữa ba cơ quan: lập pháp, hành pháp và tư pháp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "thống nhất, có sự phân công và phối hợp giữa ba cơ quan lập pháp,",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam mang bản chất của giai cấp, tầng lớp nào sau đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nông dân và đội ngũ tri thức.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Công nhân và nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả các giai cấp, tầng lớp trong xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Nền dân chủ cao hơn về chất so với nền dân chủ tư sản, ở đó quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ và pháp luật nằm trong sự thống nhất biện chứng; được thực nước pháp quyền xã hội chủ nghĩa, đặt dưới sự lãnh đạo của Đảng Cộng sản là nền dân chủ",
+        "options": [
+          {
+            "id": "a",
+            "text": "nguyên thuỷ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chủ nô.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "xã hội chủ nghĩa.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "Tổ chức nào dưới đây đóng vai trò trụ cột trong hệ thống chính trị ở nước ta hiện nay?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng Cộng sản Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mặt trận Tổ quốc.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các tổ chức chính trị - xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nhà nước cộng hoà xã hội chủ nghĩa Việt Nam.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "Dân chủ có sự ra đời, tồn tại và phát triển trong một giai đoạn và sẽ mất đi khi trong xã hội không còn giai cấp, vì thế, dân chủ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "thành phần của xã hội. .",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "yếu tố văn hoá.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "phạm trù lịch sử.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "phạm trù giai cấp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "Ở Việt Nam, thuật ngữ “Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam” lần đầu tiên được nêu ra ở",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội đại biểu toàn quốc khoá VI của Đảng (1986).",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị đại biểu Trung ương 3 khoá VI (1989),",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị đại biểu toàn quốc giữa nhiệm kì khoá VII (1994).",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội đại biểu toàn quốc khoá VII (1991).",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "Câu nói: “Chế độ ta là chế độ dân chủ, tức là nhân dân là người chủ,mà chính phủ là người đầy tớ trung thành của nhân dân” là của ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Võ Nguyên Giáp.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hồ Chí Minh.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Phú Trọng.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phạm Văn Đồng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 45,
+        "question_text": "Trên phương diện tư tưởng, dân chủ là .",
+        "options": [
+          {
+            "id": "a",
+            "text": "quyền lực thuộc về nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "một quan niệm – quan niệm về dân chủ, về tinh thần dân chủ.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "một hình thức hay hình thái nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "một nguyên tắc – nguyên tắc dân chủ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 46,
+        "question_text": "Nhà nước tư sản mang bản chất của giai cấp",
+        "options": [
+          {
+            "id": "a",
+            "text": "công nhân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "chủ nô.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "tư sản.",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "địa chủ.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 47,
+        "question_text": "Nội dung nào dưới đây không phải là đặc trưng cơ bản của nền dân chủ xã hội chủ nghĩa?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thực hiện dân chủ với mọi tầng lớp, mọi giai cấp trong xã hội.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đảm bảo quyền lực thuộc về nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kết hợp hài hoà lợi ích cá nhân, tập thể và xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Có cơ sở kinh tế là chế độ công hữu về tư liệu sản xuất chủ yếu của xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 48,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện nhận định trong tác phẩm Phê phán cương lĩnh Gota: “Quyền không bao giờ có thể ở mức độ cao hơn chế độ...... và sự phát triển văn hoá của xã hội do chế độ... đó quyết định”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "chính trị.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "kinh tế.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "nhà nước.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 49,
+        "question_text": "Nền dân chủ xã hội chủ nghĩa dựa trên hệ tư tưởng của giai cấp, tầng lớp nào sau đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp nông dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp công nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tầng lớp trí thức.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 50,
+        "question_text": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "địa chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "chủ nổ.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "công nhân.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 51,
+        "question_text": "Về văn hoá, xã hội, nhà nước xã hội chủ nghĩa được xây dựng trên nền tảng tinh thần là",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư tưởng Hồ Chí Minh về chủ nghĩa xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "lí luận của chủ nghĩa Mác - Lênin và những giá trị văn hoá tiên tiến của nhân loại, đồng thời mang bản sắc riêng của dân tộc..",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "tư tưởng Hồ Chí Minh về chủ nghĩa xã hội và những giá trị văn hoá tiên tiến của nhân loại, đồng thời mang bản sắc riêng của dân tộc.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "lí luận của chủ nghĩa Mác – Lênin và những giá trị văn hoá tiên tiến của nhân loại",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 52,
+        "question_text": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là nhà nước",
+        "options": [
+          {
+            "id": "a",
+            "text": "của dân, do dân, vì dân, do Đảng Cộng sản Việt Nam lãnh đạo,",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "của dân, do dân, vì dân, do công nhân lãnh đạo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "của dân, do dân, vì dân, do nông dân lãnh đạo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "có lợi ích giữa cá nhân, tập thể và lợi ích của toàn xã hội.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 53,
+        "question_text": "Câu nói “Bất cứ một nhà nước nào cũng đều có nghĩa là dùng bạo lực nhưng toàn bộ sự khác nhau là ở chỗ dùng bạo lực đối với những người bị bóc lột hay đối với kẻ đi bóc lột” là của",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ph. Angghen.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hồ Chí Minh.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "C. Mác,",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "V.I. Lênin.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 54,
+        "question_text": "Dân chủ xã hội chủ nghĩa là nền dân chủ do",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng của trí thức lãnh đạo.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đảng cầm quyền lãnh đạo.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đảng của nhân dân lãnh đạo.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đảng của giai cấp công nhân lãnh đạo.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 55,
+        "question_text": "Chế độ dân chủ nhân dân ở nước ta được xác lập",
+        "options": [
+          {
+            "id": "a",
+            "text": "sau Cách mạng tháng Tám năm 1945.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "sau đại thắng mùa xuân năm 1975.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "sau khi Đảng Cộng sản Việt Nam ra đời năm 1930.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "sau chiến thắng Điện Biên Phủ năm 1954.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 56,
+        "question_text": "Nền dân chủ xã hội chủ nghĩa về cơ bản thống nhất với khái niệm nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyên chính vô sản.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Xã hội xã hội chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chủ nghĩa xã hội.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chính đảng của giai cấp công nhân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 57,
+        "question_text": "Mục tiêu nào dưới đây không phải là mục tiêu của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thực hiện đầy đủ các quyền làm chủ của nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kiểm soát chặt chẽ mọi mặt đời sống của nhân dân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phục vụ nhân dân, lắng nghe ý kiến của nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Gắn bó mật thiết với nhân dân.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 58,
+        "question_text": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được la | bởi tổ chức, cơ quan nào dưới đây?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng Cộng sản Việt Nam.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Quốc hội.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các tổ chức chính trị - xã.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mặt trận Tổ quốc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 59,
+        "question_text": "Quan niệm nào sau đây không đúng về dân chủ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dân chủ là một hình thái nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dân chủ là một giá trị chung của nhân loại.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Dân chủ là một trong những nguyên tắc tổ chức quản lý nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Dân chủ là quyền tự do tuyệt đối của con người.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 60,
+        "question_text": "Nhà nước mà ở đó sự thống trị chính trị thuộc về giai cấp công nhân, do cách mạng xã hội chủ nghĩa sản sinh ra và có sứ mệnh xây dựng thành công chủ nghĩa xã hội, đưa nhân dân lao động lên địa vị phát triển cao là nhà nước. làm chủ trên tất cả các mặt của đời sống xã hội trong một xã hội trong một xã hội phát triển cao là nhà nước",
+        "options": [
+          {
+            "id": "a",
+            "text": "tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "xã hội chủ nghĩa.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "cộng sản chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "phong kiến.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 61,
+        "question_text": "Đảng Cộng sản Việt Nam khẳng định: “Chúng ta xác định mối quan hệ Đảng lãnh đạo, nhân dân làm chủ, nhà nước quản lí thành cơ chế chung trong quản lí toàn bộ xã hội” trong Đại hội nào dưới đây:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VIII.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VI.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 62,
+        "question_text": "Nhà nước pháp quyền xã hội chủ nghĩa quản lí mọi mặt của đời sống xã hội chủ yếu bằng",
+        "options": [
+          {
+            "id": "a",
+            "text": "hiến pháp, pháp luật.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "tuyên truyền, giáo dục.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "đường lối, chính sách.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "báo chí, truyền thông.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 63,
+        "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định của Đảng Cộng sản Việt Nam trong Cương lĩnh năm 1991: “Dân với ......, kỷ cương, phải được thể chế hoá bằng ...... và ...... bảo đảm”",
+        "options": [
+          {
+            "id": "a",
+            "text": "đảm bảo, pháp luật, pháp luật.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "kỉ luật; hiến pháp; hiến pháp.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "đảm bảo; hiến pháp; hiến pháp.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "kỉ luật, pháp luật, pháp luật.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 64,
+        "question_text": "Trên phương diện tổ chức và quản lí xã hội, dân chủ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "một hình thức hay hình thái nhà nước.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "một quan niệm – quan niệm về dân chủ, về tinh thần dân chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quyền lực thuộc về nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "một nguyên tắc – nguyên tắc dân chủ.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 65,
+        "question_text": "Thành tố dân chủ xã hội chủ nghĩa đã được đưa vào tên của chủ đề Đại hội nào của Đảng Cộng sản Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội XI (2011).",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VIII (1996).",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội X (2006).",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội XII (2016).",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 66,
+        "question_text": "“Thực hành dân chủ là cái chìa khoá vạn năng có thể giải quyết mọi khó khăn” là câu nói của ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Mao Trạch Đông.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "V.I. Lênin.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phạm Văn Đồng.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 67,
+        "question_text": "Trên phương diện chế độ xã hội và trong lĩnh vực chính trị, dân chủ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "một nguyên tắc – nguyên tắc dân chủ.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "một quan niệm - quan niệm về dân chủ, về tinh thần dân chủ,",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "quyền lực thuộc về nhân dân.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "một hình thức hay hình thái nhà nước.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 68,
+        "question_text": "Với tư cách là một hình thái nhà nước, một chế độ chính trị, lịch sử nhân loại có ba nền dân chủ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "dân chủ chủ nô, dân chủ tư sản và dân chủ xã hội chủ nghĩa.",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "dân chủ chủ nô, dân chủ phong kiến và dân chủ tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "dân chủ nguyên thuỷ, dân chủ tư sản và dân chủ xã hội chủ nghĩa.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "dân chủ nguyên thuỷ, dân chủ phong kiến và dân chủ tư sản.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 69,
+        "question_text": "Dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của",
+        "options": [
+          {
+            "id": "a",
+            "text": "giai cấp tư sản và giai cấp tiểu tư sản.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "giai cấp công nhân.",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "giai cấp công nhân và đội ngũ trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "giai cấp công nhân và giai cấp nông dân.",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}
