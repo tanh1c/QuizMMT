@@ -8,6 +8,7 @@ const state = {
     userAnswers: {},
     flaggedQuestions: new Set(),
     reviewMode: false,
+    checkedQuestions: new Set(), // Questions where the user clicked "Check Answer"
     activeQuizId: null, // Track current quiz type
     timer: null,
     timeRemaining: 0,
@@ -16,6 +17,7 @@ const state = {
     config: {
         shuffleQuestions: true,
         shuffleAnswers: true,
+        instantFeedback: true,
         timeLimit: 0, // 0 = unlimited
     }
 };
@@ -75,16 +77,19 @@ async function init() {
                 state.allQuestions.push(...questions);
                 state.chapters.push({
                     ...chap,
+                    category: catKey,
                     count: questions.length
                 });
 
                 renderChapterCard(chap, questions.length, container);
+                renderMixSelectionItem(chap, questions.length, catKey);
             } catch (e) {
                 console.error(`Error loading ${chap.file}:`, e);
             }
         }
     }
 
+    setupMixControls();
     setupEventListeners();
     renderHistory();
     renderCustomQuizzes();
@@ -109,25 +114,142 @@ async function init() {
     }
 }
 
+function renderMixSelectionItem(chap, count, category) {
+    const listId = category === 'mmt' ? 'mix-mmt-list' : 'mix-cnxh-list';
+    const container = document.getElementById(listId);
+    if (!container) return;
+
+    const label = document.createElement('label');
+    label.className = 'chapter-checkbox-item';
+    label.innerHTML = `
+        <input type="checkbox" class="mix-chapter-checkbox" data-id="${chap.id}">
+        <span>${chap.name}</span>
+        <span class="count-badge">${count} câu</span>
+    `;
+    container.appendChild(label);
+}
+
+function setupMixControls() {
+    const selectAllBtn = document.getElementById('select-all-chapters');
+    const startMixBtn = document.getElementById('start-mix-btn');
+
+    if (selectAllBtn) {
+        selectAllBtn.onclick = () => {
+            const checkboxes = document.querySelectorAll('.mix-chapter-checkbox');
+            const allChecked = Array.from(checkboxes).every(cb => cb.checked);
+            checkboxes.forEach(cb => cb.checked = !allChecked);
+            selectAllBtn.textContent = allChecked ? "Chọn tất cả" : "Bỏ chọn tất cả";
+            updateMaxQuestionsCount();
+        };
+    }
+
+    if (startMixBtn) {
+        startMixBtn.onclick = startMixedQuiz;
+    }
+
+    // Add listener for individual checkboxes
+    document.addEventListener('change', (e) => {
+        if (e.target.classList.contains('mix-chapter-checkbox')) {
+            updateMaxQuestionsCount();
+        }
+    });
+}
+
+function updateMaxQuestionsCount() {
+    const selectedIds = Array.from(document.querySelectorAll('.mix-chapter-checkbox:checked'))
+        .map(cb => cb.dataset.id);
+
+    let total = 0;
+    selectedIds.forEach(id => {
+        const chap = state.chapters.find(c => c.id === id);
+        if (chap) total += chap.count;
+    });
+
+    const maxInput = document.getElementById('max-questions');
+    if (maxInput) {
+        maxInput.value = total;
+    }
+}
+
+function startMixedQuiz() {
+    const selectedIds = Array.from(document.querySelectorAll('.mix-chapter-checkbox:checked'))
+        .map(cb => cb.dataset.id);
+
+    if (selectedIds.length === 0) {
+        alert('Vui lòng chọn ít nhất một chương để trộn đề!');
+        return;
+    }
+
+    const maxQuestions = parseInt(document.getElementById('max-questions').value) || 50;
+
+    // Filter questions from selected chapters
+    let filteredQuestions = state.allQuestions.filter(q => selectedIds.includes(q.chapterId));
+
+    if (filteredQuestions.length === 0) {
+        alert('Không tìm thấy câu hỏi nào trong các chương đã chọn!');
+        return;
+    }
+
+    // Shuffle all potential questions first
+    filteredQuestions = shuffle([...filteredQuestions]);
+
+    // Limit to max questions
+    state.selectedQuestions = filteredQuestions.slice(0, maxQuestions);
+
+    if (state.config.shuffleAnswers) {
+        state.selectedQuestions = state.selectedQuestions.map(q => ({
+            ...q,
+            options: shuffle([...q.options])
+        }));
+    }
+
+    state.activeQuizId = 'mixed_custom_' + Date.now();
+    state.currentQuestionIndex = 0;
+    state.navPage = 0;
+    state.userAnswers = {};
+    state.flaggedQuestions = new Set();
+    state.checkedQuestions = new Set();
+    state.reviewMode = false;
+    state.timeRemaining = state.config.timeLimit * 60;
+    state.elapsedTime = 0;
+
+    homeScreen.classList.add('hidden');
+    quizScreen.classList.remove('hidden');
+
+    // Reset UI states
+    document.getElementById('flag-btn').classList.remove('hidden');
+    submitBtn.classList.remove('hidden');
+    submitBtn.classList.add('btn-success');
+    submitBtn.textContent = "Nộp bài ngay";
+    submitBtn.onclick = endQuiz;
+
+    renderSideNav();
+    startTimer();
+    renderQuestion();
+}
+
 function renderHistory() {
-    const historyListEl = document.getElementById('history-list');
+    const historyListEl = document.getElementById('history-list-mini');
+    if (!historyListEl) return;
+
     const history = JSON.parse(localStorage.getItem('quiz_history') || '[]');
 
-    if (history.length === 0) return;
+    if (history.length === 0) {
+        historyListEl.innerHTML = '<p class="meta" style="text-align: center;">Chưa có lịch sử làm bài</p>';
+        return;
+    }
 
     historyListEl.innerHTML = '';
     history.reverse().forEach((item, index) => {
         const div = document.createElement('div');
         div.className = 'history-item';
+        div.style.padding = '0.75rem 1rem';
         div.innerHTML = `
             <div class="history-info">
-                <h4>${item.title}</h4>
-                <div class="history-meta">${item.date} • ${item.totalQuestions} câu</div>
+                <h4 style="font-size: 0.9rem;">${item.title}</h4>
+                <div class="history-meta" style="font-size: 0.75rem;">${item.score}/${item.totalQuestions} • ${item.date}</div>
             </div>
-            <div style="display: flex; align-items: center; gap: 1.5rem;">
-                <div class="history-score">${item.score}/${item.totalQuestions}</div>
-                <button class="btn-outline btn-history-review" onclick="viewHistoryItem(${history.length - 1 - index})">Xem lại</button>
-            </div>
+            <button class="btn-outline" style="padding: 0.25rem 0.5rem; font-size: 0.75rem;" onclick="viewHistoryItem(${history.length - 1 - index})">Xem</button>
         `;
         historyListEl.appendChild(div);
     });
@@ -199,8 +321,11 @@ function setupEventListeners() {
         }
     };
 
+    document.getElementById('check-btn').onclick = checkAnswer;
+
     document.getElementById('shuffle-questions').onchange = (e) => state.config.shuffleQuestions = e.target.checked;
     document.getElementById('shuffle-answers').onchange = (e) => state.config.shuffleAnswers = e.target.checked;
+    document.getElementById('instant-feedback').onchange = (e) => state.config.instantFeedback = e.target.checked;
     document.getElementById('time-limit').onchange = (e) => state.config.timeLimit = parseInt(e.target.value);
 
     document.getElementById('clear-data-btn').onclick = clearAllData;
@@ -249,6 +374,7 @@ function startQuiz() {
             state.selectedQuestions = data.questions;
             state.userAnswers = data.userAnswers;
             state.flaggedQuestions = new Set(data.flaggedQuestions);
+            state.checkedQuestions = new Set(data.checkedQuestions || []);
             state.currentQuestionIndex = data.currentIndex;
             state.timeRemaining = data.timeRemaining;
             state.elapsedTime = data.elapsedTime;
@@ -284,6 +410,7 @@ function startQuiz() {
     state.navPage = 0;
     state.userAnswers = {};
     state.flaggedQuestions = new Set();
+    state.checkedQuestions = new Set();
     state.reviewMode = false;
     state.timeRemaining = state.config.timeLimit * 60;
     state.elapsedTime = 0;
@@ -293,8 +420,10 @@ function startQuiz() {
 
     // Reset UI states
     document.getElementById('flag-btn').classList.remove('hidden');
+    submitBtn.classList.remove('hidden');
     submitBtn.classList.add('btn-success');
     submitBtn.textContent = "Nộp bài ngay";
+    submitBtn.onclick = endQuiz;
 
     renderSideNav();
     startTimer();
@@ -382,6 +511,17 @@ function renderQuestion() {
     questionTextEl.innerHTML = formattedText;
 
     optionsListEl.innerHTML = '';
+    // Check Answer Logic
+    const hasChecked = state.checkedQuestions.has(state.currentQuestionIndex);
+    const checkBtn = document.getElementById('check-btn');
+
+    if (state.config.instantFeedback && !state.reviewMode) {
+        checkBtn.classList.remove('hidden');
+        checkBtn.disabled = state.userAnswers[state.currentQuestionIndex] === undefined || hasChecked;
+    } else {
+        checkBtn.classList.add('hidden');
+    }
+
     q.options.forEach((opt, index) => {
         const item = document.createElement('div');
         item.className = 'option-item';
@@ -389,7 +529,7 @@ function renderQuestion() {
         const isSelected = state.userAnswers[state.currentQuestionIndex] === opt.text;
         if (isSelected) item.classList.add('selected');
 
-        if (state.reviewMode) {
+        if (state.reviewMode || hasChecked) {
             if (opt.is_correct) {
                 item.classList.add('correct');
                 if (!isSelected) item.classList.add('should-have-selected');
@@ -401,12 +541,12 @@ function renderQuestion() {
         item.innerHTML = `
             <div class="option-id">${String.fromCharCode(65 + index)}</div>
             <div class="option-text">${opt.text}</div>
-            ${state.reviewMode && opt.is_correct ? '<div class="review-indicator correct-text">✓ Đáp án đúng</div>' : ''}
-            ${state.reviewMode && isSelected && !opt.is_correct ? '<div class="review-indicator incorrect-text">✕ Bạn đã chọn</div>' : ''}
+            ${(state.reviewMode || hasChecked) && opt.is_correct ? '<div class="review-indicator correct-text">✓ Đáp án đúng</div>' : ''}
+            ${(state.reviewMode || hasChecked) && isSelected && !opt.is_correct ? '<div class="review-indicator incorrect-text">✕ Bạn đã chọn</div>' : ''}
         `;
 
         item.onclick = () => {
-            if (state.reviewMode) return; // Disable selection in review mode
+            if (state.reviewMode || hasChecked) return; // Disable selection if checked or in review mode
             state.userAnswers[state.currentQuestionIndex] = opt.text;
             saveProgress(); // Auto save on every click
             renderQuestion();
@@ -569,6 +709,7 @@ function saveProgress() {
         questions: state.selectedQuestions,
         userAnswers: state.userAnswers,
         flaggedQuestions: Array.from(state.flaggedQuestions),
+        checkedQuestions: Array.from(state.checkedQuestions),
         currentIndex: state.currentQuestionIndex,
         timeRemaining: state.timeRemaining,
         elapsedTime: state.elapsedTime,
@@ -585,11 +726,26 @@ function saveToHistory() {
     });
 
     const history = JSON.parse(localStorage.getItem('quiz_history') || '[]');
-    const title = state.activeQuizId === 'all' ? 'Tổng hợp' : state.selectedQuestions[0].chapterName;
+    let title = 'Bộ đề tùy chỉnh';
+
+    if (state.activeQuizId === 'all') {
+        title = 'Tổng hợp tất cả';
+    } else if (state.activeQuizId && state.activeQuizId.startsWith('mixed_custom_')) {
+        const selectedCount = document.querySelectorAll('.mix-chapter-checkbox:checked').length;
+        title = `Tổng hợp (${selectedCount} chương)`;
+    } else if (state.selectedQuestions[0]?.chapterName) {
+        title = state.selectedQuestions[0].chapterName;
+    }
 
     history.push({
         title: title,
-        date: new Date().toLocaleString('vi-VN'),
+        date: new Date().toLocaleString('vi-VN', {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+        }),
         score: totalCorrect,
         totalQuestions: state.selectedQuestions.length,
         questions: state.selectedQuestions,
@@ -685,6 +841,13 @@ function parseMarkdownTable(text) {
 
     if (inTable) html += '</table>';
     return html;
+}
+
+function checkAnswer() {
+    if (state.userAnswers[state.currentQuestionIndex] === undefined) return;
+    state.checkedQuestions.add(state.currentQuestionIndex);
+    saveProgress();
+    renderQuestion();
 }
 
 function startReview() {

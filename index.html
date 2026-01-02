@@ -17,94 +17,136 @@
                 <p>Nền tảng ôn tập thông minh, sạch sẽ & hiệu quả</p>
             </header>
 
-            <section class="glass-panel settings-bar">
-                <div class="toggle-group">
-                    <label class="toggle-item">
-                        <input type="checkbox" id="shuffle-questions" checked>
-                        <span>Đảo câu hỏi</span>
-                    </label>
-                    <label class="toggle-item">
-                        <input type="checkbox" id="shuffle-answers" checked>
-                        <span>Đảo đáp án</span>
-                    </label>
-                </div>
-                <div class="timer-setting">
-                    <span class="meta">Thời gian làm bài: </span>
-                    <select id="time-limit" class="btn-outline">
-                        <option value="0" selected>Vô hạn (Practice)</option>
-                        <option value="15">15 phút</option>
-                        <option value="30">30 phút</option>
-                        <option value="45">45 phút</option>
-                        <option value="60">60 phút</option>
-                    </select>
-                </div>
-            </section>
+            <div class="home-layout">
+                <main class="home-main">
+                    <section class="subject-section">
+                        <h2 class="section-title">🌐 Mạng máy tính</h2>
+                        <div class="chapter-grid" id="chapter-list-mmt">
+                            <!-- MMT chapters injected here -->
+                        </div>
+                    </section>
 
-            <section class="subject-section">
-                <h2 class="section-title">🌐 Môn: Mạng máy tính (MMT)</h2>
-                <div class="chapter-grid" id="chapter-list-mmt">
-                    <!-- MMT chapters will be injected here -->
-                </div>
-            </section>
+                    <section class="subject-section">
+                        <h2 class="section-title">📕 Chủ nghĩa xã hội</h2>
+                        <div class="chapter-grid" id="chapter-list-cnxh">
+                            <!-- CNXH chapters injected here -->
+                        </div>
+                    </section>
 
-            <section class="subject-section">
-                <h2 class="section-title">📕 Môn: Chủ nghĩa xã hội (CNXH)</h2>
-                <div class="chapter-grid" id="chapter-list-cnxh">
-                    <!-- CNXH chapters will be injected here -->
-                </div>
-            </section>
+                    <section class="subject-section custom-mix-section">
+                        <div class="section-header">
+                            <h2 class="section-title">🚀 Chế độ luyện tập tùy chỉnh</h2>
+                            <button id="select-all-chapters" class="link-hint"
+                                style="background:none;border:none;cursor:pointer;">Chọn tất cả</button>
+                        </div>
 
-            <div class="chapter-grid" style="margin-top: 2rem;">
-                <div class="chapter-card premium-card" data-chapter="all">
-                    <h3>Tổng hợp tất cả</h3>
-                    <p class="meta">Làm toàn bộ câu hỏi từ tất cả các môn và chương</p>
-                </div>
-            </div>
+                        <div class="glass-panel mix-panel">
+                            <div class="mix-groups">
+                                <div class="mix-group">
+                                    <h4>🌐 Mạng máy tính</h4>
+                                    <div class="chapters-selection" id="mix-mmt-list">
+                                        <!-- MMT chapters for mixing -->
+                                    </div>
+                                </div>
+                                <div class="mix-group">
+                                    <h4>📕 Chủ nghĩa xã hội</h4>
+                                    <div class="chapters-selection" id="mix-cnxh-list">
+                                        <!-- CNXH chapters for mixing -->
+                                    </div>
+                                </div>
+                            </div>
 
-            <section class="custom-quiz-section">
-                <h2 class="section-title">📁 Bộ đề tự tạo</h2>
-                <p class="meta" style="margin-bottom: 1rem;">Upload file JSON để tạo bộ đề riêng. <a
-                        href="sample_quiz_template.json" download style="color: var(--brand-primary);">Tải file mẫu</a>
-                </p>
+                            <div class="mix-options-footer">
+                                <div class="option-item-inline">
+                                    <label for="max-questions">Số câu hỏi tối đa:</label>
+                                    <input type="number" id="max-questions" value="50" min="1" max="500"
+                                        class="input-modern-sm">
+                                </div>
+                                <button id="start-mix-btn" class="btn-primary" style="width: 100%; margin-top: 1rem;">
+                                    Bắt đầu trộn đề
+                                </button>
+                            </div>
+                        </div>
+                    </section>
 
-                <div class="upload-area" id="upload-area">
-                    <input type="file" id="quiz-file-input" accept=".json" style="display: none;">
-                    <div class="upload-content">
-                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--brand-primary)"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
-                            <polyline points="17 8 12 3 7 8" />
-                            <line x1="12" y1="3" x2="12" y2="15" />
-                        </svg>
-                        <p>Kéo thả file hoặc <span style="color: var(--brand-primary); cursor: pointer;">chọn
-                                file</span></p>
+                    <section class="custom-quiz-section">
+                        <div class="section-header">
+                            <h2 class="section-title">📁 Bộ đề tự tạo</h2>
+                            <a href="sample_quiz_template.json" download class="link-hint">Tải file mẫu</a>
+                        </div>
+
+                        <div class="upload-area" id="upload-area">
+                            <input type="file" id="quiz-file-input" accept=".json" style="display: none;">
+                            <div class="upload-content">
+                                <svg width="32" height="32" viewBox="0 0 24 24" fill="none"
+                                    stroke="var(--brand-primary)" stroke-width="2">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                                    <polyline points="17 8 12 3 7 8" />
+                                    <line x1="12" y1="3" x2="12" y2="15" />
+                                </svg>
+                                <p>Kéo thả hoặc <span class="highlight">chọn file JSON</span></p>
+                            </div>
+                        </div>
+
+                        <div id="custom-quiz-list" class="chapter-grid" style="margin-top: 1rem;">
+                            <!-- Custom quizzes injected here -->
+                        </div>
+                    </section>
+                </main>
+
+                <aside class="home-sidebar">
+                    <div class="glass-panel control-card sticky-card">
+                        <h3 class="card-title">Cấu hình bài thi</h3>
+
+                        <div class="settings-group">
+                            <label class="toggle-item">
+                                <input type="checkbox" id="shuffle-questions" checked>
+                                <span>Đảo thứ tự câu hỏi</span>
+                            </label>
+                            <label class="toggle-item">
+                                <input type="checkbox" id="shuffle-answers" checked>
+                                <span>Đảo thứ tự đáp án</span>
+                            </label>
+                            <label class="toggle-item">
+                                <input type="checkbox" id="instant-feedback" checked>
+                                <span>Kiểm tra đáp án ngay</span>
+                            </label>
+                        </div>
+
+                        <div class="timer-setting">
+                            <label for="time-limit">Thời gian làm bài:</label>
+                            <select id="time-limit" class="select-modern">
+                                <option value="0" selected>Luyện tập (Vô hạn)</option>
+                                <option value="15">15 phút</option>
+                                <option value="30">30 phút</option>
+                                <option value="45">45 phút</option>
+                                <option value="60">60 phút</option>
+                            </select>
+                        </div>
+
+                        <div class="action-zone">
+                            <button id="start-btn" class="btn-primary start-quiz-btn">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2.5">
+                                    <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                                </svg>
+                                Bắt đầu ngay
+                            </button>
+                            <p class="hint-text">Chọn một chương ở bên trái để bắt đầu</p>
+                        </div>
                     </div>
-                </div>
 
-                <div id="custom-quiz-list" class="chapter-grid" style="margin-top: 1.5rem;">
-                    <!-- Custom quizzes will be injected here -->
-                </div>
-            </section>
-
-            <div class="action-bar">
-                <button id="start-btn" class="btn-primary start-quiz-btn">
-                    Bắt đầu bài thi
-                </button>
+                    <div class="glass-panel history-card">
+                        <div class="card-header">
+                            <h3 class="card-title">Gần đây</h3>
+                            <button id="clear-data-btn" class="btn-text-error">Xóa sạch</button>
+                        </div>
+                        <div id="history-list" class="history-list-mini">
+                            <p class="meta">Chưa có lịch sử</p>
+                        </div>
+                    </div>
+                </aside>
             </div>
-
-            <section class="history-section" id="history-section">
-                <div style="display: flex; justify-content: space-between; align-items: center;">
-                    <h2 class="section-title" style="margin-bottom: 0;">Lịch sử làm bài</h2>
-                    <button id="clear-data-btn" class="btn-outline"
-                        style="color: var(--clr-error); border-color: var(--clr-error); font-size: 0.8rem; padding: 0.5rem 1rem;">
-                        Xóa toàn bộ dữ liệu
-                    </button>
-                </div>
-                <div id="history-list" class="history-list">
-                    <!-- History items will be injected here -->
-                    <p class="meta" style="text-align: center;">Chưa có lịch sử làm bài</p>
-                </div>
-            </section>
         </div>
 
         <!-- Quiz Screen -->
@@ -154,6 +196,13 @@
                     <div class="quiz-controls">
                         <button id="prev-btn" class="btn-outline">Quay lại</button>
                         <div class="center-controls" style="gap: 1rem;">
+                            <button id="check-btn" class="btn-outline btn-check hidden">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                </svg>
+                                Kiểm tra đáp án
+                            </button>
                             <button id="flag-btn" class="btn-outline btn-flag">
                                 <svg class="flag-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-linecap="round" stroke-linejoin="round">

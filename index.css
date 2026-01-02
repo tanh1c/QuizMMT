@@ -168,12 +168,32 @@ input[type="checkbox"] {
     cursor: pointer;
 }
 
-/* Grid System */
+/* Main Home Layout */
+.home-layout {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 2rem;
+    align-items: flex-start;
+}
+
+.home-main {
+    min-width: 0;
+}
+
+.home-sidebar {
+    position: sticky;
+    top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+/* Chapter Grid */
 .chapter-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 1.5rem;
-    margin-bottom: 2.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2rem;
 }
 
 .chapter-card {
@@ -205,21 +225,98 @@ input[type="checkbox"] {
 
 .custom-quiz-section,
 .subject-section {
-    margin-top: 3rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--border-light);
+    margin-bottom: 3rem;
 }
 
-.subject-section:first-of-type {
-    margin-top: 1rem;
-    padding-top: 0;
-    border-top: none;
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.25rem;
+}
+
+.link-hint {
+    color: var(--brand-primary);
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.link-hint:hover {
+    text-decoration: underline;
+}
+
+/* Cards & Components */
+.control-card {
+    padding: 1.75rem;
+}
+
+.card-title {
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+}
+
+.settings-group {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.select-modern {
+    width: 100%;
+    padding: 0.75rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-light);
+    background: var(--bg-main);
+    font-family: inherit;
+    font-weight: 500;
+    margin-top: 0.5rem;
+}
+
+.action-zone {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.hint-text {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.75rem;
+}
+
+.history-card {
+    padding: 1.5rem;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.btn-text-error {
+    background: none;
+    border: none;
+    color: var(--clr-error);
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.history-list-mini {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-height: 300px;
+    overflow-y: auto;
 }
 
 .upload-area {
     border: 2px dashed var(--border-light);
     border-radius: var(--radius-md);
-    padding: 2rem;
+    padding: 1.5rem;
     text-align: center;
     cursor: pointer;
     transition: var(--transition);
@@ -236,31 +333,17 @@ input[type="checkbox"] {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.75rem;
-}
-
-.custom-card-actions {
-    display: flex;
     gap: 0.5rem;
-    margin-top: 0.75rem;
 }
 
-.btn-delete-quiz {
-    padding: 0.25rem 0.5rem;
-    font-size: 0.7rem;
-    color: var(--clr-error);
-    border-color: var(--clr-error);
+.upload-content p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
 }
 
-.btn-delete-quiz:hover {
-    background: rgba(239, 68, 68, 0.1);
-}
-
-.history-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 1.5rem;
+.highlight {
+    color: var(--brand-primary);
+    font-weight: 600;
 }
 
 .history-item {
@@ -304,9 +387,94 @@ input[type="checkbox"] {
     margin-bottom: 0.5rem;
 }
 
-.chapter-card .meta {
+.mix-panel {
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.mix-groups {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.mix-group h4 {
+    font-size: 0.9rem;
     color: var(--text-muted);
-    font-size: 0.875rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.chapters-selection {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-height: 200px;
+    overflow-y: auto;
+    padding-right: 0.5rem;
+}
+
+.chapter-checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.chapter-checkbox-item:hover {
+    background: var(--bg-main);
+}
+
+.chapter-checkbox-item input {
+    width: 1.125rem;
+    height: 1.125rem;
+}
+
+.chapter-checkbox-item span {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.chapter-checkbox-item .count-badge {
+    margin-left: auto;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    background: var(--border-light);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.mix-options-footer {
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-light);
+}
+
+.option-item-inline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.input-modern-sm {
+    padding: 0.5rem;
+    border: 1px solid var(--border-light);
+    border-radius: 6px;
+    width: 80px;
+    text-align: center;
+    font-family: inherit;
+    font-weight: 600;
+}
+
+@media (max-width: 640px) {
+    .mix-groups {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* Quiz In-Game */
@@ -681,6 +849,22 @@ input[type="checkbox"] {
     color: white;
 }
 
+.btn-check {
+    background: var(--brand-soft);
+    color: var(--brand-primary);
+    border-color: var(--brand-primary);
+}
+
+.btn-check:hover:not(:disabled) {
+    background: var(--brand-primary);
+    color: white;
+}
+
+.btn-check:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
 .nav-box.current {
     border: 2px solid var(--brand-primary);
     color: var(--brand-primary);
@@ -755,6 +939,18 @@ input[type="checkbox"] {
     gap: 0.5rem;
     margin-bottom: 1rem;
     width: fit-content;
+}
+
+@media (max-width: 1024px) {
+    .home-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .home-sidebar {
+        position: static;
+        order: -1;
+        /* Place settings above chapters on mobile */
+    }
 }
 
 @media (max-width: 1100px) {
