@@ -37,37 +37,38 @@ async function init() {
         mmt: {
             containerId: 'chapter-list-mmt',
             chapters: [
-                { id: 'chap1', name: 'Chương 1', file: 'Question/chap1.json' },
-                { id: 'chap2', name: 'Chương 2', file: 'Question/chap2.json' },
-                { id: 'chap3', name: 'Chương 3', file: 'Question/chap3.json' },
-                { id: 'chap4,5', name: 'Chương 4 & 5', file: 'Question/chap4,5.json' },
-                { id: 'chap6,7,8', name: 'Chương 6, 7 & 8', file: 'Question/chap6,7,8.json' }
+                { id: 'chap1', name: 'Chương 1', file: 'Question/MangMayTinh/chap1.json' },
+                { id: 'chap2', name: 'Chương 2', file: 'Question/MangMayTinh/chap2.json' },
+                { id: 'chap3', name: 'Chương 3', file: 'Question/MangMayTinh/chap3.json' },
+                { id: 'chap4,5', name: 'Chương 4 & 5', file: 'Question/MangMayTinh/chap4,5.json' },
+                { id: 'chap6,7,8', name: 'Chương 6, 7 & 8', file: 'Question/MangMayTinh/chap6,7,8.json' }
             ]
         },
         cnxh: {
             containerId: 'chapter-list-cnxh',
             chapters: [
-                { id: 'Chuong2_p1', name: 'Chương 2 (P1)', file: 'Question/Chuong2_p1.json' },
-                { id: 'Chuong2_p2', name: 'Chương 2 (P2)', file: 'Question/Chuong2_p2.json' },
-                { id: 'Chuong4', name: 'Chương 4', file: 'Question/Chuong4.json' },
-                { id: 'Chuong5', name: 'Chương 5', file: 'Question/Chuong5.json' },
-                { id: 'Chuong6_p1', name: 'Chương 6 (P1)', file: 'Question/Chuong6_p1.json' },
-                { id: 'Chuong6_p2_1', name: 'Chương 6 (P2-1)', file: 'Question/Chuong6_p2_1.json' },
-                { id: 'Chuong6_p2_2', name: 'Chương 6 (P2-2)', file: 'Question/Chuong6_p2_2.json' },
-                { id: 'Chuong7', name: 'Chương 7', file: 'Question/Chuong7.json' },
-                { id: 'OnTap', name: 'Ôn tập tổng hợp', file: 'Question/OnTap.json' }
+                { id: 'Chuong2_p1', name: 'Chương 2 (P1)', file: 'Question/ChuNghiaXaHoi/Chuong2_p1.json' },
+                { id: 'Chuong2_p2', name: 'Chương 2 (P2)', file: 'Question/ChuNghiaXaHoi/Chuong2_p2.json' },
+                { id: 'Chuong4', name: 'Chương 4', file: 'Question/ChuNghiaXaHoi/Chuong4.json' },
+                { id: 'Chuong5', name: 'Chương 5', file: 'Question/ChuNghiaXaHoi/Chuong5.json' },
+                { id: 'Chuong6_p1', name: 'Chương 6 (P1)', file: 'Question/ChuNghiaXaHoi/Chuong6_p1.json' },
+                { id: 'Chuong6_p2_1', name: 'Chương 6 (P2-1)', file: 'Question/ChuNghiaXaHoi/Chuong6_p2_1.json' },
+                { id: 'Chuong6_p2_2', name: 'Chương 6 (P2-2)', file: 'Question/ChuNghiaXaHoi/Chuong6_p2_2.json' },
+                { id: 'Chuong7', name: 'Chương 7', file: 'Question/ChuNghiaXaHoi/Chuong7.json' },
+                { id: 'OnTap', name: 'Ôn tập tổng hợp', file: 'Question/ChuNghiaXaHoi/OnTap.json' }
             ]
         },
         lsd: {
             containerId: 'chapter-list-lsd',
             chapters: [
-                { id: 'lsd_chuong1', name: 'Chương 1', file: 'Question/Quiz1/lich_su_dang_chuong1.json' },
-                { id: 'lsd_chuong2', name: 'Chương 2', file: 'Question/Quiz1/lich_su_dang_chuong2.json' },
-                { id: 'lsd_chuong3', name: 'Chương 3', file: 'Question/Quiz1/lich_su_dang_chuong3.json' },
-                { id: 'lsd_chuong4', name: 'Chương 4', file: 'Question/Quiz1/lich_su_dang_chuong4.json' },
-                { id: 'lsd_chuong5', name: 'Chương 5', file: 'Question/Quiz1/lich_su_dang_chuong5.json' },
-                { id: 'lsd_chuong7', name: 'Chương 7', file: 'Question/Quiz1/lich_su_dang_chuong7.json' },
-                { id: 'lsd_quiz2', name: 'Quiz 2', file: 'Question/Quiz2/quiz2.json' }
+                { id: 'lsd_chuong1', name: 'Chương 1', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong1.json' },
+                { id: 'lsd_chuong2', name: 'Chương 2', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong2.json' },
+                { id: 'lsd_chuong3', name: 'Chương 3', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong3.json' },
+                { id: 'lsd_chuong4', name: 'Chương 4', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong4.json' },
+                { id: 'lsd_chuong5', name: 'Chương 5', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong5.json' },
+                { id: 'lsd_chuong7', name: 'Chương 7', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong7.json' },
+                { id: 'lsd_quiz2', name: 'Quiz 2', file: 'Question/LichSuDang/Quiz2/quiz2.json' },
+                { id: 'lsd_quiz_final_1589', name: 'Quiz Final 1589', file: 'Question/LichSuDang/Quiz_Final/quiz231.json' }
             ]
         }
     };
