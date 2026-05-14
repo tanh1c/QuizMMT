@@ -1,0 +1,1048 @@
+{
+  "quiz": {
+    "title": "ĐỀ THI LỊCH SỬ ĐẢNG KỲ 211",
+    "total_questions": 40,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Lý luận nào sau đây đã được cán bộ của Hội Việt Nam Cách mạng Thanh niên truyền bá vào Việt Nam?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lý luận cách mạng tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lý luận cách mạng vô sản",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lý luận đấu tranh giai cấp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lý luận giải phóng dân tộc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Mâu thuẫn cơ bản và chủ yếu trong xã hội Việt Nam đầu thế kỷ XX là mâu thuẫn giữa",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp nông dân với giai cấp địa chủ phong kiến",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp công nhân với giai cấp tư sản dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Công nhân và nông dân với đế quốc và phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Dân tộc Việt Nam với đế quốc xâm lược và tay sai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Trong kháng chiến chống thực dân Pháp, Đảng xác định phương châm dựa vào sức mình là chính là vì",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhân dân không cần sự giúp đỡ bên ngoài",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tránh sự lệ thuộc vào tình hình nước Pháp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cần phát huy cao độ mọi nỗ lực chủ quan",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nhân dân quyết tâm đánh Pháp một mình",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Nguyên tắc quan trọng nhất của Việt Nam trong việc ký Hiệp định Sơ bộ (6/3/1946) và Hiệp định Giơnevơ về Đông Dương (21/7/1954) là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảm bảo giành thắng lợi từng bước",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phân hóa và cô lập cao kẻ thù",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Không vi phạm chủ quyền dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Giữ vững vai trò lãnh đạo của Đảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Theo Nghị quyết Đại hội VIII của Đảng (6/1996), tiêu chuẩn cơ bản để xác định phương án phát triển, lựa chọn dự án đầu tư và công nghệ là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ổn định chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thu hồi vốn nhanh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hiệu quả về kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Công nghệ tiên tiến",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Chính cương Đảng Lao động Việt Nam xác định con đường phát triển của cách mạng Việt Nam",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tiến hành cách mạng ruộng đất, hoàn thành giải phóng dân tộc tiến lên chủ nghĩa xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hoàn thành giải phóng dân tộc, phát triển dân chủ nhân dân, tiến tới chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hoàn thành giải phóng dân tộc, xóa bỏ chế độ phong kiến, tiến lên chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hoàn thành giải phóng dân tộc, phát triển dân chủ nhân dân, thực hiện cách mạng ruộng đất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Các cuộc vận động dân chủ 1936 – 1939 khác với giai đoạn cách mạng 1930 – 1935 ở:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lực lượng cơ bản của cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vai trò lãnh đạo cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mục tiêu đấu tranh trước mắt",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hình thức chính quyền cách mạng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Điểm mới của Hội nghị tháng 5/1941 so với Hội nghị tháng 11/1939 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải quyết vấn đề dân tộc trên phạm vi toàn khu vực Đông Dương",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đề cao nhiệm vụ giải phóng dân tộc, chống đế quốc và phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tạm gác khẩu hiệu cách mạng ruộng đất, thực hiện giảm tô, giảm tức",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giải quyết vấn đề dân tộc trong khuôn khổ từng nước ở Đông Dương",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Đại hội lần thứ VII của Đảng (6/1991) khẳng định Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm",
+        "options": [
+          {
+            "id": "a",
+            "text": "Căn cứ để xác định mọi chủ trương và chính sách",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nền tảng tư tưởng và phương pháp luận của Đảng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cơ sở thế giới quan và phương pháp luận của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xuất phát điểm để hoạch định đường lối chính trị",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Đảng chủ trương giành chính quyền trong Cách mạng tháng Tám 1945 vào thời điểm",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kẻ thù cũ đã ngã gục nhưng kẻ thù mới chưa ra đời",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Liên Xô đánh tan đạo quân Quan Đông của Nhật",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tầng lớp trung gian đã ngã hẳn về phía cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đảng và nhân dân ta đã sẵn sàng tổng khởi nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Một trong những nhiệm vụ cấp bách trước mắt của cách mạng Việt Nam sau ngày Cách mạng tháng Tám thành công là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cách mạng ruộng đất",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Củng cố chính quyền",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phát triển văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chống tệ nạn xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Hậu phương của ta trong kháng chiến chống Pháp là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Những vùng tự do lớn trong cả nước",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Những nơi có quần chúng nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Những căn cứ du kích trong lòng địch",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Căn cứ địa Việt Bắc và các vùng tự do",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Một trong những điểm khác nhau giữa Cương lĩnh chính trị đầu tiên của Đảng và Luận cương chính trị tháng 10/1930 là về",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự lãnh đạo cách mạng của Đảng Cộng sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chủ trương tập hợp lực lượng cách mạng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phương pháp cách mạng là sử dụng bạo lực",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phương hướng chiến lược của cách mạng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Chính cương Đảng Lao động Việt Nam xác định một trong những nhiệm vụ cơ bản của cách mạng Việt Nam là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đánh đuổi đế quốc Mỹ và tay sai phản động để giành độc lập và thống nhất đất nước",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xóa bỏ những di tích phong kiến và nửa phong kiến, làm cho người cày có ruộng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đánh Pháp, đuổi Nhật và các thế lực phong kiến, làm cho đất nước hoàn toàn độc lập",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chống đế quốc Mỹ và phong kiến phản động để hoàn thành nhiệm vụ dân tộc, dân chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Điều kiện trực tiếp tạo ra khả năng đấu tranh công khai hợp pháp cho phong trào cách mạng Đông Dương giai đoạn 1936 – 1939 là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mọi tầng lớp nhân dân ở toàn Đông Dương đều có nhu cầu dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sự chuyển hướng chiến lược cách mạng thế giới của Quốc tế Cộng sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chính phủ nhân dân Pháp ban hành nhiều chính sách tự do dân chủ",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Sự xuất hiện chủ nghĩa phát xít và nguy cơ chiến tranh thế giới",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Đầu năm 1946, quân đội Trung Hoa dân quốc rút khỏi Việt Nam vì",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thực dân Pháp gây sức ép buộc phải rút quân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Không thực hiện được mục tiêu ở Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bị nhân dân Trung Quốc phản đối mạnh mẽ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cần chống lực lượng cách mạng Trung Quốc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Đại hội lần thứ IX của Đảng (4/2001) xác định đặc điểm của thời kỳ quá độ ở Việt Nam là có",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhiều hình thức sở hữu về tư liệu sản xuất",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhiều hình thức sở hữu về lực lượng sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sở hữu về tư liệu sản xuất và nhiều giai cấp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hai hình thức sở hữu về tư liệu sản xuất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Trong cuộc kháng chiến chống thực dân Pháp, Đảng phải thực hiện phương châm đánh lâu dài vì Việt Nam",
+        "options": [
+          {
+            "id": "a",
+            "text": "Càng đánh lâu dài, càng có nhiều kinh nghiệm tác chiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cần chống lại chiến lược đánh nhanh thắng nhanh của địch",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Cần có thời gian để chờ đợi thời cơ giành thắng lợi quyết định",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Quân và dân Việt Nam không có khả năng cơ động nhanh",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Một trong những bài học kinh nghiệm được rút ra sau 10 năm thực hiện đường lối đổi mới (1986–1996) của Đảng là phải kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi mới chính trị, lấy đổi mới kinh tế làm trọng tâm",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đồng thời từng bước đổi mới chính trị",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Và đổi mới chính trị một cách toàn diện",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đồng thời từng bước đổi mới văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Và tập trung phát triển kinh tế đối ngoại",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Trong sự nghiệp xây dựng chủ nghĩa xã hội ở Việt Nam, Đảng coi biện pháp nào là quan trọng nhất",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kết hợp chặt chẽ hai nhiệm vụ xây dựng và bảo vệ Tổ quốc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tranh thủ sự ủng hộ và giúp đỡ quốc tế về vật chất, kỹ thuật",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kết hợp cải tạo xã hội chủ nghĩa với xây dựng chế độ xã hội mới",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Huy động sức mạnh của khối đại đoàn kết dân tộc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Đại hội lần thứ IX của Đảng (4/2001) làm rõ hơn sự phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam tức là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thời kỳ tiền tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội phong kiến",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Tổ chức nào chưa được thống nhất vào Đảng Cộng sản Việt Nam tại Hội nghị hợp nhất đầu năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "An Nam Cộng sản Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đông Dương Cộng sản Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đông Dương Cộng sản Liên đoàn",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tân Việt Cách mạng Đảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Trung ương Đảng và Hồ Chí Minh đã phát động kháng chiến toàn quốc chống thực dân Pháp",
+        "options": [
+          {
+            "id": "a",
+            "text": "Một cách bị động, vì đến khi buộc phải đánh mới đánh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Một cách kiên quyết, chủ động và đúng thời điểm",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Quá sớm, vì chưa có lực lượng vũ trang mạnh mẽ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Quá muộn, vì biết trước Pháp dùng quân sự gây chiến",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Chọn cụm từ thích hợp để điền vào chỗ trống về một đặc trưng của chủ nghĩa xã hội được xác định trong Cương lĩnh bổ sung phát triển năm 2011: “Có … xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân dưới sự lãnh đạo của Đảng Cộng sản.”",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các tổ chức chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhà nước pháp quyền",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Một thể chế chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Một chế độ xã hội mới",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Luận cương chính trị tháng 10/1930 của Đảng Cộng sản Đông Dương",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không vạch ra được mâu thuẫn chủ yếu ở thuộc địa",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đặt nhiệm vụ giành giải phóng dân tộc lên hàng đầu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhấn mạnh mâu thuẫn chủ yếu của xã hội thuộc địa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Không chủ trương tiến hành cuộc cách mạng ruộng đất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 của quân đội và nhân dân Việt Nam trên toàn miền Nam đã",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tạo thời cơ giải phóng hoàn toàn miền Nam",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Buộc Mỹ phải xuống thang chiến tranh",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Chấm dứt sự can thiệp của Mỹ ở miền Nam",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hoàn thành nhiệm vụ “đánh cho Mỹ cút”",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam chủ trương thành lập",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhà nước Cộng hòa Dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhà nước chuyên chính vô sản",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Chính quyền Xô viết công – nông",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chính phủ công – nông – binh",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Chiến tranh nhân dân là hình thức chiến tranh",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dựa vào lực lượng toàn dân, có lực lượng vũ trang làm nòng cốt",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chỉ sử dụng lực lượng chính trị, không sử dụng lực lượng vũ trang",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Có chiến tuyến rõ rệt về không gian giữa hai bên tham chiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chỉ sử dụng các loại vũ khí thô sơ và lực lượng dân quân du kích",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam xác định nhiệm vụ hàng đầu của cách mạng ở thuộc địa là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đòi các quyền tự do dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xóa bỏ chế độ phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giành ruộng đất cho nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giành độc lập cho dân tộc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Tính chất bao trùm của xã hội Việt Nam đầu thế kỷ XX là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nửa thuộc địa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thuộc địa",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nửa phong kiến",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Tại Đại hội lần thứ VI (12/1986), Đảng tổng kết một trong những bài học kinh nghiệm rút ra trong toàn bộ hoạt động của mình là Đảng cần phải quán triệt tư tưởng",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cán bộ là gốc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giáo dục là gốc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lấy dân làm gốc",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Con người là vốn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Luận cương chính trị tháng 10/1930 của Đảng Cộng sản Đông Dương",
+        "options": [
+          {
+            "id": "a",
+            "text": "Coi tiểu tư sản là bạn đồng minh chiến lược của cách mạng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nhấn mạnh vai trò của tiểu tư sản, nhất là bộ phận trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đánh giá không đúng khả năng cách mạng của tiểu tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xác định tiểu tư sản là một lực lượng cách mạng quan trọng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Nhiệm vụ hàng đầu của cách mạng Việt Nam thời kỳ 1930 – 1945 là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đánh đuổi đế quốc xâm lược, giành độc lập tự do dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đánh đổ các giai cấp bóc lột, giành quyền tự do dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lật đổ chế độ phản động thuộc địa, cải thiện dân sinh",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lật đổ chế độ phong kiến, giành ruộng đất cho dân cày",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "Cách mạng tháng Tám 1945 là một cuộc cách mạng bạo lực vì",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có nhiều người phải đổ máu, hy sinh trong quá trình tổng khởi nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Có sự tham gia của lực lượng vũ trang, hình thức tiến công quân sự",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lực lượng chính trị và lực lượng vũ trang đập tan chính quyền địch",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mở đầu bằng tiến công quân sự giải phóng toàn thị xã Thái Nguyên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Tại Đại hội IX (4/2001), Đảng chủ trương thực hiện nhất quán và lâu dài mô hình kinh tế tổng quát của Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nền kinh tế kế hoạch hóa tập trung quan liêu bao cấp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nền kinh tế thị trường định hướng tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Nền kinh tế nhiều thành phần hướng xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "So với Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam (1991), Cương lĩnh bổ sung phát triển năm 2011 nêu thêm đặc trưng của chủ nghĩa xã hội mà nhân dân Việt Nam xây dựng là",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Có quan hệ hữu nghị, hợp tác với các nước trên thế giới",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Do nhân dân lao động làm chủ và có nền kinh tế phát triển",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Giai cấp nông dân Việt Nam đầu thế kỷ XX hăng hái tham gia đấu tranh cách mạng vì họ:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Là nạn nhân chủ yếu của các chính sách khai thác thuộc địa",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chiếm số lượng đông đảo nhất trong lực lượng toàn dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Có mâu thuẫn sâu sắc với giai cấp địa chủ phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Có nguyện vọng thực hiện khẩu hiệu “ruộng đất cho dân cày”",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Nhà nước Việt Nam Dân chủ Cộng hòa được thành lập năm 1945 là nhà nước của:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công, nông, trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Toàn thể nhân dân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Công nhân, nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công, nông, binh",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Nguyễn Ái Quốc đã triệu tập và chủ trì Hội nghị thành lập Đảng đầu năm 1930 là do",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự ủy nhiệm của Quốc tế Cộng sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhận chỉ thị của Quốc tế Cộng sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Sự chủ động của Nguyễn Ái Quốc",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Yêu cầu của các tổ chức cộng sản",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Lần đầu tiên, Đại hội đại biểu toàn quốc lần thứ V (3/1982) của Đảng xác định thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là khó khăn, phức tạp, lâu dài, phải trải qua",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhiều bước quá độ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ba chặng đường",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhiều chặng đường",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hai chặng đường",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}
