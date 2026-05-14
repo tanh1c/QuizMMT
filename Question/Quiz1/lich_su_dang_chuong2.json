@@ -1,0 +1,815 @@
+{
+  "quiz": {
+    "title": "Chương 2: ĐƯỜNG LỐI ĐẤU TRANH GIÀNH CHÍNH QUYỀN (1930 - 1945)",
+    "total_questions": 31,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Ai là người soạn thảo Luận cương chính trị tháng 10 năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trần Phú",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Tác phẩm “Tự chỉ trích” của đồng chí Nguyễn Văn Cừ được xuất bản vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 7 năm 1938",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 6 năm 1939",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 7 năm 1939",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 6 năm 1938",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Đêm 13/8/1945 diễn ra sự kiện gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ tịch Hồ Chí Minh đọc Lời kêu gọi toàn quốc kháng chiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhật đầu hàng quân Đồng minh vô điều kiện",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhân dân Hà Nội khởi nghĩa giành chính quyền",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ủy ban khởi nghĩa toàn quốc ra lệnh Tổng khởi nghĩa",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Từ ngày 13 đến ngày 15 tháng 8 năm 1945 diễn ra sự kiện gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị toàn quốc của Đảng họp tại Tân Trào (Tuyên Quang)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Họp Đại hội đại biểu của Đảng họp tại Từ Sơn (Bắc Ninh)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị quân sự cách mạng Bắc Kỳ họp tại Hiệp Hòa (Bắc Giang)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội quốc dân họp tại Tân Trào (Tuyên Quang)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Nhật đảo chính Pháp vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 3 năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 3 năm 1945",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 3 năm 1947",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Bốn tỉnh đầu tiên giành được chính quyền ở Việt Nam trong Cách mạng Tháng Tám năm 1945 là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bắc Ninh, Quảng Ninh, Phú Yên, Kon Tum",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Thái Nguyên, Tuyên Quang, Nghệ An, Bình Định",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hà Giang, Nam Định, Ninh Bình, Gia Lai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Phương pháp đấu tranh cơ bản trong Cách mạng Tháng Tám năm 1945 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kết hợp đấu tranh vũ trang và đấu tranh kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kết hợp đấu tranh vũ trang và đấu tranh chính trị",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Kết hợp đấu tranh chính trị với đấu tranh ngoại giao",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kết hợp đấu tranh ngoại giao với đấu tranh văn hóa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Đội Việt Nam giải phóng quân ra đời dựa trên sự kết hợp của các tổ chức nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Việt Nam Tuyên truyền giải phóng quân với đội du kích Bắc Sơn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Việt Nam Tuyên truyền giải phóng quân với Cứu quốc quân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Việt Nam Tuyên truyền giải phóng quân với du kích Ba Tơ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cứu quốc quân với du kích Thái Nguyên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Nhân tố chủ yếu nhất quyết định thắng lợi của Cách mạng Tháng Tám năm 1945 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tác động của khủng hoảng kinh tế thế giới",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sức mạnh liên minh công - nông",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bối cảnh quốc tế thuận lợi",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự lãnh đạo của Đảng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Đại hội đại biểu lần thứ nhất của Đảng họp ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quảng Châu (Trung Quốc)",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hương Cảng (Trung Quốc)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ma Cao (Trung Quốc)",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Quảng Tây (Trung Quốc)",
+            "is_correct": false
+          }
+        ],
+        "note": "(Lưu ý: theo tài liệu, đáp án là Ma Cao, nhưng thực tế Đại hội I họp ở Hương Cảng. Nên giữ nguyên theo đáp án của đề)"
+      },
+      {
+        "question_number": 11,
+        "question_text": "Tại Hội Nghị Ban Chấp hành Trung ương Đảng tháng 5 năm 1941, Nguyễn Ái Quốc chủ trương thành lập mặt trận nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mặt trận Liên Việt",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mặt trận Đồng Minh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mặt trận Việt Minh",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Mặt trận dân tộc thống nhất phản đế Đông Dương",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Đoàn Đại biểu Việt Nam tham dự Đại hội lần VII của Quốc tế Cộng sản tại Matxcova (tháng 7/1935) do ai dẫn đầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lê Hồng Phong",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Trường Chinh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hà Huy Tập",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Luận điểm sau được nêu tại Hội nghị nào của Đảng: “Nếu không giải quyết được vấn đề dân tộc giải phóng, không đòi được độc lập tự do cho toàn thể dân tộc, thì chẳng những toàn thể quốc gia dân tộc còn chịu mãi kiếp ngựa trâu, mà quyền lợi của bộ phận giai cấp đến vạn năm sau cũng không đòi được”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 11 năm 1939",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 11 năm 1940",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 5 năm 1941",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Quân sự cách mạng Bắc Kỳ tháng 4 năm 1945",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Nội dung nào sau đây không phải là ý nghĩa của Cách mạng Tháng Tám năm 1945?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phá tan xiềng xích nô lệ của Pháp - Nhật và phong kiến, đem lại độc lập tự do cho dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mở ra một kỉ nguyên mới trong lịch sử dân tộc: độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Pháp công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Thắng lợi đầu tiên trong thời đại mới của một dân tộc nhược tiểu đã tự giải phóng khỏi ách đế quốc thực dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Điền vào chỗ trống: “Cuộc dân tộc giải phóng (…) phải kết chặt với cách mạng điền địa”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "nhất định",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "không bắt buộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bắt buộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "không nhất định",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Từ ngày 14 đến ngày 30 tháng 10 năm 1930 diễn ra sự kiện gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội đại biểu lần thứ nhất của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Ban Chấp hành Trung ương lần thứ nhất",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội đại biểu toàn quốc lần thứ hai của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Ban Chấp hành Trung ương lần thứ hai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Đêm ngày 9 tháng 3 năm 1945, Ban Thường vụ Trung ương Đảng họp Hội nghị mở rộng ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bắc Sơn - Vũ Nhai",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bắc Pó - Cao Bằng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tân Trào - Tuyên Quang",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Từ Sơn - Bắc Ninh",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Hình thức tổ chức và biện pháp đấu tranh trong giai đoạn 1936 - 1939 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hình thức tổ chức bí mật, đấu tranh vũ trang",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hình thức tổ chức và đấu tranh công khai",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hình thức tổ chức và đấu tranh công khai và nửa công khai, hợp pháp và nửa hợp pháp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hình thức tổ chức bí mật và đấu tranh chính trị",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Cuộc khởi nghĩa nào sau đây không diễn ra trong những năm 1939 - 1941?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khởi nghĩa Nam Kỳ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Binh biến Đô Lương",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khởi nghĩa Ba Tơ",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Khởi nghĩa Bắc Sơn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Tháng 5 năm 1941, Ban Chấp hành Trung ương quyết định thành lập Mặt trận Việt Nam độc lập đồng minh để thay thế cho mặt trận nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mặt trận Tổ quốc Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mặt trận dân chủ Đông Dương.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mặt trận Liên Việt",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mặt trận dân tộc thống nhất phản đế Đông Dương",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Hai sự kiện tiêu biểu nhất trong cuộc vận động dân chủ 1936 - 1939 là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phong trào Đại hội Đông Dương và đấu tranh đòi dân sinh, dân chủ",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phong trào đấu tranh trên lĩnh vực báo chí và nghị trường",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phong trào đón Gôđa và đấu tranh nghị trường",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phong trào báo chí và đòi dân sinh, dân chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Nội dung nào sau đây không nằm trong chủ trương chuyển hướng chỉ đạo chiến lược giai đoạn 1939 - 1945?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thành lập Mặt trận Việt Minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chuẩn bị khởi nghĩa vũ trang.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tạm gác khẩu hiệu “Đánh đổ địa chủ, chia ruộng đất cho dân cày” bằng khẩu hiệu “Tịch thu ruộng đất của bọn đế quốc và Việt gian chia cho dân cày nghèo”.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đưa nhiệm vụ giải phóng giai cấp lên hàng đầu",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Luận cương tháng 10 năm 1930 đã đề cao nhiệm vụ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giải phóng giai cấp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đòi quyền dân sinh dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tự do, hòa bình cơm áo",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Ai là người chủ trì hội nghị Ban Chấp hành Trung ương Đảng lần thứ nhất tháng 10 năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Trần Phú",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Trần Văn Cung",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Chủ nghĩa phát xít ra đời đầu tiên ở nước nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhật",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tây Ban Nha",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Italia",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Ai là tác giả của tác phẩm “Tự chỉ trích”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trần Phú",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Hội nghị toàn quốc của Đảng họp từ ngày 13 đến ngày 15 tháng 8 năm 1945 diễn ra ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bắc Pó",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tân Trào",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Bà Điểm",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đình Bảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Uỷ ban khởi nghĩa toàn quốc ra lệnh Tổng khởi nghĩa vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 13 tháng 8 năm 1942",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 13 tháng 8 năm 1943",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 13 tháng 8 năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ngày 13 tháng 8 năm 1945",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Cuộc Tổng khởi nghĩa giành chính quyền trong Cách mạng Tháng Tám năm 1945 diễn ra bao nhiêu ngày?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5 ngày",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "10 ngày",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "15 ngày",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "20 ngày",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Nhiệm vụ hàng đầu được Đảng xác định trong giai đoạn 1939-1945 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đòi quyền dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đánh đổ phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đánh đổ đế quốc, địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Ai trước lúc hi sinh đã căn dặn đồng chí của mình: “Hãy giữ vững chí khí chiến đấu”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trần Phú",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Lý Tự Trọng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Đức Cảnh",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trần Bình Trọng",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

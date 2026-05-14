@@ -1,0 +1,530 @@
+{
+  "quiz": {
+    "title": "Chương 3: ĐƯỜNG LỐI KHÁNG CHIẾN CHỐNG THỰC DÂN PHÁP VÀ ĐẾ QUỐC MỸ XÂM LƯỢC (1945 - 1975)",
+    "total_questions": 20,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Để giải quyết những khó khăn sau Cách mạng Tháng Tám năm 1945, Đảng ban hành chỉ thị gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kháng chiến kiến quốc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chống giặc ngoại xâm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đánh đổ thực dân Pháp và tay sai",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công việc khẩn bây giờ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Chỉ thị Kháng chiến kiến quốc được Ban Chấp hành Trung ương Đảng ban hành vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 25 tháng 11 năm 1943",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 25 tháng 11 năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 25 tháng 11 năm 1945",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ngày 25 tháng 11 năm 1946",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Kẻ thù chính được xác định trong chỉ thị Kháng chiến kiến quốc là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quân đội Anh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Quân đội Tưởng Giới Thạch",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thực dân Pháp xâm lược",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Quân đội Mỹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Hiệp ước nào được ký kết giữa Pháp và Tưởng buộc Đảng phải chuyển từ việc hòa hoãn với Tưởng sang hòa hoãn với Pháp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tạm ước ngày 14 tháng 9 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hiệp định Sơ bộ ngày 6 tháng 3 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hiệp ước Trùng Khánh ngày 28 tháng 2 năm 1946",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hiệp định Giơnevơ ngày 21 tháng 7 năm 1954",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Đại hội đại biểu toàn quốc lần thứ II của Đảng (tháng 2 năm 1951) diễn ra ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cao Bằng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hà Nội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tuyên Quang",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Thái Nguyên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Đại hội đại biểu lần thứ hai của Đảng Cộng Sản Đông Dương (2-1951) đã quyết định:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng ra hoạt động công khai lấy tên là Đảng Lao Động Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đảng ra hoạt động công khai và lấy tên là Đảng Cộng Sản Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đảng ra hoạt động công khai lấy tên là Đảng Cộng Sản Đông Dương",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đảng tiếp tục hoạt động bí mật chờ thời cơ để ra hoạt động công khai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "(Câu tiếp theo trong file PDF, từ trang 12) Ở miền Nam, quân dân ta đã đánh bại cuộc chiến lược chiến tranh nào của Mỹ trong giai đoạn 1954 - 1960?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chiến tranh cục bộ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chiến tranh Việt Nam hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chiến tranh đơn phương",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Chiến tranh đặc biệt",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "“Ba mũi giáp công” trong đường lối của Đảng giai đoạn 1965 - 1975 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đồng bằng, trung du, miền núi",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Quân sự, kinh tế, chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế, chính trị, xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Quân sự, chính trị, binh vận",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Mục đích của chiến lược \"Việt Nam hóa chiến tranh\" nhằm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đánh nhanh, thắng nhanh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dùng người Việt Nam đánh người Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lấy chiến tranh nuôi chiến tranh.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lấy nông thôn bao vây thành thị",
+            "is_correct": false
+          }
+        ],
+        "note": "(Suy luận từ nội dung)"
+      },
+      {
+        "question_number": 10,
+        "question_text": "Phương châm tiến hành kháng chiến trong đường lối kháng chiến chống thực dân Pháp xâm lược của Đảng là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mỗi người dân một chiến sĩ, một làng xóm là một pháo đài",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đánh địch về mọi mặt chính trị, quân sự, kinh tế, văn hóa, ngoại giao",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kháng chiến toàn dân, toàn diện, lâu dài dựa vào sức mình là chính",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đánh chắc tiến chắc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Nhiệm vụ chính trước mắt trong cách mạng giai đoạn 1945 - 1954 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xóa bỏ tàn tích phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Làm cho dân cày có ruộng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát triển chế độ dân chủ nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hoàn thành giải phóng dân tộc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Lực lượng của cách mạng Việt Nam được xác định từ năm 1951-1954 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân, tiểu tư sản, trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân, nông dân, lao động trí thức",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Công nhân, nông dân, tiểu tư sản thành thị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân, nông dân, địa chủ yêu nước",
+            "is_correct": false
+          }
+        ],
+        "note": "(Suy luận)"
+      },
+      {
+        "question_number": 13,
+        "question_text": "Khẩu hiệu được nêu trong Chỉ thị Kháng chiến kiến quốc là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "“Đánh đuổi đế quốc, thực dân”",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "“Đoàn kết nhất trí đánh đuổi kẻ thù”",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "“Dân tộc trên hết, Tổ quốc trên hết”",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "“Nhằm thắng quân thù mà bắn”",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Ba chỗ dựa chính của chiến lược “chiến tranh đặc biệt” của Mỹ là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngụy quân, ngụy quyền, ấp chiến lược và đô thị",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Ngụy quân, quân viễn chinh, quân chư hầu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Quân viễn chinh, quân chư hầu, lính đánh thuê",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ngụy quân, ngụy quyền và quân viễn chinh Mỹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Ngày 19 tháng 12 năm 1946, Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vĩnh Phúc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vạn Phúc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đình Bảng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bà Điểm",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Hội Liên hiệp quốc dân Việt Nam viết tắt là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Liên Hiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Liên Việt",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nam Việt",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Nghị quyết Hội nghị Ban Chấp hành Trung ương lần thứ 15 tháng 1 năm 1959 có ý nghĩa:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Củng cố sự lãnh đạo của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đề ra phương hướng tác chiến trong chiến tranh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mở đường cho cách mạng miền Nam",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Mở đường cho cách mạng miền Bắc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Ba vùng chiến lược gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Rừng núi, trung du, đồng bằng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Rừng núi, đồng bằng, thành thị",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Rừng núi, cao nguyên, thành thị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Rừng núi, thành thị, nông thôn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Theo nhận định của Đảng, cuộc Chiến tranh cục bộ Mỹ tiến hành ở miền Nam là cuộc chiến tranh:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có chuẩn bị từ lâu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Buộc phải thực hiện trong thế thua, thế bị động",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lớn nhất từ trước tới giờ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Theo mong đợi của nhân dân Mỹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Tư tưởng chỉ đạo của Đảng trong cuộc đấu tranh ở miền Nam là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giữ vững và phát triển thế tiến công",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chủ động phòng thủ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát động đấu tranh nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Toàn dân, toàn diện",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

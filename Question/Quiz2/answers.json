@@ -1,0 +1,1562 @@
+[
+    {
+        "page": 1,
+        "question": 1,
+        "answer": "B",
+        "answer_text": "B. Đường Kách mệnh.",
+        "rect": [
+            71.90399932861328,
+            161.65997314453125,
+            196.00399780273438,
+            176.53997802734375
+        ]
+    },
+    {
+        "page": 1,
+        "question": 2,
+        "answer": "D",
+        "answer_text": "D. Báo Thanh niên.",
+        "rect": [
+            88.10399627685547,
+            296.2099914550781,
+            180.38400268554688,
+            311.0899963378906
+        ]
+    },
+    {
+        "page": 1,
+        "question": 3,
+        "answer": "A",
+        "answer_text": "A. Đông Dương Cộng sản Đảng.",
+        "rect": [
+            88.10399627685547,
+            341.0899963378906,
+            250.36398315429688,
+            355.9700012207031
+        ]
+    },
+    {
+        "page": 1,
+        "question": 4,
+        "answer": "B",
+        "answer_text": "B. Phong trào Cần Vương.",
+        "rect": [
+            71.90399932861328,
+            460.6300048828125,
+            220.364013671875,
+            475.510009765625
+        ]
+    },
+    {
+        "page": 1,
+        "question": 5,
+        "answer": "A",
+        "answer_text": "A. Hà Nội - Bí thư Trần Văn Cung.",
+        "rect": [
+            71.90399932861328,
+            550.3900146484375,
+            268.0039978027344,
+            565.1500244140625
+        ]
+    },
+    {
+        "page": 1,
+        "question": 6,
+        "answer": "C",
+        "answer_text": "C. Nguyễn Ái Quốc.",
+        "rect": [
+            71.90399932861328,
+            669.8200073242188,
+            183.1439971923828,
+            684.8200073242188
+        ]
+    },
+    {
+        "page": 2,
+        "question": 7,
+        "answer": "C",
+        "answer_text": "C. Giai cấp vô sản.",
+        "rect": [
+            88.10399627685547,
+            131.65997314453125,
+            176.30398559570312,
+            146.65997314453125
+        ]
+    },
+    {
+        "page": 2,
+        "question": 8,
+        "answer": "A",
+        "answer_text": "A. Lương thực - thực phẩm, hàng tiêu dùng, hàng xuất khẩu.",
+        "rect": [
+            88.10399627685547,
+            221.53997802734375,
+            411.3139953613281,
+            236.41998291015625
+        ]
+    },
+    {
+        "page": 2,
+        "question": 9,
+        "answer": "B",
+        "answer_text": "B. Chỉ thị số 100-CT/TW, ngày 13/1/1981 của Ban Bí thư Trung ương Đảng khóa V.",
+        "rect": [
+            71.90399932861328,
+            340.9700012207031,
+            536.7340087890625,
+            355.9700012207031
+        ]
+    },
+    {
+        "page": 2,
+        "question": 10,
+        "answer": "B",
+        "answer_text": "B. Đại hội quốc dân (16/8/1945).",
+        "rect": [
+            87.38400268554688,
+            445.75,
+            241.84400939941406,
+            460.6300048828125
+        ]
+    },
+    {
+        "page": 2,
+        "question": 11,
+        "answer": "A",
+        "answer_text": "A. Cuộc bãi công của thợ máy xưởng Ba Son cảng Sài Gòn (1925).",
+        "rect": [
+            88.10399627685547,
+            535.510009765625,
+            438.0740051269531,
+            550.27001953125
+        ]
+    },
+    {
+        "page": 2,
+        "question": 12,
+        "answer": "A",
+        "answer_text": "A. Giai đoạn chuẩn bị giành chính quyền.",
+        "rect": [
+            71.90399932861328,
+            625.1799926757812,
+            303.28399658203125,
+            640.0599975585938
+        ]
+    },
+    {
+        "page": 3,
+        "question": 13,
+        "answer": "A",
+        "answer_text": "A. Giải phóng dân tộc.",
+        "rect": [
+            88.10399627685547,
+            101.780029296875,
+            193.9639892578125,
+            116.780029296875
+        ]
+    },
+    {
+        "page": 3,
+        "question": 14,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            251.33001708984375,
+            263.083984375,
+            266.21002197265625
+        ]
+    },
+    {
+        "page": 3,
+        "question": 15,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            386.0899963378906,
+            263.083984375,
+            400.8500061035156
+        ]
+    },
+    {
+        "page": 3,
+        "question": 16,
+        "answer": "A",
+        "answer_text": "A. Mâu thuẫn giữa dân tộc ta với thực dân Pháp xâm lược và tay sai; mâu thuẫn",
+        "rect": [
+            72.02400207519531,
+            445.6300048828125,
+            518.3740234375,
+            460.6300048828125
+        ]
+    },
+    {
+        "page": 3,
+        "question": 17,
+        "answer": "A",
+        "answer_text": "A. Thành lập Đảng Cộng sản Việt Nam (1930).",
+        "rect": [
+            88.10399627685547,
+            565.27001953125,
+            330.91400146484375,
+            580.1500244140625
+        ]
+    },
+    {
+        "page": 3,
+        "question": 18,
+        "answer": "B",
+        "answer_text": "B. Tạo thời cơ thuận lợi để nhân dân ta tiến lên đánh cho “ngụy nhào”.",
+        "rect": [
+            71.90399932861328,
+            684.9359741210938,
+            466.0539855957031,
+            699.9359741210938
+        ]
+    },
+    {
+        "page": 4,
+        "question": 19,
+        "answer": "B",
+        "answer_text": "B. Nó đã chuyển cuộc kháng chiến chống Mỹ, cứu nước sang giai đoạn mới: Tiến",
+        "rect": [
+            72.02400207519531,
+            146.53997802734375,
+            524.1339721679688,
+            161.53997802734375
+        ]
+    },
+    {
+        "page": 4,
+        "question": 20,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            296.2099914550781,
+            263.083984375,
+            311.0899963378906
+        ]
+    },
+    {
+        "page": 4,
+        "question": 21,
+        "answer": "D",
+        "answer_text": "D. Khuynh hướng vô sản và khuynh hướng dân chủ tư sản.",
+        "rect": [
+            71.90399932861328,
+            415.75,
+            400.9939880371094,
+            430.75
+        ]
+    },
+    {
+        "page": 4,
+        "question": 22,
+        "answer": "B",
+        "answer_text": "B. Quy định số 15-QĐ/TW của Ban Chấp hành Trung ương Đảng khóa X (tháng",
+        "rect": [
+            87.38400268554688,
+            490.510009765625,
+            521.7340087890625,
+            505.3900146484375
+        ]
+    },
+    {
+        "page": 4,
+        "question": 23,
+        "answer": "A",
+        "answer_text": "A. Đại hội XII của Đảng (2016).",
+        "rect": [
+            71.90399932861328,
+            595.2999877929688,
+            247.843994140625,
+            610.1799926757812
+        ]
+    },
+    {
+        "page": 4,
+        "question": 24,
+        "answer": "A",
+        "answer_text": "A. Ngày 11/11/1945 - Hội Nghiên cứu Chủ nghĩa Mác ở Đông Dương.",
+        "rect": [
+            88.10399627685547,
+            699.8159790039062,
+            455.1340026855469,
+            714.8159790039062
+        ]
+    },
+    {
+        "page": 5,
+        "question": 25,
+        "answer": "C",
+        "answer_text": "C. Vùng sau lưng địch.",
+        "rect": [
+            71.90399932861328,
+            176.53997802734375,
+            198.88400268554688,
+            191.41998291015625
+        ]
+    },
+    {
+        "page": 5,
+        "question": 26,
+        "answer": "C",
+        "answer_text": "C. Mặt trận dân tộc thống nhất.",
+        "rect": [
+            88.10399627685547,
+            266.2099609375,
+            249.28399658203125,
+            281.2099914550781
+        ]
+    },
+    {
+        "page": 5,
+        "question": 27,
+        "answer": "A",
+        "answer_text": "A. Chính phủ Bảo Đại - Trần Trọng Kim.",
+        "rect": [
+            71.90399932861328,
+            341.0899963378906,
+            303.52398681640625,
+            355.9700012207031
+        ]
+    },
+    {
+        "page": 5,
+        "question": 28,
+        "answer": "B",
+        "answer_text": "B. Nguyễn Ái Quốc bỏ phiếu tán thành việc gia nhập Quốc tế III và tham gia thành",
+        "rect": [
+            72.02400207519531,
+            460.6300048828125,
+            536.4940185546875,
+            475.6300048828125
+        ]
+    },
+    {
+        "page": 5,
+        "question": 29,
+        "answer": "A",
+        "answer_text": "A. Thông qua 10 chính sách lớn của Việt Minh.",
+        "rect": [
+            88.10399627685547,
+            580.39599609375,
+            334.27398681640625,
+            595.2999877929688
+        ]
+    },
+    {
+        "page": 6,
+        "question": 31,
+        "answer": "A",
+        "answer_text": "A. Vũ trang tuyên truyền, diệt ác trừ gian.",
+        "rect": [
+            71.90399932861328,
+            161.65997314453125,
+            307.364013671875,
+            176.53997802734375
+        ]
+    },
+    {
+        "page": 6,
+        "question": 32,
+        "answer": "B",
+        "answer_text": "B. Ban hành Lệnh Khởi nghĩa (Quân lệnh số I)",
+        "rect": [
+            71.90399932861328,
+            266.2099609375,
+            332.4739990234375,
+            281.2099914550781
+        ]
+    },
+    {
+        "page": 6,
+        "question": 33,
+        "answer": "B",
+        "answer_text": "B. Làm cách mạng tư sản dân quyền và thổ địa cách mạng để đi tới xã hội cộng sản.",
+        "rect": [
+            71.90399932861328,
+            370.9700012207031,
+            535.7739868164062,
+            385.8500061035156
+        ]
+    },
+    {
+        "page": 6,
+        "question": 34,
+        "answer": "A",
+        "answer_text": "A. Chủ nghĩa Mác - Lênin kết hợp với phong trào công nhân và phong trào yêu",
+        "rect": [
+            88.10399627685547,
+            445.6300048828125,
+            515.0139770507812,
+            460.6300048828125
+        ]
+    },
+    {
+        "page": 6,
+        "question": 35,
+        "answer": "A",
+        "answer_text": "A. Lực lượng trung gian đã ngả hẳn về phía cách mạng.",
+        "rect": [
+            88.10399627685547,
+            580.2760009765625,
+            381.55401611328125,
+            595.1799926757812
+        ]
+    },
+    {
+        "page": 6,
+        "question": 36,
+        "answer": "A",
+        "answer_text": "A. Vận mệnh dân tộc “như ngàn cân treo sợi tóc”.",
+        "rect": [
+            71.90399932861328,
+            684.8159790039062,
+            349.7539978027344,
+            699.9359741210938
+        ]
+    },
+    {
+        "page": 7,
+        "question": 37,
+        "answer": "B",
+        "answer_text": "B. Trùng Khánh.",
+        "rect": [
+            71.90399932861328,
+            146.53997802734375,
+            167.4239959716797,
+            161.41998291015625
+        ]
+    },
+    {
+        "page": 7,
+        "question": 38,
+        "answer": "B",
+        "answer_text": "B. Quân đội Việt Nam Cộng hòa là lực lượng chủ lực.",
+        "rect": [
+            71.90399932861328,
+            251.21002197265625,
+            368.2339782714844,
+            266.09002685546875
+        ]
+    },
+    {
+        "page": 7,
+        "question": 39,
+        "answer": "B",
+        "answer_text": "B. Đánh dấu sự sụp đổ hoàn toàn của chiến lược “Việt Nam hoá chiến tranh”.",
+        "rect": [
+            71.90399932861328,
+            341.0899963378906,
+            502.77398681640625,
+            355.9700012207031
+        ]
+    },
+    {
+        "page": 7,
+        "question": 40,
+        "answer": "A",
+        "answer_text": "A. Đánh chắc, tiến chắc.",
+        "rect": [
+            88.10399627685547,
+            415.8699951171875,
+            206.20399475097656,
+            430.8699951171875
+        ]
+    },
+    {
+        "page": 7,
+        "question": 41,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            565.27001953125,
+            263.083984375,
+            580.27001953125
+        ]
+    },
+    {
+        "page": 7,
+        "question": 42,
+        "answer": "B",
+        "answer_text": "B. Một số quyền lợi về kinh tế và văn hoá.",
+        "rect": [
+            71.90399932861328,
+            640.2999877929688,
+            304.1239929199219,
+            655.1799926757812
+        ]
+    },
+    {
+        "page": 8,
+        "question": 43,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            88.10399627685547,
+            191.53997802734375,
+            263.083984375,
+            206.41998291015625
+        ]
+    },
+    {
+        "page": 8,
+        "question": 44,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            296.2099914550781,
+            263.083984375,
+            311.0899963378906
+        ]
+    },
+    {
+        "page": 8,
+        "question": 45,
+        "answer": "B",
+        "answer_text": "B. “Tuần lễ vàng”.",
+        "rect": [
+            93.14399719238281,
+            385.9700012207031,
+            175.2239990234375,
+            400.8500061035156
+        ]
+    },
+    {
+        "page": 8,
+        "question": 46,
+        "answer": "A",
+        "answer_text": "A. Trung đoàn Thủ đô",
+        "rect": [
+            71.90399932861328,
+            475.75,
+            197.8040008544922,
+            490.6300048828125
+        ]
+    },
+    {
+        "page": 8,
+        "question": 47,
+        "answer": "A",
+        "answer_text": "A. Nhân nhượng/ lấn tới/ cướp nước ta.",
+        "rect": [
+            88.10399627685547,
+            610.1799926757812,
+            291.04400634765625,
+            625.0599975585938
+        ]
+    },
+    {
+        "page": 9,
+        "question": 49,
+        "answer": "C",
+        "answer_text": "C. “Thành đồng Tổ quốc”.",
+        "rect": [
+            93.86399841308594,
+            221.53997802734375,
+            219.76400756835938,
+            236.41998291015625
+        ]
+    },
+    {
+        "page": 9,
+        "question": 50,
+        "answer": "A",
+        "answer_text": "A. “Vì miền Nam anh dũng”",
+        "rect": [
+            71.90399932861328,
+            296.2099914550781,
+            230.56399536132812,
+            311.0899963378906
+        ]
+    },
+    {
+        "page": 9,
+        "question": 51,
+        "answer": "A",
+        "answer_text": "A. Giúp thực dân Pháp quay trở lại xâm lược nước ta.",
+        "rect": [
+            88.10399627685547,
+            385.9700012207031,
+            373.15399169921875,
+            400.8500061035156
+        ]
+    },
+    {
+        "page": 9,
+        "question": 52,
+        "answer": "C",
+        "answer_text": "C. Việt Nam và Pháp ký kết Hiệp định Sơ bộ (6-3-1946).",
+        "rect": [
+            71.90399932861328,
+            520.510009765625,
+            382.9939880371094,
+            535.510009765625
+        ]
+    },
+    {
+        "page": 9,
+        "question": 53,
+        "answer": "A",
+        "answer_text": "A. Bình dân học vụ.",
+        "rect": [
+            71.90399932861328,
+            595.4199829101562,
+            182.18399047851562,
+            610.0599975585938
+        ]
+    },
+    {
+        "page": 9,
+        "question": 54,
+        "answer": "A",
+        "answer_text": "A. Độc lập về chính trị, nhân nhượng về kinh tế.",
+        "rect": [
+            71.90399932861328,
+            699.9359741210938,
+            339.0740051269531,
+            714.6959838867188
+        ]
+    },
+    {
+        "page": 10,
+        "question": 55,
+        "answer": "B",
+        "answer_text": "B. Làm phá sản kế họach “đánh nhanh thắng nhanh”, buộc địch chuyển sang đánh",
+        "rect": [
+            72.02400207519531,
+            176.53997802734375,
+            536.1339721679688,
+            191.53997802734375
+        ]
+    },
+    {
+        "page": 10,
+        "question": 56,
+        "answer": "A",
+        "answer_text": "A. Các thế lực đế quốc và phản động bao vây, chống phá.",
+        "rect": [
+            71.90399932861328,
+            281.3299865722656,
+            388.8739929199219,
+            296.0899963378906
+        ]
+    },
+    {
+        "page": 10,
+        "question": 57,
+        "answer": "B",
+        "answer_text": "B. Tổng tuyển cử tự do trong cả nước dưới sự giám sát của một Ủy ban quốc tế.",
+        "rect": [
+            71.90399932861328,
+            400.60601806640625,
+            512.4940185546875,
+            415.6300048828125
+        ]
+    },
+    {
+        "page": 10,
+        "question": 58,
+        "answer": "A",
+        "answer_text": "A. Hồ Chí Minh.",
+        "rect": [
+            71.90399932861328,
+            490.5099792480469,
+            164.90399169921875,
+            505.1499938964844
+        ]
+    },
+    {
+        "page": 10,
+        "question": 59,
+        "answer": "B",
+        "answer_text": "B. Đánh đuổi Nhật, Pháp.",
+        "rect": [
+            71.90399932861328,
+            595.0599975585938,
+            214.00399780273438,
+            609.9400024414062
+        ]
+    },
+    {
+        "page": 10,
+        "question": 60,
+        "answer": "A",
+        "answer_text": "A. Chiến dịch Điện Biên Phủ 1954.",
+        "rect": [
+            71.90399932861328,
+            684.6959838867188,
+            264.40399169921875,
+            699.8159790039062
+        ]
+    },
+    {
+        "page": 11,
+        "question": 61,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            191.41998291015625,
+            263.083984375,
+            206.29998779296875
+        ]
+    },
+    {
+        "page": 11,
+        "question": 62,
+        "answer": "A",
+        "answer_text": "A. Lấy nông thôn làm hướng tiến công chính.",
+        "rect": [
+            71.90399932861328,
+            266.2099609375,
+            323.593994140625,
+            281.3299865722656
+        ]
+    },
+    {
+        "page": 11,
+        "question": 63,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            88.10399627685547,
+            445.8699951171875,
+            263.083984375,
+            460.75
+        ]
+    },
+    {
+        "page": 11,
+        "question": 64,
+        "answer": "A",
+        "answer_text": "A. Tập trung binh lực.",
+        "rect": [
+            71.90399932861328,
+            490.510009765625,
+            197.20401000976562,
+            505.3900146484375
+        ]
+    },
+    {
+        "page": 11,
+        "question": 65,
+        "answer": "B",
+        "answer_text": "B. Thu hút và tiêu diệt bộ đội chủ lực của Việt Nam.",
+        "rect": [
+            71.90399932861328,
+            595.2999877929688,
+            360.91400146484375,
+            610.1799926757812
+        ]
+    },
+    {
+        "page": 11,
+        "question": 66,
+        "answer": "A",
+        "answer_text": "A. Cách mạng DTDCND ở miền Nam giữ vai trò quyết định trực tiếp đối với sự",
+        "rect": [
+            72.02400207519531,
+            685.0560302734375,
+            517.5339965820312,
+            699.9359741210938
+        ]
+    },
+    {
+        "page": 12,
+        "question": 67,
+        "answer": "D",
+        "answer_text": "D. Tiêu diệt một bộ phận quan trọng sinh lực địch.",
+        "rect": [
+            71.90399932861328,
+            236.426025390625,
+            352.51397705078125,
+            251.33001708984375
+        ]
+    },
+    {
+        "page": 12,
+        "question": 68,
+        "answer": "A",
+        "answer_text": "A. Đây là cuộc tiến công có quy mô lớn trên toàn Miền Nam mà hướng trọng tâm là",
+        "rect": [
+            72.02400207519531,
+            296.3299865722656,
+            539.1339721679688,
+            311.3299865722656
+        ]
+    },
+    {
+        "page": 12,
+        "question": 69,
+        "answer": "B",
+        "answer_text": "B. Phong trào Cần Vương.",
+        "rect": [
+            87.38400268554688,
+            460.510009765625,
+            220.36399841308594,
+            475.3900146484375
+        ]
+    },
+    {
+        "page": 12,
+        "question": 70,
+        "answer": "A",
+        "answer_text": "A. Thuộc địa phong kiến.",
+        "rect": [
+            71.90399932861328,
+            535.3900146484375,
+            212.56399536132812,
+            550.27001953125
+        ]
+    },
+    {
+        "page": 12,
+        "question": 71,
+        "answer": "A",
+        "answer_text": "A. Buộc Mỹ ngừng ngay cuộc ném bom đánh phá miền Bắc 12 ngày đêm.",
+        "rect": [
+            71.90399932861328,
+            640.2999877929688,
+            477.5740051269531,
+            654.9400024414062
+        ]
+    },
+    {
+        "page": 13,
+        "question": 72,
+        "answer": "A",
+        "answer_text": "A. Mỹ rút hết quân viễn chinh và quân chư hầu về nước.",
+        "rect": [
+            71.90399932861328,
+            146.65997314453125,
+            386.2339782714844,
+            161.53997802734375
+        ]
+    },
+    {
+        "page": 13,
+        "question": 73,
+        "answer": "A",
+        "answer_text": "A. Chăm lo công cuộc chống nạn mù chữ.",
+        "rect": [
+            71.90399932861328,
+            266.2099609375,
+            302.6839904785156,
+            281.2099914550781
+        ]
+    },
+    {
+        "page": 13,
+        "question": 74,
+        "answer": "C",
+        "answer_text": "C. “Thà chết tự do còn hơn sống nô lệ”.",
+        "rect": [
+            71.90399932861328,
+            385.8500061035156,
+            291.16400146484375,
+            400.7300109863281
+        ]
+    },
+    {
+        "page": 13,
+        "question": 75,
+        "answer": "B",
+        "answer_text": "B. Đất nước bị chia thành hai miền, có hai chế độ chính trị xã hội khác nhau.",
+        "rect": [
+            87.38400268554688,
+            475.510009765625,
+            497.4939880371094,
+            490.510009765625
+        ]
+    },
+    {
+        "page": 13,
+        "question": 76,
+        "answer": "A",
+        "answer_text": "A. Do lập trường hiếu chiến và dã tâm xâm lược nước ta của thực dân Pháp.",
+        "rect": [
+            88.10399627685547,
+            565.27001953125,
+            495.5740051269531,
+            580.1500244140625
+        ]
+    },
+    {
+        "page": 13,
+        "question": 77,
+        "answer": "A",
+        "answer_text": "A. Chiến trường chính và vùng sau lưng địch.",
+        "rect": [
+            71.90399932861328,
+            684.93603515625,
+            325.6340026855469,
+            699.8159790039062
+        ]
+    },
+    {
+        "page": 14,
+        "question": 78,
+        "answer": "B",
+        "answer_text": "B. Đất nước hoàn toàn độc lập, thống nhất, quá độ đi lên chủ nghĩa xã hội.",
+        "rect": [
+            71.90399932861328,
+            146.53997802734375,
+            483.8139953613281,
+            161.41998291015625
+        ]
+    },
+    {
+        "page": 14,
+        "question": 79,
+        "answer": "A",
+        "answer_text": "A. Hội nghị Trung ương lần thứ 24 khóa III (8/1975).",
+        "rect": [
+            71.90399932861328,
+            236.426025390625,
+            366.6739807128906,
+            251.21002197265625
+        ]
+    },
+    {
+        "page": 14,
+        "question": 80,
+        "answer": "A",
+        "answer_text": "A. Đại hội IV của Đảng (1976).",
+        "rect": [
+            71.90399932861328,
+            341.0899963378906,
+            242.80398559570312,
+            355.9700012207031
+        ]
+    },
+    {
+        "page": 14,
+        "question": 81,
+        "answer": "A",
+        "answer_text": "A. Ngày 17/2/1979.",
+        "rect": [
+            87.86399841308594,
+            445.75,
+            175.94400024414062,
+            460.6300048828125
+        ]
+    },
+    {
+        "page": 14,
+        "question": 82,
+        "answer": "C",
+        "answer_text": "C. Nhanh chóng kết thúc chiến tranh ở Đông Dương.",
+        "rect": [
+            71.90399932861328,
+            580.2760009765625,
+            365.593994140625,
+            595.1799926757812
+        ]
+    },
+    {
+        "page": 14,
+        "question": 83,
+        "answer": "A",
+        "answer_text": "A. Dùng người Việt đánh người Việt, lấy chiến tranh nuôi chiến tranh.",
+        "rect": [
+            71.90399932861328,
+            655.1799926757812,
+            462.4539794921875,
+            669.9400024414062
+        ]
+    },
+    {
+        "page": 15,
+        "question": 84,
+        "answer": "B",
+        "answer_text": "B. “Làm cho sản xuất bung ra”.",
+        "rect": [
+            87.38400268554688,
+            146.53997802734375,
+            249.16400146484375,
+            161.41998291015625
+        ]
+    },
+    {
+        "page": 15,
+        "question": 85,
+        "answer": "A",
+        "answer_text": "A. Đại hội V của Đảng (1982).",
+        "rect": [
+            71.90399932861328,
+            251.45001220703125,
+            237.40399169921875,
+            266.09002685546875
+        ]
+    },
+    {
+        "page": 15,
+        "question": 86,
+        "answer": "B",
+        "answer_text": "B. Năm 1934.",
+        "rect": [
+            71.90399932861328,
+            370.9700012207031,
+            146.54400634765625,
+            385.8500061035156
+        ]
+    },
+    {
+        "page": 15,
+        "question": 87,
+        "answer": "A",
+        "answer_text": "A. Trường Chinh và Võ Nguyên Giáp.",
+        "rect": [
+            71.90399932861328,
+            460.6300048828125,
+            284.5639953613281,
+            475.510009765625
+        ]
+    },
+    {
+        "page": 15,
+        "question": 88,
+        "answer": "B",
+        "answer_text": "B. Là quốc sách hàng đầu.",
+        "rect": [
+            71.90399932861328,
+            580.2760009765625,
+            218.20401000976562,
+            595.2999877929688
+        ]
+    },
+    {
+        "page": 16,
+        "question": 90,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            88.10399627685547,
+            206.53997802734375,
+            263.083984375,
+            221.41998291015625
+        ]
+    },
+    {
+        "page": 16,
+        "question": 91,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            71.90399932861328,
+            385.9700012207031,
+            263.083984375,
+            400.8500061035156
+        ]
+    },
+    {
+        "page": 16,
+        "question": 92,
+        "answer": "D",
+        "answer_text": "D. Chiến tranh Việt Nam - Trung Quốc sẽ khó nổ ra trong 10 năm tới.",
+        "rect": [
+            88.10399627685547,
+            520.510009765625,
+            461.1340026855469,
+            535.510009765625
+        ]
+    },
+    {
+        "page": 16,
+        "question": 93,
+        "answer": "A",
+        "answer_text": "A. Tất cả các phương án đều đúng.",
+        "rect": [
+            71.90399932861328,
+            580.39599609375,
+            265.9639892578125,
+            595.2999877929688
+        ]
+    },
+    {
+        "page": 17,
+        "question": 94,
+        "answer": "A",
+        "answer_text": "A. Kinh tế.",
+        "rect": [
+            88.10399627685547,
+            101.780029296875,
+            129.50399780273438,
+            116.780029296875
+        ]
+    },
+    {
+        "page": 17,
+        "question": 95,
+        "answer": "B",
+        "answer_text": "B. Công nghiệp nặng.",
+        "rect": [
+            71.90399932861328,
+            221.53997802734375,
+            191.8040008544922,
+            236.41998291015625
+        ]
+    },
+    {
+        "page": 17,
+        "question": 96,
+        "answer": "A",
+        "answer_text": "A. Nghị quyết số 08-NQ/TW của Bộ Chính trị khóa VII (tháng 11/1993).",
+        "rect": [
+            88.10399627685547,
+            326.2099914550781,
+            471.9339904785156,
+            341.0899963378906
+        ]
+    },
+    {
+        "page": 17,
+        "question": 97,
+        "answer": "A",
+        "answer_text": "A. Sai lầm nghiêm trọng về chủ trương, chính sách lớn, về chỉ đạo chiến lược và về tổ",
+        "rect": [
+            72.02400207519531,
+            445.75,
+            537.6940307617188,
+            460.75
+        ]
+    },
+    {
+        "page": 17,
+        "question": 98,
+        "answer": "D",
+        "answer_text": "D. 6 đặc trưng.",
+        "rect": [
+            88.10399627685547,
+            640.1799926757812,
+            155.30398559570312,
+            655.0599975585938
+        ]
+    },
+    {
+        "page": 17,
+        "question": 99,
+        "answer": "A",
+        "answer_text": "A. Khoán sản phẩm cuối cùng đến nhóm hộ và hộ xã viên.",
+        "rect": [
+            71.90399932861328,
+            700.0560302734375,
+            394.03399658203125,
+            714.9359741210938
+        ]
+    },
+    {
+        "page": 18,
+        "question": 100,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            88.10399627685547,
+            266.45001220703125,
+            263.083984375,
+            281.3299865722656
+        ]
+    },
+    {
+        "page": 18,
+        "question": 101,
+        "answer": "A",
+        "answer_text": "A. Diệt Cộng, cầm Hồ",
+        "rect": [
+            87.98400115966797,
+            326.2099914550781,
+            193.4840087890625,
+            340.9700012207031
+        ]
+    },
+    {
+        "page": 18,
+        "question": 102,
+        "answer": "C",
+        "answer_text": "C. Vì địa vị kinh tế của họ bấp bênh, thái độ hay dao động",
+        "rect": [
+            71.90399932861328,
+            460.510009765625,
+            394.51397705078125,
+            475.3900146484375
+        ]
+    },
+    {
+        "page": 18,
+        "question": 103,
+        "answer": "B",
+        "answer_text": "B. 2013",
+        "rect": [
+            72.02400207519531,
+            550.27001953125,
+            113.18400573730469,
+            565.1500244140625
+        ]
+    },
+    {
+        "page": 18,
+        "question": 104,
+        "answer": "B",
+        "answer_text": "B. Ứng xử của các bên ở biển Đông",
+        "rect": [
+            71.90399932861328,
+            640.0599975585938,
+            266.4440002441406,
+            654.9400024414062
+        ]
+    },
+    {
+        "page": 19,
+        "question": 106,
+        "answer": "C",
+        "answer_text": "C. Đảng Lao động Việt Nam",
+        "rect": [
+            71.90399932861328,
+            131.65997314453125,
+            229.7239990234375,
+            146.65997314453125
+        ]
+    },
+    {
+        "page": 19,
+        "question": 105,
+        "answer": "B",
+        "answer_text": "B. Đảng muốn tập trung sức lực cho cuộc kháng chiến chống Pháp",
+        "rect": [
+            71.90399932861328,
+            236.5460205078125,
+            440.9539794921875,
+            251.33001708984375
+        ]
+    },
+    {
+        "page": 19,
+        "question": 107,
+        "answer": "C",
+        "answer_text": "C. Công nhân, nông dân, tiểu tư sản và tư sản dân tộc",
+        "rect": [
+            71.90399932861328,
+            355.9700012207031,
+            369.6739807128906,
+            370.8500061035156
+        ]
+    },
+    {
+        "page": 19,
+        "question": 108,
+        "answer": "B",
+        "answer_text": "B. Tư sản dân quyền và thổ địa cách mạng để đi tới xã hội cộng sản",
+        "rect": [
+            87.38400268554688,
+            445.75,
+            444.91400146484375,
+            460.6300048828125
+        ]
+    },
+    {
+        "page": 19,
+        "question": 109,
+        "answer": "C",
+        "answer_text": "C. Biên giới",
+        "rect": [
+            71.90399932861328,
+            580.2760009765625,
+            137.54400634765625,
+            595.2999877929688
+        ]
+    },
+    {
+        "page": 19,
+        "question": 110,
+        "answer": "B",
+        "answer_text": "B. Tham gia lực lượng gìn giữ hòa bình quốc tế",
+        "rect": [
+            71.90399932861328,
+            669.9400024414062,
+            333.79400634765625,
+            684.8200073242188
+        ]
+    },
+    {
+        "page": 20,
+        "question": 111,
+        "answer": "B",
+        "answer_text": "B. Đấu tranh chống chủ nghĩa phát-xít, chống chiến tranh, bảo vệ dân chủ và hòa",
+        "rect": [
+            71.90399932861328,
+            131.65997314453125,
+            525.9340209960938,
+            146.53997802734375
+        ]
+    },
+    {
+        "page": 20,
+        "question": 112,
+        "answer": "B",
+        "answer_text": "B. Giúp cán bộ, đảng viên của Đảng được rèn luyện và trưởng thành",
+        "rect": [
+            71.90399932861328,
+            236.3060302734375,
+            452.3739929199219,
+            251.21002197265625
+        ]
+    },
+    {
+        "page": 20,
+        "question": 113,
+        "answer": "C",
+        "answer_text": "C. Mặt trận nhân dân Pháp lên cầm quyền ở Đông Dương",
+        "rect": [
+            71.90399932861328,
+            355.9700012207031,
+            394.27398681640625,
+            370.8500061035156
+        ]
+    },
+    {
+        "page": 20,
+        "question": 114,
+        "answer": "B",
+        "answer_text": "B. Bắt người dân nhổ lúa, trồng đay lấy nguyên liệu phục vụ chiến tranh",
+        "rect": [
+            71.90399932861328,
+            445.75,
+            448.8739929199219,
+            460.6300048828125
+        ]
+    },
+    {
+        "page": 20,
+        "question": 115,
+        "answer": "B",
+        "answer_text": "B. Khởi nghĩa Nam Kì (1940)",
+        "rect": [
+            71.90399932861328,
+            535.3900146484375,
+            234.76400756835938,
+            550.3900146484375
+        ]
+    },
+    {
+        "page": 20,
+        "question": 116,
+        "answer": "D",
+        "answer_text": "D. Tập trung, thống nhất và kịp thời",
+        "rect": [
+            71.90399932861328,
+            670.0599975585938,
+            274.7239990234375,
+            684.9400024414062
+        ]
+    },
+    {
+        "page": 21,
+        "question": 118,
+        "answer": "C",
+        "answer_text": "C. Ủy ban dân tộc Giải phóng Việt Nam",
+        "rect": [
+            71.90399932861328,
+            251.21002197265625,
+            293.6839904785156,
+            266.09002685546875
+        ]
+    },
+    {
+        "page": 21,
+        "question": 119,
+        "answer": "B",
+        "answer_text": "B. Độc lập và tự do",
+        "rect": [
+            71.90399932861328,
+            340.8500061035156,
+            178.2239990234375,
+            355.7300109863281
+        ]
+    },
+    {
+        "page": 21,
+        "question": 120,
+        "answer": "A",
+        "answer_text": "A. Chưa có quốc gia nào ủng hộ lập trường độc lập và công nhận địa vị pháp lý",
+        "rect": [
+            72.02400207519531,
+            430.75,
+            514.0540161132812,
+            445.75
+        ]
+    },
+    {
+        "page": 21,
+        "question": 121,
+        "answer": "B",
+        "answer_text": "B. Thu mua lương thực từ nước ngoài",
+        "rect": [
+            71.90399932861328,
+            565.030029296875,
+            282.16400146484375,
+            579.9100341796875
+        ]
+    },
+    {
+        "page": 21,
+        "question": 122,
+        "answer": "A",
+        "answer_text": "A. Phát hành đồng giấy bạc Việt Nam",
+        "rect": [
+            71.90399932861328,
+            654.9400024414062,
+            281.6839904785156,
+            669.7000122070312
+        ]
+    },
+    {
+        "page": 22,
+        "question": 123,
+        "answer": "B",
+        "answer_text": "B. Phổ thông đầu phiếu",
+        "rect": [
+            71.90399932861328,
+            131.65997314453125,
+            202.364013671875,
+            146.53997802734375
+        ]
+    },
+    {
+        "page": 22,
+        "question": 124,
+        "answer": "C",
+        "answer_text": "C. Bầu cử Hội đồng nhân dân các cấp",
+        "rect": [
+            71.90399932861328,
+            251.21002197265625,
+            281.3240051269531,
+            266.09002685546875
+        ]
+    },
+    {
+        "page": 22,
+        "question": 125,
+        "answer": "A",
+        "answer_text": "A. Nhà hát lớn Hà Nội",
+        "rect": [
+            71.90399932861328,
+            326.2099914550781,
+            196.60400390625,
+            340.9700012207031
+        ]
+    },
+    {
+        "page": 22,
+        "question": 126,
+        "answer": "C",
+        "answer_text": "C. Chiến tranh đặc biệt",
+        "rect": [
+            71.90399932861328,
+            460.510009765625,
+            202.843994140625,
+            475.3900146484375
+        ]
+    },
+    {
+        "page": 22,
+        "question": 127,
+        "answer": "A",
+        "answer_text": "A. Trở thành hậu phương vững chắc, đủ sức cung cấp nhân lực, tài lực, vật lực",
+        "rect": [
+            72.02400207519531,
+            535.510009765625,
+            512.3740234375,
+            550.3900146484375
+        ]
+    },
+    {
+        "page": 22,
+        "question": 128,
+        "answer": "C",
+        "answer_text": "C. Quân giải phóng miền Nam Việt Nam",
+        "rect": [
+            71.90399932861328,
+            699.8159790039062,
+            297.52398681640625,
+            714.8159790039062
+        ]
+    },
+    {
+        "page": 23,
+        "question": 129,
+        "answer": "A",
+        "answer_text": "A. Sự chi viện nhiệt tình của hậu phương miền Bắc cho tiền tuyến miền Nam trong",
+        "rect": [
+            72.02400207519531,
+            131.77996826171875,
+            532.4140014648438,
+            146.65997314453125
+        ]
+    },
+    {
+        "page": 23,
+        "question": 130,
+        "answer": "A",
+        "answer_text": "A. Tích cực mua sắm vũ khí, lương thực",
+        "rect": [
+            71.90399932861328,
+            281.3299865722656,
+            294.8840026855469,
+            296.2099914550781
+        ]
+    },
+    {
+        "page": 6,
+        "question": 30,
+        "answer": "C",
+        "answer_text": "C. Chiến tranh du kích cục bộ",
+        "rect": [
+            71.90399932861328,
+            86.77996826171875,
+            239.56399536132812,
+            101.65997314453125
+        ]
+    },
+    {
+        "page": 9,
+        "question": 48,
+        "answer": "D",
+        "answer_text": "D. Cả ba phương án kia đều đúng.",
+        "rect": [
+            88.10399627685547,
+            116.780029296875,
+            263.083984375,
+            131.780029296875
+        ]
+    },
+    {
+        "page": 16,
+        "question": 89,
+        "answer": "C",
+        "answer_text": "C. Đại hội VIII của Đảng (1996).",
+        "rect": [
+            71.90399932861328,
+            71.87603759765625,
+            252.88400268554688,
+            86.780029296875
+        ]
+    },
+    {
+        "page": 21,
+        "question": 117,
+        "answer": "C",
+        "answer_text": "C. Từ sau khi Nhật đầu hàng quân Đồng minh đến trước khi quân Đồng minh vào",
+        "rect": [
+            72.02400207519531,
+            116.9000244140625,
+            530.9739990234375,
+            131.9000244140625
+        ]
+    }
+]

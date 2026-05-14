@@ -1,0 +1,4225 @@
+{
+  "quiz": {
+    "title": "Lịch sử Đảng - Quiz 1",
+    "total_questions": 162,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Mâu thuẫn vừa cơ bản vừa chủ yếu trong xã hội Việt Nam dưới sự cai trị của thực dân Pháp là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhân dân, chủ yếu là nông dân với địa chủ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân với tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Toàn thể nhân dân Việt Nam với Thực dân Pháp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Công nhân, nông dân với địa chủ và thực dân Pháp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Chủ trương “dùng biện pháp bạo động để đánh đuổi thực dân Pháp khôi phục nền độc lập cho dân tộc”, đại diện của xu hướng bạo động này là ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phan Bội Châu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phan Chu Trinh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bùi Quang Chiêu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Chủ trương “vận động cải cách văn hóa, xã hội; động viên lòng yêu nước trong nhân dân; đả kích bọn vua quan phong kiến thối nát, đề xướng tư tưởng dân chủ tư sản; thực hiện khai dân trí, chấn dân khí, hậu dân sinh, mở mang dân quyền; phản đối đấu tranh vũ trang và cầu viện nước ngoài”, đại biểu xu hướng cải cách này là ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phan Bội Châu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phan Châu Trinh",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trần Phú",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Vụ ám sát Ba Danh (Bazin - trùm mộ phu đồn điền cao su của Pháp) diễn ra vào tháng, năm nào? Do những người thuộc tổ chức nào thực hiện?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 2 năm 1919, một số đảng viên của Tân Việt Cách mạng Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 2 năm 1929, một số đảng viên của Việt Nam quốc dân Đảng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1929, một số đảng viên của Đảng Thanh niên Cao vọng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 3 năm 1919, một số đảng viên của Đảng Thanh niên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Quốc tế cộng sản (Quốc tế III) được thành lập vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 7 năm 1971",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 3 năm 1918",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1919",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 8 năm 1920",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Tính chất của xã hội Việt Nam dưới sự thống trị của thực dân Pháp là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xã hội thuộc địa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xã hội nửa phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Xã hội có giai cấp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thuộc địa, nửa phong kiến",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Ai là người Nguyễn Ái Quốc đánh giá: “Ông là tiêu biểu cho chủ nghĩa quốc gia”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phan Bội Châu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phan Châu Trinh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Vua Hàm Nghi",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Thái Học",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Tân Việt cách mạng Đảng được thành lập vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 3 năm 1926",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 5 năm 1927",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 7 năm 1928",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 12 năm 1929",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Những giai cấp bị trị ở Việt Nam dưới chế độ cai trị của thực dân Pháp gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân và nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Công nhân, nông dân, tiểu tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, địa chủ vừa và nhỏ",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Đông Dương Cộng sản Liên đoàn gửi đơn xin gia nhập Đảng Cộng sản Việt Nam vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 22 tháng 2 năm 1930",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 24 tháng 2 năm 1931",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 24 tháng 2 năm 1930",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ngày 20 tháng 2 năm 1931",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Đại biểu các tổ chức cộng sản nào đã tham dự Hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản liên đoàn",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "An Nam Cộng sản Đảng và Đông Dương Cộng sản liên đoàn",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đông Dương Cộng sản Đảng và Đông Dương Cộng sản liên đoàn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Hội Việt Nam cách mạng thanh niên thực hiện chủ trương “vô sản hóa” vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 1926",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 1927",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Năm 1928",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Năm 1929",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Trong tác phẩm Đường Kách Mệnh, Nguyễn Ái Quốc đã đề cập giai cấp nào là chủ, là gốc của cách mệnh?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp công nhân, nông dân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Nội dung nào không phải là nhiệm vụ về kinh tế được xác định trong Cương lĩnh chính trị đầu tiên của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thủ tiêu hết các thứ quốc trái, tịch thu toàn bộ sản nghiệp lớn của tư bản đế quốc chủ nghĩa Pháp để giao cho Chính Phủ công nông binh quản lý",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lập chính phủ công nông binh, tổ chức quân đội công nông",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Bỏ sưu thuế cho dân cày nghèo, thi hành luật ngày làm 8 giờ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mở mang công nghiệp và nông nghiệp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Phong trào Cần Vương diễn ra vào thời gian nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1885 - 1896",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "1884 - 1913",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "1884 - 1896",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "1885 - 1913",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Cơ quan tuyên truyền của Hội Việt Nam cách mạng thanh niên là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tuần báo Thanh niên",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Báo Búa liềm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Báo Dân chúng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tuần báo Việt Nam độc lập",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Nguyễn Ái Quốc tham gia Đảng Xã hội Pháp vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1918",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "1919",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "1920",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "1921",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Trong đợt khai thác thuộc địa lần thứ nhất của thực dân Pháp ở Việt Nam có các giai cấp mới nào được hình thành?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp tư sản và nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp tư sản và công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp công nhân và nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp tiểu tư sản và nông dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp và phong kiến tay sai, yêu cầu bức thiết nhất của giai cấp nông dân Việt Nam là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Độc lập dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Quyền bình đẳng nam nữ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ruộng đất",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Được giảm tô, giảm tức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Từ cuối thế kỉ XIX, chủ nghĩa tư bản đã chuyển từ tự do cạnh tranh sang giai đoạn nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ nghĩa thực dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chủ nghĩa tư bản độc quyền",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chủ nghĩa phát xít",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chủ nghĩa đế quốc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Tuyên ngôn của Đảng Cộng sản ra đời vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 1838",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 1848",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Năm 1858",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm 1868",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Đối với các dân tộc thuộc địa, Cách mạng Tháng Mười Nga đã nêu lên tấm gương sáng về vấn đề gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng dân tộc bị áp bức",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chống tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chống phát xít",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giải phóng nông dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp địa chủ chiếm bao nhiêu % cư dân nông thôn?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5%",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "6%",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "7%",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "8%",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp địa chủ nắm bao nhiêu % ruộng đất?",
+        "options": [
+          {
+            "id": "a",
+            "text": "50%",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "60%",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "70%",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "80%",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp nông dân chiếm bao nhiêu % dân số?",
+        "options": [
+          {
+            "id": "a",
+            "text": "60%",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "70%",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "80%",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "90%",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp nông dân Việt Nam phải chịu bao nhiêu tầng áp bức, bóc lột?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "2",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "3",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "4",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Bộ phận nào của tầng lớp tiểu tư sản Việt Nam chịu ảnh hưởng của tư tưởng tiến bộ, có tinh thần cách mạng cao, thức thời và nhạy cảm với thời cuộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Học sinh, trí thức",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Thợ thủ công, viên chức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Những người làm nghề tự do",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Học sinh, viên chức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Khởi nghĩa Yên Thế diễn ra ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hà Giang",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bắc Giang",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hậu Giang",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tiền Giang",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Nguyễn Ái Quốc đọc bản “Sơ thảo lần thứ nhất Những luận cương về vấn đề dân tộc và vấn đề thuộc địa” của Lênin đăng trên báo Nhân đạo vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 5 năm 1919",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 7 năm 1920",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tháng 9 năm 1921",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 11 năm 1922",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Tác phẩm Đường Kách Mệnh do cơ quan nào của Hội Liên hiệp các dân tộc bị áp bức ở Á Đông xuất bản vào năm 1927?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bộ Văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bộ Giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bộ Tuyên truyền",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Bộ Thông tin và truyền thông",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng thanh niên vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 6 năm 1925",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Tháng 5 năm 1926",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 5 năm 1927",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 6 năm 1928",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Để truyền bá tư tưởng Mác - Lênin vào Việt Nam, Nguyễn Ái Quốc đã tổ chức xuất bản những tờ báo nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuông rè, Người nhà quê, Búa liềm, Dân chúng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thanh niên, công nông, lính cách mệnh, Tiền phong",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nhân đạo",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tuổi trẻ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Cuộc bãi công của công nhân Ba Son do Tôn Đức Thắng tổ chức diễn ra vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1923",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "1924",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "1925",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "1926",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "An Nam Cộng sản Đảng thành lập vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1919",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "1929",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "1939",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "1949",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Cương lĩnh chính trị đầu tiên của Đảng xác định giai cấp nào là lực lượng lãnh đạo cách mạng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vô sản",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tiểu tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Điền vào chỗ trống: “Chủ trương làm (…) và thổ địa cách mạng để đi tới xã hội cộng sản”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "xã hội chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tư sản dân quyền",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "dân tộc dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cách mạng dân tộc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 37,
+        "question_text": "Ai là người soạn thảo Luận cương chính trị tháng 10 năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trần Phú",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 38,
+        "question_text": "Tác phẩm “Tự chỉ trích” của đồng chí Nguyễn Văn Cừ được xuất bản vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 7 năm 1938",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 6 năm 1939",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 7 năm 1939",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 6 năm 1938",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 39,
+        "question_text": "Đêm 13/8/1945 diễn ra sự kiện gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ tịch Hồ Chí Minh đọc Lời kêu gọi toàn quốc kháng chiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhật đầu hàng quân Đồng minh vô điều kiện",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nhân dân Hà Nội khởi nghĩa giành chính quyền",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ủy ban khởi nghĩa toàn quốc ra lệnh Tổng khởi nghĩa",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 40,
+        "question_text": "Từ ngày 13 đến ngày 15 tháng 8 năm 1945 diễn ra sự kiện gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị toàn quốc của Đảng họp tại Tân Trào (Tuyên Quang)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Họp Đại hội đại biểu của Đảng họp tại Từ Sơn (Bắc Ninh)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị quân sự cách mạng Bắc Kỳ họp tại Hiệp Hòa (Bắc Giang)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội quốc dân họp tại Tân Trào (Tuyên Quang)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 41,
+        "question_text": "Nhật đảo chính Pháp vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 3 năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 3 năm 1945",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 3 năm 1947",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 42,
+        "question_text": "Bốn tỉnh đầu tiên giành được chính quyền ở Việt Nam trong Cách mạng Tháng Tám năm 1945 là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bắc Ninh, Quảng Ninh, Phú Yên, Kon Tum",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Thái Nguyên, Tuyên Quang, Nghệ An, Bình Định",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hà Giang, Nam Định, Ninh Bình, Gia Lai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 43,
+        "question_text": "Phương pháp đấu tranh cơ bản trong Cách mạng Tháng Tám năm 1945 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kết hợp đấu tranh vũ trang và đấu tranh kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kết hợp đấu tranh vũ trang và đấu tranh chính trị",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Kết hợp đấu tranh chính trị với đấu tranh ngoại giao",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kết hợp đấu tranh ngoại giao với đấu tranh văn hóa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 44,
+        "question_text": "Đội Việt Nam giải phóng quân ra đời dựa trên sự kết hợp của các tổ chức nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Việt Nam Tuyên truyền giải phóng quân với đội du kích Bắc Sơn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Việt Nam Tuyên truyền giải phóng quân với Cứu quốc quân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Việt Nam Tuyên truyền giải phóng quân với du kích Ba Tơ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cứu quốc quân với du kích Thái Nguyên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 45,
+        "question_text": "Nhân tố chủ yếu nhất quyết định thắng lợi của Cách mạng Tháng Tám năm 1945 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tác động của khủng hoảng kinh tế thế giới",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Sức mạnh liên minh công - nông",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bối cảnh quốc tế thuận lợi",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sự lãnh đạo của Đảng",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 46,
+        "question_text": "Đại hội đại biểu lần thứ nhất của Đảng họp ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quảng Châu (Trung Quốc)",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hương Cảng (Trung Quốc)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ma Cao (Trung Quốc)",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Quảng Tây (Trung Quốc)",
+            "is_correct": false
+          }
+        ],
+        "note": "(Lưu ý: theo tài liệu, đáp án là Ma Cao, nhưng thực tế Đại hội I họp ở Hương Cảng. Nên giữ nguyên theo đáp án của đề)"
+      },
+      {
+        "question_number": 47,
+        "question_text": "Tại Hội Nghị Ban Chấp hành Trung ương Đảng tháng 5 năm 1941, Nguyễn Ái Quốc chủ trương thành lập mặt trận nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mặt trận Liên Việt",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mặt trận Đồng Minh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mặt trận Việt Minh",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Mặt trận dân tộc thống nhất phản đế Đông Dương",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 48,
+        "question_text": "Đoàn Đại biểu Việt Nam tham dự Đại hội lần VII của Quốc tế Cộng sản tại Matxcova (tháng 7/1935) do ai dẫn đầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lê Hồng Phong",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Trường Chinh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hà Huy Tập",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 49,
+        "question_text": "Luận điểm sau được nêu tại Hội nghị nào của Đảng: “Nếu không giải quyết được vấn đề dân tộc giải phóng, không đòi được độc lập tự do cho toàn thể dân tộc, thì chẳng những toàn thể quốc gia dân tộc còn chịu mãi kiếp ngựa trâu, mà quyền lợi của bộ phận giai cấp đến vạn năm sau cũng không đòi được”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 11 năm 1939",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 11 năm 1940",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 5 năm 1941",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Quân sự cách mạng Bắc Kỳ tháng 4 năm 1945",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 50,
+        "question_text": "Nội dung nào sau đây không phải là ý nghĩa của Cách mạng Tháng Tám năm 1945?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phá tan xiềng xích nô lệ của Pháp - Nhật và phong kiến, đem lại độc lập tự do cho dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mở ra một kỉ nguyên mới trong lịch sử dân tộc: độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Pháp công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Thắng lợi đầu tiên trong thời đại mới của một dân tộc nhược tiểu đã tự giải phóng khỏi ách đế quốc thực dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 51,
+        "question_text": "Điền vào chỗ trống: “Cuộc dân tộc giải phóng (…) phải kết chặt với cách mạng điền địa”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "nhất định",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "không bắt buộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "bắt buộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "không nhất định",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 52,
+        "question_text": "Từ ngày 14 đến ngày 30 tháng 10 năm 1930 diễn ra sự kiện gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội đại biểu lần thứ nhất của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Ban Chấp hành Trung ương lần thứ nhất",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội đại biểu toàn quốc lần thứ hai của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Ban Chấp hành Trung ương lần thứ hai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 53,
+        "question_text": "Đêm ngày 9 tháng 3 năm 1945, Ban Thường vụ Trung ương Đảng họp Hội nghị mở rộng ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bắc Sơn - Vũ Nhai",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bắc Pó - Cao Bằng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tân Trào - Tuyên Quang",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Từ Sơn - Bắc Ninh",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 54,
+        "question_text": "Hình thức tổ chức và biện pháp đấu tranh trong giai đoạn 1936 - 1939 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hình thức tổ chức bí mật, đấu tranh vũ trang",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hình thức tổ chức và đấu tranh công khai",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hình thức tổ chức và đấu tranh công khai và nửa công khai, hợp pháp và nửa hợp pháp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hình thức tổ chức bí mật và đấu tranh chính trị",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 55,
+        "question_text": "Cuộc khởi nghĩa nào sau đây không diễn ra trong những năm 1939 - 1941?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khởi nghĩa Nam Kỳ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Binh biến Đô Lương",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khởi nghĩa Ba Tơ",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Khởi nghĩa Bắc Sơn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 56,
+        "question_text": "Tháng 5 năm 1941, Ban Chấp hành Trung ương quyết định thành lập Mặt trận Việt Nam độc lập đồng minh để thay thế cho mặt trận nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mặt trận Tổ quốc Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mặt trận dân chủ Đông Dương.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mặt trận Liên Việt",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mặt trận dân tộc thống nhất phản đế Đông Dương",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 57,
+        "question_text": "Hai sự kiện tiêu biểu nhất trong cuộc vận động dân chủ 1936 - 1939 là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phong trào Đại hội Đông Dương và đấu tranh đòi dân sinh, dân chủ",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phong trào đấu tranh trên lĩnh vực báo chí và nghị trường",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phong trào đón Gôđa và đấu tranh nghị trường",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phong trào báo chí và đòi dân sinh, dân chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 58,
+        "question_text": "Nội dung nào sau đây không nằm trong chủ trương chuyển hướng chỉ đạo chiến lược giai đoạn 1939 - 1945?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thành lập Mặt trận Việt Minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chuẩn bị khởi nghĩa vũ trang.",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tạm gác khẩu hiệu “Đánh đổ địa chủ, chia ruộng đất cho dân cày” bằng khẩu hiệu “Tịch thu ruộng đất của bọn đế quốc và Việt gian chia cho dân cày nghèo”.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đưa nhiệm vụ giải phóng giai cấp lên hàng đầu",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 59,
+        "question_text": "Luận cương tháng 10 năm 1930 đã đề cao nhiệm vụ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giải phóng giai cấp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đòi quyền dân sinh dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tự do, hòa bình cơm áo",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 60,
+        "question_text": "Ai là người chủ trì hội nghị Ban Chấp hành Trung ương Đảng lần thứ nhất tháng 10 năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Trần Phú",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Trần Văn Cung",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 61,
+        "question_text": "Chủ nghĩa phát xít ra đời đầu tiên ở nước nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhật",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tây Ban Nha",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Italia",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 62,
+        "question_text": "Ai là tác giả của tác phẩm “Tự chỉ trích”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trần Phú",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 63,
+        "question_text": "Hội nghị toàn quốc của Đảng họp từ ngày 13 đến ngày 15 tháng 8 năm 1945 diễn ra ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bắc Pó",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tân Trào",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Bà Điểm",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đình Bảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 64,
+        "question_text": "Uỷ ban khởi nghĩa toàn quốc ra lệnh Tổng khởi nghĩa vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 13 tháng 8 năm 1942",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 13 tháng 8 năm 1943",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 13 tháng 8 năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ngày 13 tháng 8 năm 1945",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 65,
+        "question_text": "Cuộc Tổng khởi nghĩa giành chính quyền trong Cách mạng Tháng Tám năm 1945 diễn ra bao nhiêu ngày?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5 ngày",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "10 ngày",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "15 ngày",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "20 ngày",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 66,
+        "question_text": "Nhiệm vụ hàng đầu được Đảng xác định trong giai đoạn 1939-1945 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đòi quyền dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đánh đổ phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đánh đổ đế quốc, địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 67,
+        "question_text": "Ai trước lúc hi sinh đã căn dặn đồng chí của mình: “Hãy giữ vững chí khí chiến đấu”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trần Phú",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Lý Tự Trọng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Đức Cảnh",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trần Bình Trọng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 68,
+        "question_text": "Để giải quyết những khó khăn sau Cách mạng Tháng Tám năm 1945, Đảng ban hành chỉ thị gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kháng chiến kiến quốc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chống giặc ngoại xâm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đánh đổ thực dân Pháp và tay sai",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công việc khẩn bây giờ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 69,
+        "question_text": "Chỉ thị Kháng chiến kiến quốc được Ban Chấp hành Trung ương Đảng ban hành vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 25 tháng 11 năm 1943",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 25 tháng 11 năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 25 tháng 11 năm 1945",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ngày 25 tháng 11 năm 1946",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 70,
+        "question_text": "Kẻ thù chính được xác định trong chỉ thị Kháng chiến kiến quốc là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Quân đội Anh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Quân đội Tưởng Giới Thạch",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thực dân Pháp xâm lược",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Quân đội Mỹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 71,
+        "question_text": "Hiệp ước nào được ký kết giữa Pháp và Tưởng buộc Đảng phải chuyển từ việc hòa hoãn với Tưởng sang hòa hoãn với Pháp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tạm ước ngày 14 tháng 9 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hiệp định Sơ bộ ngày 6 tháng 3 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hiệp ước Trùng Khánh ngày 28 tháng 2 năm 1946",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hiệp định Giơnevơ ngày 21 tháng 7 năm 1954",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 72,
+        "question_text": "Đại hội đại biểu toàn quốc lần thứ II của Đảng (tháng 2 năm 1951) diễn ra ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cao Bằng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hà Nội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tuyên Quang",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Thái Nguyên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 73,
+        "question_text": "Đại hội đại biểu lần thứ hai của Đảng Cộng Sản Đông Dương (2-1951) đã quyết định:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đảng ra hoạt động công khai lấy tên là Đảng Lao Động Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đảng ra hoạt động công khai và lấy tên là Đảng Cộng Sản Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đảng ra hoạt động công khai lấy tên là Đảng Cộng Sản Đông Dương",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đảng tiếp tục hoạt động bí mật chờ thời cơ để ra hoạt động công khai",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 74,
+        "question_text": "(Câu tiếp theo trong file PDF, từ trang 12) Ở miền Nam, quân dân ta đã đánh bại cuộc chiến lược chiến tranh nào của Mỹ trong giai đoạn 1954 - 1960?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chiến tranh cục bộ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chiến tranh Việt Nam hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chiến tranh đơn phương",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Chiến tranh đặc biệt",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 75,
+        "question_text": "“Ba mũi giáp công” trong đường lối của Đảng giai đoạn 1965 - 1975 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đồng bằng, trung du, miền núi",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Quân sự, kinh tế, chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế, chính trị, xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Quân sự, chính trị, binh vận",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 76,
+        "question_text": "Mục đích của chiến lược \"Việt Nam hóa chiến tranh\" nhằm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đánh nhanh, thắng nhanh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dùng người Việt Nam đánh người Việt Nam",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lấy chiến tranh nuôi chiến tranh.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lấy nông thôn bao vây thành thị",
+            "is_correct": false
+          }
+        ],
+        "note": "(Suy luận từ nội dung)"
+      },
+      {
+        "question_number": 77,
+        "question_text": "Phương châm tiến hành kháng chiến trong đường lối kháng chiến chống thực dân Pháp xâm lược của Đảng là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mỗi người dân một chiến sĩ, một làng xóm là một pháo đài",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đánh địch về mọi mặt chính trị, quân sự, kinh tế, văn hóa, ngoại giao",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kháng chiến toàn dân, toàn diện, lâu dài dựa vào sức mình là chính",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đánh chắc tiến chắc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 78,
+        "question_text": "Nhiệm vụ chính trước mắt trong cách mạng giai đoạn 1945 - 1954 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xóa bỏ tàn tích phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Làm cho dân cày có ruộng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát triển chế độ dân chủ nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hoàn thành giải phóng dân tộc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 79,
+        "question_text": "Lực lượng của cách mạng Việt Nam được xác định từ năm 1951-1954 là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân, tiểu tư sản, trí thức",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân, nông dân, lao động trí thức",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Công nhân, nông dân, tiểu tư sản thành thị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân, nông dân, địa chủ yêu nước",
+            "is_correct": false
+          }
+        ],
+        "note": "(Suy luận)"
+      },
+      {
+        "question_number": 80,
+        "question_text": "Khẩu hiệu được nêu trong Chỉ thị Kháng chiến kiến quốc là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "“Đánh đuổi đế quốc, thực dân”",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "“Đoàn kết nhất trí đánh đuổi kẻ thù”",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "“Dân tộc trên hết, Tổ quốc trên hết”",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "“Nhằm thắng quân thù mà bắn”",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 81,
+        "question_text": "Ba chỗ dựa chính của chiến lược “chiến tranh đặc biệt” của Mỹ là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngụy quân, ngụy quyền, ấp chiến lược và đô thị",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Ngụy quân, quân viễn chinh, quân chư hầu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Quân viễn chinh, quân chư hầu, lính đánh thuê",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ngụy quân, ngụy quyền và quân viễn chinh Mỹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 82,
+        "question_text": "Ngày 19 tháng 12 năm 1946, Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vĩnh Phúc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vạn Phúc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đình Bảng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bà Điểm",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 83,
+        "question_text": "Hội Liên hiệp quốc dân Việt Nam viết tắt là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Liên Hiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Liên Việt",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Việt Nam",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nam Việt",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 84,
+        "question_text": "Nghị quyết Hội nghị Ban Chấp hành Trung ương lần thứ 15 tháng 1 năm 1959 có ý nghĩa:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Củng cố sự lãnh đạo của Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đề ra phương hướng tác chiến trong chiến tranh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Mở đường cho cách mạng miền Nam",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Mở đường cho cách mạng miền Bắc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 85,
+        "question_text": "Ba vùng chiến lược gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Rừng núi, trung du, đồng bằng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Rừng núi, đồng bằng, thành thị",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Rừng núi, cao nguyên, thành thị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Rừng núi, thành thị, nông thôn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 86,
+        "question_text": "Theo nhận định của Đảng, cuộc Chiến tranh cục bộ Mỹ tiến hành ở miền Nam là cuộc chiến tranh:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có chuẩn bị từ lâu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Buộc phải thực hiện trong thế thua, thế bị động",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lớn nhất từ trước tới giờ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Theo mong đợi của nhân dân Mỹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 87,
+        "question_text": "Tư tưởng chỉ đạo của Đảng trong cuộc đấu tranh ở miền Nam là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giữ vững và phát triển thế tiến công",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chủ động phòng thủ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát động đấu tranh nhân dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Toàn dân, toàn diện",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 88,
+        "question_text": "Đường lối công nghiệp hoá đất nước đã được hình thành từ Đại hội nào của Đảng ta?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội III (9/1960)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội IV (12/1976)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội V (3/1982)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VI (12/1986)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 89,
+        "question_text": "Từ năm 1975 đến năm 1985, công nghiệp hóa ở Việt Nam được tiến hành trên phạm vi:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Miền Bắc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Miền Nam",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Miền Trung",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trên phạm vi cả nước",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 90,
+        "question_text": "Đại hội đại biểu toàn quốc lần thứ V của Đảng (3/1982) xác định trong chặng đường đầu tiên của thời kỳ quá độ ở Việt Nam phải lấy ngành nào làm mặt trận hàng đầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nghiệp nặng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nông nghiệp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Ngư nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thương nghiệp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 91,
+        "question_text": "Các chương trình mục tiêu của công nghiệp hoá xã hội chủ nghĩa trong những năm còn lại của chặng đường đầu tiên của thời kỳ quá độ được Đại hội VI của Đảng xác định gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lương thực - thực phẩm",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hàng tiêu dùng; lương thực thực phẩm, hàng Việt Nam chất lượng cao",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hàng xuất khẩu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lương thực, thực phẩm; hàng tiêu dùng và hàng xuất khẩu",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 92,
+        "question_text": "Đại Hội X của Đảng chỉ rõ mục tiêu đẩy mạnh công nghiệp hoá, hiện đại hoá cần:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gắn với phát triển kinh tế tri thức; coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và của CNH, HĐH",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Gắn với nền kinh tế thị trường định hướng tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Gắn với nền kinh tế khép kín",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Gắn với nền kinh tế thị trường, thực hiện chiến lược hàng xuất khẩu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 93,
+        "question_text": "Các yếu tố để tăng trưởng kinh tế gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vốn, khoa học và công nghệ, con người, cơ cấu kinh tế, thể chế chính trị và quản lý Nhà nước",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Vốn, tài nguyên thiên nhiên, khoa học và công nghệ, con người, cơ cấu kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Con người, cơ cấu kinh tế, thể chế chính trị, tài nguyên thiên nhiên, giá trị đồng tiền",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Vốn, khoa học và công nghệ, con người, giá trị đồng tiền, thể chế chính trị",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 94,
+        "question_text": "Yếu tố quyết định đến tăng trưởng kinh tế là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vốn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thể chế chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khoa học và công nghệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Con người",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 95,
+        "question_text": "Khi tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước Việt Nam cần thực hiện những yêu cầu nào:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phát triển kinh tế trí thức được dời lại trong giai đoạn sau",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 96,
+        "question_text": "Để tiến hành công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm yêu cầu:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xây dựng nền kinh tế khép kín và hướng nội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xây dựng nền kinh tế độc lập tự chủ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Xây dựng nền kinh tế phải dựa vào sự giúp đỡ và lệ thuộc vào các nước tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xây dựng nền kinh tế mở nhưng chỉ giao lưu hợp tác với các nước XHCN",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 97,
+        "question_text": "Luận điểm: “Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bật trong quá trình phát triển lực lượng sản xuất” được nêu lên tại Đại hội lần thứ mấy của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội X",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội XI",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 98,
+        "question_text": "Trong quá trình công nghiệp hoá, hiện đại hoá, nền kinh tế nào được coi là yếu tố quan trọng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế nông nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế công nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế tri thức",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế công - nông nghiệp kết hợp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 99,
+        "question_text": "Việt Nam gia nhập tổ chức ASEAN vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 28 tháng 7 năm 1993",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 28 tháng 7 năm 1994",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 28 tháng 7 năm 1995",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ngày 28 tháng 7 năm 1996",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 100,
+        "question_text": "Việt Nam gia nhập tổ chức thương mại kinh tế thế giới (WTO) vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 11 tháng 1 năm 2006",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 11 tháng 1 năm 2007",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Ngày 11 tháng 1 năm 2008",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ngày 11 tháng 1 năm 2009",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 101,
+        "question_text": "Đại hội nào của Đảng đã chỉ ra những sai lầm trong nhận thức và chủ trương về công nghiệp hóa từ năm 1960 đến năm 1985?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội III",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội IV",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội V",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VI",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 102,
+        "question_text": "Chọn đáp án đúng:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chỉ đạo và tổ chức thực hiện yếu kém là một trong những nguyên nhân dẫn đến những hạn chế trong việc thực hiện đường lối CNH, HĐH thời kỳ trước đổi mới",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chỉ coi trọng số lượng tăng trưởng kinh tế trong việc phát triển kinh tế ở từng vùng, địa phương, dự án kinh tế - xã hội là nội dung của CNH, HĐH",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giảm tối thiểu các chương trình xóa đói giảm nghèo",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ba chương trình mục tiêu: lương thực thực phẩm, hàng tiêu dùng, hàng xuất khẩu được đề ra tại Đại hội VII của Đảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 103,
+        "question_text": "Đại hội lần thứ III của Đảng xác định con đường nào là con đường duy nhất để cải biến tình trạng kinh tế lạc hậu ở Việt Nam trong suốt thời kỳ quá độ lên chủ nghĩa xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nghiệp hóa xã hội chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Xóa tình trạng mù chữ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Diệt giặc đói",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xóa bỏ rào cản kinh tế với phương Tây",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 104,
+        "question_text": "Đại hội lần thứ V của Đảng (3/1982) chỉ ra việc xây dựng và phát triển công nghiệp nặng cần làm có mức độ, vừa sức, nhằm phục vụ thiết thực, có hiệu quả cho ngành nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nông nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nghiệp nhẹ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nông nghiệp, công nghiệp nhẹ, thương nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông nghiệp và công nghiệp nhẹ",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 105,
+        "question_text": "Cương lĩnh xây dựng đất nước trong thời kì quá độ lên CNXH được thông qua tại Đại hội nào của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 106,
+        "question_text": "Đại hội nào của Đảng xác định: “Giáo dục và đào tạo là quốc sách hàng đầu”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 107,
+        "question_text": "Chỉ thị 100 CT/TW (13/1/1981) đưa ra chủ trương nào:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát huy quyền sản xuất kinh doanh của các xí nghiệp quốc doanh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mở rộng hình thức trả lương khoán, lương sản phẩm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cải tiến phương pháp phân phối lưu thông",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 108,
+        "question_text": "Hội nghị lần thứ mấy Ban Chấp hành Trung ương Đảng (khóa V) quyết định phải dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp, thực hiện hạch toán kinh doanh XHCN?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị lần thứ 8 (6/1985)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị lần thứ 9 (12/1985)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị lần thứ 10 (5/1986)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị lần thứ 11 (12/1983)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 109,
+        "question_text": "“Trí tuệ, đổi mới dân chủ, kỷ cương và đoàn kết” là chủ đề Đại hội nào của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội lần thứ V",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội lần thứ VI",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội lần thứ VII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội lần thứ VIII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 110,
+        "question_text": "Hướng công nghiệp hoá, hiện đại hoá ở Việt Nam được Đại hội IX và Đại hội X của Đảng tiếp tục bổ sung và nhấn mạnh là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phải phát triển nhanh và có hiệu quả các sản phẩm, các ngành, các lĩnh vực đáp ứng nhu cầu trong nước và xuất khẩu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Rút ngắn thời gian so với đi trước và tận dụng kinh nghiệm, kỹ thuật, công nghệ của các nước đi trước",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ưu tiên phát triển công nghiệp nặng một cách hợp lý, trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 111,
+        "question_text": "Kinh tế tri thức là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nền kinh tế trong đó có sự sản sinh ra, phổ cập và sử dụng tri thức giữ vai trò quyết định nhất đối với sự phát triển kinh tế, tạo ra của cải, nâng cao chất lượng cuộc sống",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nền kinh tế áp dụng khoa học kỹ thuật vào sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nền kinh tế phát triển giáo dục đào tạo và xem đây là nền tảng, động lực cho công nghiệp hoá, hiện đại hoá",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nền kinh tế sử dụng tri thức trong sản xuất là phổ biến, đẩy mạnh đưa sinh viên đi du học ở các nước phát triển",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 112,
+        "question_text": "Xây dựng CNXH ở Việt Nam thực chất nhằm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thực hiện mục tiêu dân giàu, nước mạnh, xã hội công bằng dân chủ văn minh",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đưa nước ta thoát khỏi sự thống trị của các giai cấp trong xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đòi lại quyền tự do cho con người",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả để phục vụ: làm theo năng lực hưởng theo nhu cầu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 113,
+        "question_text": "“Công nghiệp không khói” là ngành gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "In sách báo",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dịch vụ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Điện tử",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh doanh khách sạn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 114,
+        "question_text": "Đại hội nào của Đảng nhận định: “Trong thế kỉ XXI khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bật trong quá trình phát triển lực lượng sản xuất”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội X",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 115,
+        "question_text": "Trong thời kỳ trước đổi mới, đặc trưng nào là quan trọng nhất của nền kinh tế xã hội chủ nghĩa?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sản xuất hàng hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ chế thị trường",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kế hoạch hóa",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Phân bổ nguồn lực",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 116,
+        "question_text": "Trong lịch sử phát triển nền sản xuất xã hội tiền đề nào là quan trọng cho sự ra đời và phát triển của nền kinh tế thị trường?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trao đổi hàng hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thị trường",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sản xuất và trao đổi hàng hóa",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 117,
+        "question_text": "Kinh tế thị trường có mầm mống từ trong xã hội nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chiếm hữu nô lệ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 118,
+        "question_text": "Kinh tế thị trường hình thành trong xã hội nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phong kiến",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chiếm hữu nô lệ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 119,
+        "question_text": "Đại hội nào đưa ra kết luận: “sản xuất hàng hóa không đối lập với chủ nghĩa xã hội nó tồn tại khách quan và cần thiết cho xây dựng chủ nghĩa xã hội”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VII",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội X",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 120,
+        "question_text": "Hội nghị nào của Ban Chấp hành Trung ương Đảng khóa V quyết định phải dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp, thực hiện hoạch toán kinh doanh XHCN?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị lần thứ 8 (6 - 1985)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị lần thứ 9 (12 - 1985)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị lần thứ 10 (5 - 1986)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Bộ Chính trị (4 - 1988)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 121,
+        "question_text": "Kinh tế thị trường phát triển mạnh ở chế độ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công xã nguyên thủy",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chiếm hữu nô lệ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 122,
+        "question_text": "Đại hội nào đề cập đến sự cần thiết đổi mới cơ chế quản lý kinh tế?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 123,
+        "question_text": "Chọn đáp án sai:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế thị trường chỉ đối lập với kinh tế tự nhiên, tự cấp tự túc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế thị trường đối lập với các chế độ xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế thị trường là thành tựu chung của nhân loại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế thị trường phát triển lên đến đỉnh cao trong xã hội CNTB",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 124,
+        "question_text": "Chọn đáp án sai:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế thị trường là kinh tế hàng hoá phát triển cao",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế thị trường lấy khoa học công nghệ hiện đại làm cơ sở",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế thị trường chỉ có thể phát triển mạnh ở xã hội phong kiến",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế thị trường đạt đến trình độ cao trong CNTB",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 125,
+        "question_text": "Thị trường có vai trò:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Điều tiết sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phân bổ lao động",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Là công cụ phân bổ các nguồn lực kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Phân bổ tư liệu sản xuất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 126,
+        "question_text": "Đại hội nào của Đảng xác định kinh tế thị trường định hướng XHCN là “một kiểu tổ chức kinh tế vừa tuân theo quy luật của kinh tế thị trường vừa dựa trên cơ sở và chịu sự dẫn dắt chi phối bởi các nguyên tắc và bản chất của CNXH”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội IX",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội X",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội XI",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội XII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 127,
+        "question_text": "Điền vào chỗ trống: “Kinh tế thị trường là một nền kinh tế mà khi các (…) được phân bố bằng nguyên tắc thị trường”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "điều kiện kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "môi trường kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nguồn lực kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "quan hệ kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 128,
+        "question_text": "Nền kinh tế ở Việt Nam thời kì trước đổi mới coi thị trường là công cụ:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thứ yếu",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hữu dụng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ bản",
+            "is_correct": false
+          }
+        ],
+        "note": "(Suy luận)"
+      },
+      {
+        "question_number": 129,
+        "question_text": "Nhà nước quy định chế độ phân phối vật phẩm tiêu dùng cho cán bộ, công nhân viên theo định mức qua tem phiếu ở chế độ bao cấp nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bao cấp qua giá",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bao cấp chế độ cấp tiền",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bao cấp qua chế độ tem phiếu",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Bao cấp qua chế độ phát vốn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 130,
+        "question_text": "Đại hội lần thứ V của Đảng coi mặt trận hàng đầu là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nghệ máy móc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giảm mù chữ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngoại giao các nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông nghiệp",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 131,
+        "question_text": "Chọn đáp án đúng:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có thể và cần thiết sử dụng kinh tế thị trường để xây dựng CNXH ở nước ta",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Có thể và không cần thiết sử dụng kinh tế thị trường để xây dựng CNXH ở nước ta",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Không thể và không cần thiết sử dụng kinh tế thị trường để xây dựng CNXH ở nước ta",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế thị trường là cái riêng có của CNTB",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 132,
+        "question_text": "Công cụ quản lý vĩ mô nền kinh tế thị trường định hướng XHCN là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kế hoạch và thị trường, hệ thống pháp luật, các công cụ tài chính - tiền tệ, công cụ điều tiết kinh tế đối ngoại",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Kế hoạch và thị trường, kinh tế tư nhân, quản lý tiền tệ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thuế, kinh tế tư nhân, kinh tế tập thể",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hệ thống các chính sách kinh tế và xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 133,
+        "question_text": "Vai trò Nhà nước trong nền kinh tế thị trường định hướng XHCN ở Việt Nam là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải quyết thất nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kìm chế lạm phát",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kiểm soát, hỗ trợ phát triển kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Gia tăng xuất khẩu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 134,
+        "question_text": "Hoàn thiện hệ thống luật pháp, cơ chế, chính sách cho hoạt động và phát triển lành mạnh của thị trường chứng khoán, tăng tính minh bạch chống các giao dịch phi pháp, các hành vi rửa tiền là thuộc về:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thống nhất nhận thức về nền kinh tế thị trường định hướng XHCN",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hoàn thiện thể chế về sở hữu và các thành phần kinh tế, loại hình doanh nghiệp và các tổ chức sản xuất kinh doanh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hoàn thiện thể chế đảm bảo đồng bộ các yếu tố thị trường và phát triển đồng bộ các loại thị trường",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hoàn thiện thể chế và vai trò lãnh đạo của Đảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 135,
+        "question_text": "Nền kinh tế nào sử dụng các quy luật giá trị, cạnh tranh và cung cầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế thị trường",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế tự nhiên",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế tự cung tự cấp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế bao cấp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 136,
+        "question_text": "Một trong những đặc điểm chủ yếu của bất kỳ xã hội nào lấy thị trường làm phương tiện có tính cơ sở để phân phối các nguồn lực kinh tế là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý vĩ mô của Nhà nước",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý vi mô của Nhà nước",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý văn hóa xã hội của Nhà nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý kinh tế, giáo dục của Nhà nước",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 137,
+        "question_text": "Một trong những đặc điểm chủ yếu của bất kỳ xã hội nào lấy thị trường làm phương tiện có tính cơ sở để phân phối các nguồn lực kinh tế là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các chủ thể kinh tế có tính độc lập, nghĩa là có quyền tự chủ trong sản xuất, kinh doanh, lỗ lãi tự chịu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Các chủ thể kinh tế không có tính độc lập, nghĩa là không có quyền tự chủ trong sản xuất, kinh doanh, lỗ lãi tự chịu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các chủ thể kinh tế có tính độc lập, nghĩa là có quyền quyết định lỗ lãi",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Các chủ thể kinh tế có tính độc lập, nghĩa là có quyền làm bất cứ những gì họ muốn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 138,
+        "question_text": "Đề cương văn hoá Việt Nam được Đảng ban hành vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 1942",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 1943",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm 1945",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 139,
+        "question_text": "Chọn đáp án sai:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đề cương văn hóa Việt Nam xác định văn hoá là một trong 3 mặt trận cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ba nguyên tắc của nền văn hoá mới trong Đề cương văn hóa Việt Nam là: Quốc tế hoá, xã hội hoá và kế hoạch hoá",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đề cương văn hóa Việt Nam xác định: Nền văn hoá mới có tính dân tộc về hình thức và dân chủ về nội dung.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đề cương văn hóa Việt Nam là cương lĩnh của Đảng về văn hoá",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 140,
+        "question_text": "Nhiệm vụ cấp bách thuộc về văn hoá mà Hồ Chí Minh đã trình bày trong phiên họp đầu tiên của Hội đồng Chính phủ là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Diệt giặc dốt",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nâng cao đời sống văn hoá",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giữ gìn bản sắc văn hoá dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chống nạn mù chữ và giáo dục lại ý thức nhân dân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 141,
+        "question_text": "Chủ tịch Hồ Chí Minh viết tác phẩm Đời sống mới vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 3 năm 1945",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 3 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1947",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 3 năm 1948",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 142,
+        "question_text": "Nạn đói năm 1945 ở Việt Nam làm bao nhiêu người chết đói:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hơn 2 triệu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hơn ba triệu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bốn triệu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm triệu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 143,
+        "question_text": "Đại hội VI của Đảng xác định yếu tố có vị trí then chốt trong sự nghiệp xây dựng CNXH là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học - kỹ thuật",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "An ninh",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bảo vệ chủ quyền dân tộc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 144,
+        "question_text": "Đại hội VII và Đại hội VIII của Đảng xác định lĩnh vực nào có vị trí then chốt trong sự nghiệp xây dựng CNXH?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giáo dục - Đào tạo - Quốc phòng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học - Công nghệ - Sinh học",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "An ninh - Chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giáo dục - Đào tạo; Khoa học - Công nghệ",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 145,
+        "question_text": "Tại Đại hội lần thứ mấy của Đảng, lần đầu tiên các vấn đề xã hội được nâng lên tầm chính sách xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội V",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VI",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 146,
+        "question_text": "Nhiệm vụ về văn hóa trong phiên họp Chính phủ đầu tiên của nước Việt Nam Dân chủ Cộng hòa là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển khoa học và công nghệ hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Coi giáo dục là mặt trận hàng đầu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tranh thủ sự giúp đỡ của các nước thuộc phe xã hội chủ nghĩa về văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xóa nạn mù chữ, giáo dục lại tinh thần nhân dân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 147,
+        "question_text": "Hội nghị nào của Ban Chấp hành Trung ương Đảng đã ban hành Nghị quyết về “xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị Trung ương 5 Khóa VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Trung ương 5 Khóa VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị Trung ương 5 Khóa VIII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Trung ương 5 Khóa IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 148,
+        "question_text": "Đại hội Đảng toàn quốc lần thứ IX xác định việc phổ cập các phương tiện phát, truyền hình đến mỗi gia đình sẽ hoàn thành cơ bản vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 2010",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 2015",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Năm 2020",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm 2025",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 149,
+        "question_text": "Bản đề cương văn hoá năm 1943 do ai dự thảo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trường Chinh",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 150,
+        "question_text": "Nghị quyết Hội nghị Ban Chấp hành Trung ương Đảng lần 2 (khoá VIII) tháng 12/1996 khẳng định những lĩnh vực nào được xem là quốc sách hàng đầu của đất nước?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khoa học - Kỹ thuật và Giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học - Công nghệ và An ninh - Quốc phòng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khoa học, Kinh tế và Quốc phòng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Khoa học - Công nghệ và Giáo dục - Đào tạo",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 151,
+        "question_text": "Đâu không là quan điểm của Đảng về việc giải quyết các vấn đề xã hội trong thời kỳ đổi mới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kết hợp các mục tiêu kinh tế với mục tiêu xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xây dựng và thể chế gắn kết kinh tế với tiến bộ, công bằng xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đề ra chính sách làm phân hóa giàu nghèo ngày càng cao giữa các tầng lớp dân cư",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Coi trọng chỉ tiêu GDP bình quân đầu người gắn với chỉ tiêu phát triển con người (HDI)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 152,
+        "question_text": "Thành tựu quan trọng nhất trong việc thực hiện các chính sách xã hội trong thời kỳ đổi mới ở Việt Nam là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyển đổi từ cơ chế quản lý tập trung, quan liêu bao cấp sang cơ chế thị trường tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chuyển đổi từ cơ chế quản lý tập trung, quan liêu bao cấp sang cơ chế thị trường định hướng XHCN",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hạn chế được sự gia tăng dân số",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thực hiện dạy nghề cho người sau cai nghiện ma túy",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 153,
+        "question_text": "Điểm cốt lõi của một nền văn hoá là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự cần cù, chăm chỉ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lòng yêu nước",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hệ giá trị của dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lòng nhân ái",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 154,
+        "question_text": "Để xóa nạn mù chữ, nâng cao trình độ văn hóa cho nhân dân lao động, ngày 8/9/1945 Chính phủ đã ký sắc lệnh thành lập cơ quan nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội truyền bá quốc ngữ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bộ Quốc gia giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nha Bình dân học vụ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nha Bổ túc văn hóa",
+            "is_correct": true
+          }
+        ],
+        "note": "(Lưu ý: Theo tài liệu, đáp án là D, nhưng thực tế là Nha Bình dân học vụ)"
+      },
+      {
+        "question_number": 155,
+        "question_text": "Hội nghị nào của Đảng nhấn mạnh phải giải quyết tốt các vấn đề xã hội nảy sinh trong quá trình thực thi cam kết với WTO?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị Trung ương 3 (khoá X)",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Trung ương 4 (khoá X)",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị Trung ương 5 (khoá X)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Trung ương 6 (khoá XI)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 156,
+        "question_text": "Đâu là nguyên nhân cơ bản của các hạn chế trong quá trình thực hiện đường lối đổi mới - phát triển xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Do chiến tranh kéo dài khiến đất nước khó phát triển",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Do trình độ nhận thức – thực hiện của người dân còn yếu kém",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Do các đường lối do Đảng đưa ra hoàn toàn không phù hợp nên khi thực hiện dẫn đến việc phản tác dụng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Do tăng trưởng kinh tế tách rời mục tiêu và chính sách xã hội",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 157,
+        "question_text": "Điểm nào không phải là hạn chế trong việc giải quyết các vấn đề xã hội của Đảng và Nhà nước Việt Nam trong thời kỳ đổi mới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Áp lực gia tăng dân số quá lớn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tệ nạn xã hội ngày càng phức tạp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hệ thống giáo dục - y tế tụt hậu và kém phát triển",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bảo đảm được sự ổn định của xã hội",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 158,
+        "question_text": "Theo chủ trương của Đảng, xây dựng và phát triển văn hóa - xã hội phải đi kèm với:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển và xây dựng kinh tế vững mạnh",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phát triển ngoại giao tốt đẹp với các nước đặc biệt là các nước XHCN",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát triển khoa học công nghệ hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phát triển và xây dựng chủ nghĩa xã hội trong thời kỳ quá độ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 159,
+        "question_text": "Điền vào chỗ trống: Chiến lược phát triển kinh tế - xã hội 1991 - 2000 xác định “mục tiêu của động lực chính của sự phát triển là (…)”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vì con người, do con người",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Vì cộng đồng, cho cộng đồng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Vì toàn dân, cho toàn dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Vì xã hội, cho xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 160,
+        "question_text": "Đại hội nào của Đảng đánh giá: “Nước ta đã ra khỏi khủng hoảng kinh tế - xã hội, nhưng một số mặt còn chưa vững chắc”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 161,
+        "question_text": "Giải thưởng cao quý nhất của Việt Nam hiện nay tặng cho các văn nghệ sĩ có những cống hiến xuất sắc trên lĩnh vực văn học - nghệ thuật và khoa học - công nghệ là giải thưởng nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải thưởng Bông sen vàng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giải thưởng Cánh diều vàng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giải thưởng Hồ Chí Minh",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Giải thưởng Sao vàng đất Việt",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 162,
+        "question_text": "Di sản văn hóa được UNESCO công nhận là kiệt tác truyền khẩu và phi vật thể ở Việt Nam năm 2003 là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không gian văn hoá cồng chiêng Tây Nguyên",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhã nhạc cung đình Huế",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Múa rối nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hát Bài Chòi",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

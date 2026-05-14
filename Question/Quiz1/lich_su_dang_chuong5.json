@@ -1,0 +1,607 @@
+{
+  "quiz": {
+    "title": "Chương 5: ĐƯỜNG LỐI XÂY DỰNG NỀN KINH TẾ THỊ TRƯỜNG ĐỊNH HƯỚNG XÃ HỘI CHỦ NGHĨA",
+    "total_questions": 23,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Trong thời kỳ trước đổi mới, đặc trưng nào là quan trọng nhất của nền kinh tế xã hội chủ nghĩa?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sản xuất hàng hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Cơ chế thị trường",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kế hoạch hóa",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Phân bổ nguồn lực",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Trong lịch sử phát triển nền sản xuất xã hội tiền đề nào là quan trọng cho sự ra đời và phát triển của nền kinh tế thị trường?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trao đổi hàng hóa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thị trường",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Sản xuất và trao đổi hàng hóa",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Kinh tế thị trường có mầm mống từ trong xã hội nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chiếm hữu nô lệ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Kinh tế thị trường hình thành trong xã hội nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phong kiến",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chiếm hữu nô lệ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Đại hội nào đưa ra kết luận: “sản xuất hàng hóa không đối lập với chủ nghĩa xã hội nó tồn tại khách quan và cần thiết cho xây dựng chủ nghĩa xã hội”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VII",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội X",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Hội nghị nào của Ban Chấp hành Trung ương Đảng khóa V quyết định phải dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp, thực hiện hoạch toán kinh doanh XHCN?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị lần thứ 8 (6 - 1985)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị lần thứ 9 (12 - 1985)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị lần thứ 10 (5 - 1986)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Bộ Chính trị (4 - 1988)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Kinh tế thị trường phát triển mạnh ở chế độ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công xã nguyên thủy",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chiếm hữu nô lệ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tư bản chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Xã hội chủ nghĩa",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Đại hội nào đề cập đến sự cần thiết đổi mới cơ chế quản lý kinh tế?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Chọn đáp án sai:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế thị trường chỉ đối lập với kinh tế tự nhiên, tự cấp tự túc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế thị trường đối lập với các chế độ xã hội",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế thị trường là thành tựu chung của nhân loại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế thị trường phát triển lên đến đỉnh cao trong xã hội CNTB",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Chọn đáp án sai:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế thị trường là kinh tế hàng hoá phát triển cao",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế thị trường lấy khoa học công nghệ hiện đại làm cơ sở",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế thị trường chỉ có thể phát triển mạnh ở xã hội phong kiến",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế thị trường đạt đến trình độ cao trong CNTB",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Thị trường có vai trò:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Điều tiết sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phân bổ lao động",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Là công cụ phân bổ các nguồn lực kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Phân bổ tư liệu sản xuất",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Đại hội nào của Đảng xác định kinh tế thị trường định hướng XHCN là “một kiểu tổ chức kinh tế vừa tuân theo quy luật của kinh tế thị trường vừa dựa trên cơ sở và chịu sự dẫn dắt chi phối bởi các nguyên tắc và bản chất của CNXH”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội IX",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội X",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội XI",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội XII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Điền vào chỗ trống: “Kinh tế thị trường là một nền kinh tế mà khi các (…) được phân bố bằng nguyên tắc thị trường”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "điều kiện kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "môi trường kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "nguồn lực kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "quan hệ kinh tế",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Nền kinh tế ở Việt Nam thời kì trước đổi mới coi thị trường là công cụ:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ yếu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thứ yếu",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hữu dụng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Cơ bản",
+            "is_correct": false
+          }
+        ],
+        "note": "(Suy luận)"
+      },
+      {
+        "question_number": 15,
+        "question_text": "Nhà nước quy định chế độ phân phối vật phẩm tiêu dùng cho cán bộ, công nhân viên theo định mức qua tem phiếu ở chế độ bao cấp nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bao cấp qua giá",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bao cấp chế độ cấp tiền",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bao cấp qua chế độ tem phiếu",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Bao cấp qua chế độ phát vốn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Đại hội lần thứ V của Đảng coi mặt trận hàng đầu là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nghệ máy móc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giảm mù chữ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngoại giao các nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông nghiệp",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Chọn đáp án đúng:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có thể và cần thiết sử dụng kinh tế thị trường để xây dựng CNXH ở nước ta",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Có thể và không cần thiết sử dụng kinh tế thị trường để xây dựng CNXH ở nước ta",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Không thể và không cần thiết sử dụng kinh tế thị trường để xây dựng CNXH ở nước ta",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế thị trường là cái riêng có của CNTB",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Công cụ quản lý vĩ mô nền kinh tế thị trường định hướng XHCN là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kế hoạch và thị trường, hệ thống pháp luật, các công cụ tài chính - tiền tệ, công cụ điều tiết kinh tế đối ngoại",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Kế hoạch và thị trường, kinh tế tư nhân, quản lý tiền tệ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Thuế, kinh tế tư nhân, kinh tế tập thể",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hệ thống các chính sách kinh tế và xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Vai trò Nhà nước trong nền kinh tế thị trường định hướng XHCN ở Việt Nam là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải quyết thất nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kìm chế lạm phát",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kiểm soát, hỗ trợ phát triển kinh tế",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Gia tăng xuất khẩu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Hoàn thiện hệ thống luật pháp, cơ chế, chính sách cho hoạt động và phát triển lành mạnh của thị trường chứng khoán, tăng tính minh bạch chống các giao dịch phi pháp, các hành vi rửa tiền là thuộc về:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thống nhất nhận thức về nền kinh tế thị trường định hướng XHCN",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hoàn thiện thể chế về sở hữu và các thành phần kinh tế, loại hình doanh nghiệp và các tổ chức sản xuất kinh doanh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hoàn thiện thể chế đảm bảo đồng bộ các yếu tố thị trường và phát triển đồng bộ các loại thị trường",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hoàn thiện thể chế và vai trò lãnh đạo của Đảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Nền kinh tế nào sử dụng các quy luật giá trị, cạnh tranh và cung cầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế thị trường",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế tự nhiên",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế tự cung tự cấp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế bao cấp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Một trong những đặc điểm chủ yếu của bất kỳ xã hội nào lấy thị trường làm phương tiện có tính cơ sở để phân phối các nguồn lực kinh tế là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý vĩ mô của Nhà nước",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý vi mô của Nhà nước",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý văn hóa xã hội của Nhà nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Có hệ thống pháp quy kiện toàn và sự quản lý kinh tế, giáo dục của Nhà nước",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Một trong những đặc điểm chủ yếu của bất kỳ xã hội nào lấy thị trường làm phương tiện có tính cơ sở để phân phối các nguồn lực kinh tế là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các chủ thể kinh tế có tính độc lập, nghĩa là có quyền tự chủ trong sản xuất, kinh doanh, lỗ lãi tự chịu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Các chủ thể kinh tế không có tính độc lập, nghĩa là không có quyền tự chủ trong sản xuất, kinh doanh, lỗ lãi tự chịu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Các chủ thể kinh tế có tính độc lập, nghĩa là có quyền quyết định lỗ lãi",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Các chủ thể kinh tế có tính độc lập, nghĩa là có quyền làm bất cứ những gì họ muốn",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

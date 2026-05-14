@@ -1,0 +1,944 @@
+{
+  "quiz": {
+    "title": "Chương 1: SỰ RA ĐỜI CỦA ĐẢNG CỘNG SẢN VIỆT NAM VÀ CƯƠNG LĨNH CHÍNH TRỊ ĐẦU TIÊN CỦA ĐẢNG",
+    "total_questions": 36,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Mâu thuẫn vừa cơ bản vừa chủ yếu trong xã hội Việt Nam dưới sự cai trị của thực dân Pháp là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhân dân, chủ yếu là nông dân với địa chủ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân với tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Toàn thể nhân dân Việt Nam với Thực dân Pháp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Công nhân, nông dân với địa chủ và thực dân Pháp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Chủ trương “dùng biện pháp bạo động để đánh đuổi thực dân Pháp khôi phục nền độc lập cho dân tộc”, đại diện của xu hướng bạo động này là ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phan Bội Châu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phan Chu Trinh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bùi Quang Chiêu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Chủ trương “vận động cải cách văn hóa, xã hội; động viên lòng yêu nước trong nhân dân; đả kích bọn vua quan phong kiến thối nát, đề xướng tư tưởng dân chủ tư sản; thực hiện khai dân trí, chấn dân khí, hậu dân sinh, mở mang dân quyền; phản đối đấu tranh vũ trang và cầu viện nước ngoài”, đại biểu xu hướng cải cách này là ai?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phan Bội Châu",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Phan Châu Trinh",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nguyễn Ái Quốc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trần Phú",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Vụ ám sát Ba Danh (Bazin - trùm mộ phu đồn điền cao su của Pháp) diễn ra vào tháng, năm nào? Do những người thuộc tổ chức nào thực hiện?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 2 năm 1919, một số đảng viên của Tân Việt Cách mạng Đảng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 2 năm 1929, một số đảng viên của Việt Nam quốc dân Đảng",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1929, một số đảng viên của Đảng Thanh niên Cao vọng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 3 năm 1919, một số đảng viên của Đảng Thanh niên",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Quốc tế cộng sản (Quốc tế III) được thành lập vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 7 năm 1971",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 3 năm 1918",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1919",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 8 năm 1920",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Tính chất của xã hội Việt Nam dưới sự thống trị của thực dân Pháp là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xã hội thuộc địa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xã hội nửa phong kiến",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Xã hội có giai cấp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thuộc địa, nửa phong kiến",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Ai là người Nguyễn Ái Quốc đánh giá: “Ông là tiêu biểu cho chủ nghĩa quốc gia”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phan Bội Châu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phan Châu Trinh",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Vua Hàm Nghi",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Thái Học",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Tân Việt cách mạng Đảng được thành lập vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 3 năm 1926",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 5 năm 1927",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 7 năm 1928",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 12 năm 1929",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Những giai cấp bị trị ở Việt Nam dưới chế độ cai trị của thực dân Pháp gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nhân và nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Công nhân, nông dân, tiểu tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, địa chủ vừa và nhỏ",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Đông Dương Cộng sản Liên đoàn gửi đơn xin gia nhập Đảng Cộng sản Việt Nam vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 22 tháng 2 năm 1930",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 24 tháng 2 năm 1931",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 24 tháng 2 năm 1930",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ngày 20 tháng 2 năm 1931",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Đại biểu các tổ chức cộng sản nào đã tham dự Hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản liên đoàn",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "An Nam Cộng sản Đảng và Đông Dương Cộng sản liên đoàn",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đông Dương Cộng sản Đảng và Đông Dương Cộng sản liên đoàn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Hội Việt Nam cách mạng thanh niên thực hiện chủ trương “vô sản hóa” vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 1926",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 1927",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Năm 1928",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Năm 1929",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Trong tác phẩm Đường Kách Mệnh, Nguyễn Ái Quốc đã đề cập giai cấp nào là chủ, là gốc của cách mệnh?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp công nhân, nông dân",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp công nhân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Nội dung nào không phải là nhiệm vụ về kinh tế được xác định trong Cương lĩnh chính trị đầu tiên của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thủ tiêu hết các thứ quốc trái, tịch thu toàn bộ sản nghiệp lớn của tư bản đế quốc chủ nghĩa Pháp để giao cho Chính Phủ công nông binh quản lý",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lập chính phủ công nông binh, tổ chức quân đội công nông",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Bỏ sưu thuế cho dân cày nghèo, thi hành luật ngày làm 8 giờ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Mở mang công nghiệp và nông nghiệp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Phong trào Cần Vương diễn ra vào thời gian nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1885 - 1896",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "1884 - 1913",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "1884 - 1896",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "1885 - 1913",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Cơ quan tuyên truyền của Hội Việt Nam cách mạng thanh niên là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tuần báo Thanh niên",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Báo Búa liềm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Báo Dân chúng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tuần báo Việt Nam độc lập",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Nguyễn Ái Quốc tham gia Đảng Xã hội Pháp vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1918",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "1919",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "1920",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "1921",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Trong đợt khai thác thuộc địa lần thứ nhất của thực dân Pháp ở Việt Nam có các giai cấp mới nào được hình thành?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giai cấp tư sản và nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giai cấp tư sản và công nhân",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Giai cấp công nhân và nông dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giai cấp tiểu tư sản và nông dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp và phong kiến tay sai, yêu cầu bức thiết nhất của giai cấp nông dân Việt Nam là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Độc lập dân tộc",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Quyền bình đẳng nam nữ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ruộng đất",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Được giảm tô, giảm tức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Từ cuối thế kỉ XIX, chủ nghĩa tư bản đã chuyển từ tự do cạnh tranh sang giai đoạn nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chủ nghĩa thực dân",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chủ nghĩa tư bản độc quyền",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chủ nghĩa phát xít",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chủ nghĩa đế quốc",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Tuyên ngôn của Đảng Cộng sản ra đời vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 1838",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 1848",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Năm 1858",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm 1868",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Đối với các dân tộc thuộc địa, Cách mạng Tháng Mười Nga đã nêu lên tấm gương sáng về vấn đề gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải phóng dân tộc bị áp bức",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chống tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Chống phát xít",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giải phóng nông dân",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp địa chủ chiếm bao nhiêu % cư dân nông thôn?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5%",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "6%",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "7%",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "8%",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp địa chủ nắm bao nhiêu % ruộng đất?",
+        "options": [
+          {
+            "id": "a",
+            "text": "50%",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "60%",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "70%",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "80%",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp nông dân chiếm bao nhiêu % dân số?",
+        "options": [
+          {
+            "id": "a",
+            "text": "60%",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "70%",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "80%",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "90%",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "Dưới chế độ cai trị của thực dân Pháp, giai cấp nông dân Việt Nam phải chịu bao nhiêu tầng áp bức, bóc lột?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "2",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "3",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "4",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Bộ phận nào của tầng lớp tiểu tư sản Việt Nam chịu ảnh hưởng của tư tưởng tiến bộ, có tinh thần cách mạng cao, thức thời và nhạy cảm với thời cuộc?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Học sinh, trí thức",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Thợ thủ công, viên chức",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Những người làm nghề tự do",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Học sinh, viên chức",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 28,
+        "question_text": "Khởi nghĩa Yên Thế diễn ra ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hà Giang",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bắc Giang",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hậu Giang",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tiền Giang",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 29,
+        "question_text": "Nguyễn Ái Quốc đọc bản “Sơ thảo lần thứ nhất Những luận cương về vấn đề dân tộc và vấn đề thuộc địa” của Lênin đăng trên báo Nhân đạo vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 5 năm 1919",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 7 năm 1920",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tháng 9 năm 1921",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 11 năm 1922",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 30,
+        "question_text": "Tác phẩm Đường Kách Mệnh do cơ quan nào của Hội Liên hiệp các dân tộc bị áp bức ở Á Đông xuất bản vào năm 1927?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bộ Văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bộ Giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bộ Tuyên truyền",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Bộ Thông tin và truyền thông",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 31,
+        "question_text": "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng thanh niên vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 6 năm 1925",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Tháng 5 năm 1926",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 5 năm 1927",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tháng 6 năm 1928",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 32,
+        "question_text": "Để truyền bá tư tưởng Mác - Lênin vào Việt Nam, Nguyễn Ái Quốc đã tổ chức xuất bản những tờ báo nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuông rè, Người nhà quê, Búa liềm, Dân chúng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thanh niên, công nông, lính cách mệnh, Tiền phong",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Nhân đạo",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tuổi trẻ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 33,
+        "question_text": "Cuộc bãi công của công nhân Ba Son do Tôn Đức Thắng tổ chức diễn ra vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1923",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "1924",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "1925",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "1926",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 34,
+        "question_text": "An Nam Cộng sản Đảng thành lập vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1919",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "1929",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "1939",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "1949",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 35,
+        "question_text": "Cương lĩnh chính trị đầu tiên của Đảng xác định giai cấp nào là lực lượng lãnh đạo cách mạng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Vô sản",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Tiểu tư sản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Địa chủ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 36,
+        "question_text": "Điền vào chỗ trống: “Chủ trương làm (…) và thổ địa cách mạng để đi tới xã hội cộng sản”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "xã hội chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "tư sản dân quyền",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "dân tộc dân chủ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "cách mạng dân tộc",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

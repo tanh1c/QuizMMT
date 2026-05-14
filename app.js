@@ -57,6 +57,18 @@ async function init() {
                 { id: 'Chuong7', name: 'Chương 7', file: 'Question/Chuong7.json' },
                 { id: 'OnTap', name: 'Ôn tập tổng hợp', file: 'Question/OnTap.json' }
             ]
+        },
+        lsd: {
+            containerId: 'chapter-list-lsd',
+            chapters: [
+                { id: 'lsd_chuong1', name: 'Chương 1', file: 'Question/Quiz1/lich_su_dang_chuong1.json' },
+                { id: 'lsd_chuong2', name: 'Chương 2', file: 'Question/Quiz1/lich_su_dang_chuong2.json' },
+                { id: 'lsd_chuong3', name: 'Chương 3', file: 'Question/Quiz1/lich_su_dang_chuong3.json' },
+                { id: 'lsd_chuong4', name: 'Chương 4', file: 'Question/Quiz1/lich_su_dang_chuong4.json' },
+                { id: 'lsd_chuong5', name: 'Chương 5', file: 'Question/Quiz1/lich_su_dang_chuong5.json' },
+                { id: 'lsd_chuong7', name: 'Chương 7', file: 'Question/Quiz1/lich_su_dang_chuong7.json' },
+                { id: 'lsd_quiz2', name: 'Quiz 2', file: 'Question/Quiz2/quiz2.json' }
+            ]
         }
     };
 
@@ -115,7 +127,11 @@ async function init() {
 }
 
 function renderMixSelectionItem(chap, count, category) {
-    const listId = category === 'mmt' ? 'mix-mmt-list' : 'mix-cnxh-list';
+    const listId = category === 'mmt'
+        ? 'mix-mmt-list'
+        : category === 'cnxh'
+            ? 'mix-cnxh-list'
+            : 'mix-lsd-list';
     const container = document.getElementById(listId);
     if (!container) return;
 

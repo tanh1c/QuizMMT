@@ -1,0 +1,659 @@
+{
+  "quiz": {
+    "title": "Chương 7: ĐƯỜNG LỐI XÂY DỰNG VÀ PHÁT TRIỂN NỀN VĂN HÓA; GIẢI QUYẾT CÁC VẤN VỀ XÃ HỘI",
+    "total_questions": 25,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Đề cương văn hoá Việt Nam được Đảng ban hành vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 1942",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 1943",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Năm 1944",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm 1945",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Chọn đáp án sai:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đề cương văn hóa Việt Nam xác định văn hoá là một trong 3 mặt trận cách mạng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ba nguyên tắc của nền văn hoá mới trong Đề cương văn hóa Việt Nam là: Quốc tế hoá, xã hội hoá và kế hoạch hoá",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đề cương văn hóa Việt Nam xác định: Nền văn hoá mới có tính dân tộc về hình thức và dân chủ về nội dung.",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đề cương văn hóa Việt Nam là cương lĩnh của Đảng về văn hoá",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Nhiệm vụ cấp bách thuộc về văn hoá mà Hồ Chí Minh đã trình bày trong phiên họp đầu tiên của Hội đồng Chính phủ là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Diệt giặc dốt",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nâng cao đời sống văn hoá",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giữ gìn bản sắc văn hoá dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Chống nạn mù chữ và giáo dục lại ý thức nhân dân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Chủ tịch Hồ Chí Minh viết tác phẩm Đời sống mới vào tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tháng 3 năm 1945",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tháng 3 năm 1946",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tháng 3 năm 1947",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Tháng 3 năm 1948",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Nạn đói năm 1945 ở Việt Nam làm bao nhiêu người chết đói:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hơn 2 triệu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hơn ba triệu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Bốn triệu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm triệu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Đại hội VI của Đảng xác định yếu tố có vị trí then chốt trong sự nghiệp xây dựng CNXH là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học - kỹ thuật",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "An ninh",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bảo vệ chủ quyền dân tộc",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Đại hội VII và Đại hội VIII của Đảng xác định lĩnh vực nào có vị trí then chốt trong sự nghiệp xây dựng CNXH?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giáo dục - Đào tạo - Quốc phòng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học - Công nghệ - Sinh học",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "An ninh - Chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Giáo dục - Đào tạo; Khoa học - Công nghệ",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Tại Đại hội lần thứ mấy của Đảng, lần đầu tiên các vấn đề xã hội được nâng lên tầm chính sách xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội V",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VI",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Nhiệm vụ về văn hóa trong phiên họp Chính phủ đầu tiên của nước Việt Nam Dân chủ Cộng hòa là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển khoa học và công nghệ hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Coi giáo dục là mặt trận hàng đầu",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Tranh thủ sự giúp đỡ của các nước thuộc phe xã hội chủ nghĩa về văn hóa",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xóa nạn mù chữ, giáo dục lại tinh thần nhân dân",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Hội nghị nào của Ban Chấp hành Trung ương Đảng đã ban hành Nghị quyết về “xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị Trung ương 5 Khóa VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Trung ương 5 Khóa VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị Trung ương 5 Khóa VIII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Trung ương 5 Khóa IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Đại hội Đảng toàn quốc lần thứ IX xác định việc phổ cập các phương tiện phát, truyền hình đến mỗi gia đình sẽ hoàn thành cơ bản vào năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Năm 2010",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Năm 2015",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Năm 2020",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Năm 2025",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Bản đề cương văn hoá năm 1943 do ai dự thảo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hồ Chí Minh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Trường Chinh",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Lê Hồng Phong",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nguyễn Văn Cừ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Nghị quyết Hội nghị Ban Chấp hành Trung ương Đảng lần 2 (khoá VIII) tháng 12/1996 khẳng định những lĩnh vực nào được xem là quốc sách hàng đầu của đất nước?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khoa học - Kỹ thuật và Giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Khoa học - Công nghệ và An ninh - Quốc phòng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khoa học, Kinh tế và Quốc phòng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Khoa học - Công nghệ và Giáo dục - Đào tạo",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Đâu không là quan điểm của Đảng về việc giải quyết các vấn đề xã hội trong thời kỳ đổi mới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kết hợp các mục tiêu kinh tế với mục tiêu xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xây dựng và thể chế gắn kết kinh tế với tiến bộ, công bằng xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đề ra chính sách làm phân hóa giàu nghèo ngày càng cao giữa các tầng lớp dân cư",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Coi trọng chỉ tiêu GDP bình quân đầu người gắn với chỉ tiêu phát triển con người (HDI)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Thành tựu quan trọng nhất trong việc thực hiện các chính sách xã hội trong thời kỳ đổi mới ở Việt Nam là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyển đổi từ cơ chế quản lý tập trung, quan liêu bao cấp sang cơ chế thị trường tự do.",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Chuyển đổi từ cơ chế quản lý tập trung, quan liêu bao cấp sang cơ chế thị trường định hướng XHCN",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hạn chế được sự gia tăng dân số",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thực hiện dạy nghề cho người sau cai nghiện ma túy",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Điểm cốt lõi của một nền văn hoá là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sự cần cù, chăm chỉ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Lòng yêu nước",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hệ giá trị của dân tộc",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lòng nhân ái",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Để xóa nạn mù chữ, nâng cao trình độ văn hóa cho nhân dân lao động, ngày 8/9/1945 Chính phủ đã ký sắc lệnh thành lập cơ quan nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội truyền bá quốc ngữ",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Bộ Quốc gia giáo dục",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nha Bình dân học vụ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nha Bổ túc văn hóa",
+            "is_correct": true
+          }
+        ],
+        "note": "(Lưu ý: Theo tài liệu, đáp án là D, nhưng thực tế là Nha Bình dân học vụ)"
+      },
+      {
+        "question_number": 18,
+        "question_text": "Hội nghị nào của Đảng nhấn mạnh phải giải quyết tốt các vấn đề xã hội nảy sinh trong quá trình thực thi cam kết với WTO?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị Trung ương 3 (khoá X)",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị Trung ương 4 (khoá X)",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị Trung ương 5 (khoá X)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị Trung ương 6 (khoá XI)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Đâu là nguyên nhân cơ bản của các hạn chế trong quá trình thực hiện đường lối đổi mới - phát triển xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Do chiến tranh kéo dài khiến đất nước khó phát triển",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Do trình độ nhận thức – thực hiện của người dân còn yếu kém",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Do các đường lối do Đảng đưa ra hoàn toàn không phù hợp nên khi thực hiện dẫn đến việc phản tác dụng",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Do tăng trưởng kinh tế tách rời mục tiêu và chính sách xã hội",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Điểm nào không phải là hạn chế trong việc giải quyết các vấn đề xã hội của Đảng và Nhà nước Việt Nam trong thời kỳ đổi mới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Áp lực gia tăng dân số quá lớn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Tệ nạn xã hội ngày càng phức tạp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hệ thống giáo dục - y tế tụt hậu và kém phát triển",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Bảo đảm được sự ổn định của xã hội",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Theo chủ trương của Đảng, xây dựng và phát triển văn hóa - xã hội phải đi kèm với:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển và xây dựng kinh tế vững mạnh",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Phát triển ngoại giao tốt đẹp với các nước đặc biệt là các nước XHCN",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Phát triển khoa học công nghệ hiện đại",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Phát triển và xây dựng chủ nghĩa xã hội trong thời kỳ quá độ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "Điền vào chỗ trống: Chiến lược phát triển kinh tế - xã hội 1991 - 2000 xác định “mục tiêu của động lực chính của sự phát triển là (…)”.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vì con người, do con người",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Vì cộng đồng, cho cộng đồng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Vì toàn dân, cho toàn dân",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Vì xã hội, cho xã hội",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Đại hội nào của Đảng đánh giá: “Nước ta đã ra khỏi khủng hoảng kinh tế - xã hội, nhưng một số mặt còn chưa vững chắc”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Giải thưởng cao quý nhất của Việt Nam hiện nay tặng cho các văn nghệ sĩ có những cống hiến xuất sắc trên lĩnh vực văn học - nghệ thuật và khoa học - công nghệ là giải thưởng nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giải thưởng Bông sen vàng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Giải thưởng Cánh diều vàng",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giải thưởng Hồ Chí Minh",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Giải thưởng Sao vàng đất Việt",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Di sản văn hóa được UNESCO công nhận là kiệt tác truyền khẩu và phi vật thể ở Việt Nam năm 2003 là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không gian văn hoá cồng chiêng Tây Nguyên",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nhã nhạc cung đình Huế",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Múa rối nước",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hát Bài Chòi",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }
+}

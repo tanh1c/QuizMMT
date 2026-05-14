@@ -1,0 +1,710 @@
+{
+  "quiz": {
+    "title": "Chương 4: ĐƯỜNG LỐI CÔNG NGHIỆP HOÁ",
+    "total_questions": 27,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Đường lối công nghiệp hoá đất nước đã được hình thành từ Đại hội nào của Đảng ta?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội III (9/1960)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đại hội IV (12/1976)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội V (3/1982)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VI (12/1986)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 2,
+        "question_text": "Từ năm 1975 đến năm 1985, công nghiệp hóa ở Việt Nam được tiến hành trên phạm vi:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Miền Bắc",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Miền Nam",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Miền Trung",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Trên phạm vi cả nước",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 3,
+        "question_text": "Đại hội đại biểu toàn quốc lần thứ V của Đảng (3/1982) xác định trong chặng đường đầu tiên của thời kỳ quá độ ở Việt Nam phải lấy ngành nào làm mặt trận hàng đầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nghiệp nặng",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Nông nghiệp",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Ngư nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Thương nghiệp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 4,
+        "question_text": "Các chương trình mục tiêu của công nghiệp hoá xã hội chủ nghĩa trong những năm còn lại của chặng đường đầu tiên của thời kỳ quá độ được Đại hội VI của Đảng xác định gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lương thực - thực phẩm",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Hàng tiêu dùng; lương thực thực phẩm, hàng Việt Nam chất lượng cao",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hàng xuất khẩu",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Lương thực, thực phẩm; hàng tiêu dùng và hàng xuất khẩu",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 5,
+        "question_text": "Đại Hội X của Đảng chỉ rõ mục tiêu đẩy mạnh công nghiệp hoá, hiện đại hoá cần:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gắn với phát triển kinh tế tri thức; coi kinh tế tri thức là yếu tố quan trọng của nền kinh tế và của CNH, HĐH",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Gắn với nền kinh tế thị trường định hướng tư bản chủ nghĩa",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Gắn với nền kinh tế khép kín",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Gắn với nền kinh tế thị trường, thực hiện chiến lược hàng xuất khẩu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 6,
+        "question_text": "Các yếu tố để tăng trưởng kinh tế gồm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vốn, khoa học và công nghệ, con người, cơ cấu kinh tế, thể chế chính trị và quản lý Nhà nước",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Vốn, tài nguyên thiên nhiên, khoa học và công nghệ, con người, cơ cấu kinh tế",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Con người, cơ cấu kinh tế, thể chế chính trị, tài nguyên thiên nhiên, giá trị đồng tiền",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Vốn, khoa học và công nghệ, con người, giá trị đồng tiền, thể chế chính trị",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 7,
+        "question_text": "Yếu tố quyết định đến tăng trưởng kinh tế là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vốn",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Thể chế chính trị",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khoa học và công nghệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Con người",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 8,
+        "question_text": "Khi tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước Việt Nam cần thực hiện những yêu cầu nào:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Phát triển kinh tế trí thức được dời lại trong giai đoạn sau",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 9,
+        "question_text": "Để tiến hành công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm yêu cầu:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xây dựng nền kinh tế khép kín và hướng nội",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Xây dựng nền kinh tế độc lập tự chủ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Xây dựng nền kinh tế phải dựa vào sự giúp đỡ và lệ thuộc vào các nước tư bản",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xây dựng nền kinh tế mở nhưng chỉ giao lưu hợp tác với các nước XHCN",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 10,
+        "question_text": "Luận điểm: “Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bật trong quá trình phát triển lực lượng sản xuất” được nêu lên tại Đại hội lần thứ mấy của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội X",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội XI",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 11,
+        "question_text": "Trong quá trình công nghiệp hoá, hiện đại hoá, nền kinh tế nào được coi là yếu tố quan trọng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Kinh tế nông nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Kinh tế công nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Kinh tế tri thức",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Kinh tế công - nông nghiệp kết hợp",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 12,
+        "question_text": "Việt Nam gia nhập tổ chức ASEAN vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 28 tháng 7 năm 1993",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 28 tháng 7 năm 1994",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Ngày 28 tháng 7 năm 1995",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Ngày 28 tháng 7 năm 1996",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 13,
+        "question_text": "Việt Nam gia nhập tổ chức thương mại kinh tế thế giới (WTO) vào ngày, tháng, năm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngày 11 tháng 1 năm 2006",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Ngày 11 tháng 1 năm 2007",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Ngày 11 tháng 1 năm 2008",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ngày 11 tháng 1 năm 2009",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 14,
+        "question_text": "Đại hội nào của Đảng đã chỉ ra những sai lầm trong nhận thức và chủ trương về công nghiệp hóa từ năm 1960 đến năm 1985?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội III",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội IV",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội V",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội VI",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 15,
+        "question_text": "Chọn đáp án đúng:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chỉ đạo và tổ chức thực hiện yếu kém là một trong những nguyên nhân dẫn đến những hạn chế trong việc thực hiện đường lối CNH, HĐH thời kỳ trước đổi mới",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Chỉ coi trọng số lượng tăng trưởng kinh tế trong việc phát triển kinh tế ở từng vùng, địa phương, dự án kinh tế - xã hội là nội dung của CNH, HĐH",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Giảm tối thiểu các chương trình xóa đói giảm nghèo",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ba chương trình mục tiêu: lương thực thực phẩm, hàng tiêu dùng, hàng xuất khẩu được đề ra tại Đại hội VII của Đảng",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 16,
+        "question_text": "Đại hội lần thứ III của Đảng xác định con đường nào là con đường duy nhất để cải biến tình trạng kinh tế lạc hậu ở Việt Nam trong suốt thời kỳ quá độ lên chủ nghĩa xã hội?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Công nghiệp hóa xã hội chủ nghĩa",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Xóa tình trạng mù chữ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Diệt giặc đói",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Xóa bỏ rào cản kinh tế với phương Tây",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 17,
+        "question_text": "Đại hội lần thứ V của Đảng (3/1982) chỉ ra việc xây dựng và phát triển công nghiệp nặng cần làm có mức độ, vừa sức, nhằm phục vụ thiết thực, có hiệu quả cho ngành nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nông nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Công nghiệp nhẹ",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nông nghiệp, công nghiệp nhẹ, thương nghiệp",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nông nghiệp và công nghiệp nhẹ",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question_number": 18,
+        "question_text": "Cương lĩnh xây dựng đất nước trong thời kì quá độ lên CNXH được thông qua tại Đại hội nào của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 19,
+        "question_text": "Đại hội nào của Đảng xác định: “Giáo dục và đào tạo là quốc sách hàng đầu”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VI",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội VIII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội IX",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 20,
+        "question_text": "Chỉ thị 100 CT/TW (13/1/1981) đưa ra chủ trương nào:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phát huy quyền sản xuất kinh doanh của các xí nghiệp quốc doanh",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Mở rộng hình thức trả lương khoán, lương sản phẩm",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Cải tiến phương pháp phân phối lưu thông",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 21,
+        "question_text": "Hội nghị lần thứ mấy Ban Chấp hành Trung ương Đảng (khóa V) quyết định phải dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp, thực hiện hạch toán kinh doanh XHCN?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hội nghị lần thứ 8 (6/1985)",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Hội nghị lần thứ 9 (12/1985)",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Hội nghị lần thứ 10 (5/1986)",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Hội nghị lần thứ 11 (12/1983)",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 22,
+        "question_text": "“Trí tuệ, đổi mới dân chủ, kỷ cương và đoàn kết” là chủ đề Đại hội nào của Đảng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội lần thứ V",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội lần thứ VI",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội lần thứ VII",
+            "is_correct": true
+          },
+          {
+            "id": "d",
+            "text": "Đại hội lần thứ VIII",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 23,
+        "question_text": "Hướng công nghiệp hoá, hiện đại hoá ở Việt Nam được Đại hội IX và Đại hội X của Đảng tiếp tục bổ sung và nhấn mạnh là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Phải phát triển nhanh và có hiệu quả các sản phẩm, các ngành, các lĩnh vực đáp ứng nhu cầu trong nước và xuất khẩu",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Rút ngắn thời gian so với đi trước và tận dụng kinh nghiệm, kỹ thuật, công nghệ của các nước đi trước",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Ưu tiên phát triển công nghiệp nặng một cách hợp lý, trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 24,
+        "question_text": "Kinh tế tri thức là:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nền kinh tế trong đó có sự sản sinh ra, phổ cập và sử dụng tri thức giữ vai trò quyết định nhất đối với sự phát triển kinh tế, tạo ra của cải, nâng cao chất lượng cuộc sống",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Nền kinh tế áp dụng khoa học kỹ thuật vào sản xuất",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Nền kinh tế phát triển giáo dục đào tạo và xem đây là nền tảng, động lực cho công nghiệp hoá, hiện đại hoá",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Nền kinh tế sử dụng tri thức trong sản xuất là phổ biến, đẩy mạnh đưa sinh viên đi du học ở các nước phát triển",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 25,
+        "question_text": "Xây dựng CNXH ở Việt Nam thực chất nhằm:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thực hiện mục tiêu dân giàu, nước mạnh, xã hội công bằng dân chủ văn minh",
+            "is_correct": true
+          },
+          {
+            "id": "b",
+            "text": "Đưa nước ta thoát khỏi sự thống trị của các giai cấp trong xã hội",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đòi lại quyền tự do cho con người",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Tất cả để phục vụ: làm theo năng lực hưởng theo nhu cầu",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 26,
+        "question_text": "“Công nghiệp không khói” là ngành gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "In sách báo",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Dịch vụ",
+            "is_correct": true
+          },
+          {
+            "id": "c",
+            "text": "Điện tử",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Kinh doanh khách sạn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question_number": 27,
+        "question_text": "Đại hội nào của Đảng nhận định: “Trong thế kỉ XXI khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bật trong quá trình phát triển lực lượng sản xuất”?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đại hội VII",
+            "is_correct": false
+          },
+          {
+            "id": "b",
+            "text": "Đại hội VIII",
+            "is_correct": false
+          },
+          {
+            "id": "c",
+            "text": "Đại hội IX",
+            "is_correct": false
+          },
+          {
+            "id": "d",
+            "text": "Đại hội X",
+            "is_correct": true
+          }
+        ]
+      }
+    ]
+  }
+}
