@@ -68,7 +68,7 @@ async function init() {
                 { id: 'lsd_chuong5', name: 'Chương 5', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong5.json' },
                 { id: 'lsd_chuong7', name: 'Chương 7', file: 'Question/LichSuDang/Quiz1/lich_su_dang_chuong7.json' },
                 { id: 'lsd_quiz2', name: 'Quiz 2', file: 'Question/LichSuDang/Quiz2/quiz2.json' },
-                { id: 'lsd_quiz_final_1589', name: 'Quiz Final 1589', file: 'Question/LichSuDang/Quiz_Final/quiz231.json' },
+                { id: 'lsd_quiz_final_231', name: 'Quiz Final 231', file: 'Question/LichSuDang/Quiz_Final/quiz231.json' },
                 { id: 'lsd_quiz_final_211', name: 'Quiz Final 211', file: 'Question/LichSuDang/Quiz_Final/211.json' }
             ]
         }
