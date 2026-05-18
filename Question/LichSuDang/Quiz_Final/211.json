@@ -36,7 +36,7 @@
           {
             "id": "a",
             "text": "Giai cấp nông dân với giai cấp địa chủ phong kiến",
-            "is_correct": true
+            "is_correct": false
           },
           {
             "id": "b",
@@ -51,7 +51,7 @@
           {
             "id": "d",
             "text": "Dân tộc Việt Nam với đế quốc xâm lược và tay sai",
-            "is_correct": false
+            "is_correct": true
           }
         ]
       },
@@ -816,7 +816,7 @@
           {
             "id": "a",
             "text": "Coi tiểu tư sản là bạn đồng minh chiến lược của cách mạng",
-            "is_correct": true
+            "is_correct": false
           },
           {
             "id": "b",
@@ -826,7 +826,7 @@
           {
             "id": "c",
             "text": "Đánh giá không đúng khả năng cách mạng của tiểu tư sản",
-            "is_correct": false
+            "is_correct": true
           },
           {
             "id": "d",
