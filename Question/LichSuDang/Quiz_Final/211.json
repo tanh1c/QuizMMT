@@ -140,12 +140,12 @@
           {
             "id": "a",
             "text": "Tiến hành cách mạng ruộng đất, hoàn thành giải phóng dân tộc tiến lên chủ nghĩa xã hội",
-            "is_correct": true
+            "is_correct": false
           },
           {
             "id": "b",
             "text": "Hoàn thành giải phóng dân tộc, phát triển dân chủ nhân dân, tiến tới chủ nghĩa xã hội",
-            "is_correct": false
+            "is_correct": true
           },
           {
             "id": "c",
