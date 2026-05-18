@@ -67,12 +67,12 @@
           {
             "id": "b",
             "text": "Tránh sự lệ thuộc vào tình hình nước Pháp",
-            "is_correct": true
+            "is_correct": false
           },
           {
             "id": "c",
             "text": "Cần phát huy cao độ mọi nỗ lực chủ quan",
-            "is_correct": false
+            "is_correct": true
           },
           {
             "id": "d",
