@@ -10,12 +10,12 @@
                     {
                         "id": "a",
                         "text": "Nông dân, công nhân và tiểu tư sản.",
-                        "is_correct": true
+                        "is_correct": false
                     },
                     {
                         "id": "b",
                         "text": "Công nhân, tư sản và tiểu tư sản.",
-                        "is_correct": false
+                        "is_correct": true
                     },
                     {
                         "id": "c",
