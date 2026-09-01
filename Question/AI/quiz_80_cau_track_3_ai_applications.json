@@ -1,0 +1,2088 @@
+{
+    "quiz": {
+        "title": "Đề giữa kỳ Track 3 — AI Applications",
+        "total_questions": 80,
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Phát biểu nào mô tả đúng nhất mối quan hệ giữa AI, Machine Learning và Deep Learning?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Deep Learning là một lĩnh vực tách biệt hoàn toàn với Machine Learning.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Machine Learning là một nhánh của AI, còn Deep Learning là một nhánh của Machine Learning.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "AI chỉ gồm các hệ thống dựa trên luật, không bao gồm mô hình học từ dữ liệu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Machine Learning chỉ áp dụng cho dữ liệu dạng bảng, còn Deep Learning chỉ áp dụng cho văn bản.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 2,
+                "question_text": "Trong một LLM, vai trò chính của token là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Là đơn vị lưu toàn bộ lịch sử hội thoại dài hạn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Là tham số điều chỉnh tốc độ học khi huấn luyện.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Là công cụ để mô hình gọi API bên ngoài.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Là đơn vị văn bản mô hình xử lý ở đầu vào và đầu ra.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 3,
+                "question_text": "Cơ chế attention trong Transformer giúp mô hình chủ yếu làm gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Gán trọng số liên quan cho các phần tử trong ngữ cảnh.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chỉ giữ lại các từ đứng gần nhau nhất trong câu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Thay thế hoàn toàn bước tokenization của mô hình.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Lưu toàn bộ tri thức mô hình trong cơ sở dữ liệu vector.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 4,
+                "question_text": "Trong mô hình Double Diamond, hoạt động mở rộng khám phá vấn đề trước khi thu hẹp thành một vấn đề rõ ràng thuộc pha nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Deliver",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Develop",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Discover",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Define",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 5,
+                "question_text": "Một nguyên tắc cốt lõi của Human-Centered Design là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tối đa hóa số lượng tính năng trước khi phỏng vấn người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Bắt đầu từ nhu cầu, bối cảnh và điểm đau của người dùng.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chọn công nghệ mới nhất trước rồi mới tìm bài toán phù hợp.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Loại bỏ phản hồi của người dùng để tránh thiên lệch.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 6,
+                "question_text": "Điểm khác biệt quan trọng nhất giữa workflow cố định và agent là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Agent có thể chọn bước tiếp theo dựa trên trạng thái và kết quả hiện tại.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Workflow cố định luôn sử dụng LLM, còn agent không sử dụng LLM.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Workflow cố định không thể gọi bất kỳ công cụ nào bên ngoài.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Agent chỉ phù hợp với các tác vụ một bước, không có trạng thái.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 7,
+                "question_text": "Khi nào nên cân nhắc nâng từ một prompt đơn sang agentic workflow phức tạp hơn?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Khi muốn hệ thống có kiến trúc mới và hiện đại hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Khi cần tăng số lượng mô hình trong kiến trúc.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Khi tác vụ vẫn giải tốt bằng một lượt prompt rõ ràng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Khi cách đơn giản không đủ chính xác, kiểm soát hoặc quy trình.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 8,
+                "question_text": "Chu trình ReAct kết hợp hai năng lực nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Retrieval và fine-tuning.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tokenization và embedding.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Reasoning và Action.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Quantization và serving.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 9,
+                "question_text": "Trong function calling, tool schema có vai trò quan trọng nhất là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Huấn luyện lại mô hình để hiểu một domain mới.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Khai báo tên tool, tham số và kiểu dữ liệu cần nhận.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Lưu kết quả gọi tool thành vector embedding mới.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Tự động cấp toàn quyền truy cập cho tool.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 10,
+                "question_text": "Vai trò phù hợp nhất của system prompt trong một ứng dụng LLM là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Lưu mọi phản hồi của người dùng vào memory dài hạn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Thay thế kiểm tra đầu vào của toàn hệ thống.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tăng context window mà không đổi model đang dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Đặt vai trò, nguyên tắc, giới hạn và ưu tiên hành vi.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 11,
+                "question_text": "Trong khung RTCF, thành phần Context dùng để làm gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Cung cấp thông tin nền và điều kiện cho nhiệm vụ.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chỉ định định dạng đầu ra của câu trả lời.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Mô tả vai trò mô hình phải giữ trong hội thoại.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chia nhiệm vụ lớn thành các tool call nhỏ hơn.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 12,
+                "question_text": "Cách nào phù hợp nhất để giảm nguy cơ prompt injection từ tài liệu được truy xuất trong RAG?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Gộp tài liệu và system prompt thành một đoạn chung.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cho tài liệu truy xuất ghi đè quy tắc hệ thống.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tách chỉ dẫn hệ thống, đầu vào người dùng và nội dung truy xuất.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Tăng nhiệt độ để mô hình ít theo văn bản độc hại.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 13,
+                "question_text": "Khi hệ thống không đủ thông tin để trả lời chắc chắn một yêu cầu quan trọng, hành vi phù hợp nhất là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Suy đoán đáp án hợp lý để tránh gián đoạn trải nghiệm.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Nêu mức độ không chắc chắn, xin thêm thông tin hoặc chuyển cấp.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Luôn từ chối yêu cầu thiếu một chi tiết nhỏ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Gọi nhiều model rồi chọn câu trả lời dài nhất.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 14,
+                "question_text": "Trong bài toán phát hiện email spam, khi chi phí bỏ sót một email spam rất cao, chỉ số nào thường cần được ưu tiên?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Recall của lớp spam.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Precision của lớp spam.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Accuracy tổng thể của tất cả email.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Số lượng đặc trưng đầu vào của mô hình.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 15,
+                "question_text": "Mục tiêu phù hợp nhất của Minimum Viable Experiment là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Xây đầy đủ sản phẩm để chuẩn bị mở rộng thị trường.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tối ưu kiến trúc production trước khi kiểm tra nhu cầu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Thay thế hoàn toàn nghiên cứu người dùng bằng một demo.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Kiểm tra giả định rủi ro nhất bằng nỗ lực nhỏ nhất có thể.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 16,
+                "question_text": "Wizard of Oz prototype phù hợp nhất khi nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Khi cần triển khai hạ tầng production có khả năng mở rộng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Khi mô hình đã tự động hóa hoàn toàn các bước xử lý.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Khi cần thử trải nghiệm trước khi xây AI thật phía sau.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Khi cần benchmark chi phí inference của nhiều model.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 17,
+                "question_text": "Trong phát triển sản phẩm AI theo Agile, cách làm nào phù hợp nhất?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Lặp ngắn, đo kết quả và điều chỉnh theo phản hồi.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Hoàn thiện model rồi mới nhận phản hồi người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chỉ theo dõi số dòng mã thay vì chất lượng đầu ra.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Cố định prompt và dữ liệu từ đầu để tránh thay đổi.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 18,
+                "question_text": "Embedding được dùng chủ yếu để làm gì trong hệ thống tìm kiếm ngữ nghĩa?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Mã hóa dữ liệu thành ảnh để mô hình dễ đọc hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Biểu diễn nội dung bằng vector để ý nghĩa tương tự nằm gần nhau.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Nén toàn bộ tài liệu vào một token duy nhất.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuyển dữ liệu vector thành cơ sở dữ liệu quan hệ.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 19,
+                "question_text": "Khi chunking tài liệu cho RAG, trade-off quan trọng nhất là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Chunk dài luôn tăng độ chính xác và giảm chi phí.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chunk ngắn luôn giữ được nhiều ngữ cảnh hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Cân bằng tính cụ thể khi truy xuất với ngữ cảnh cần để trả lời.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chia chunk theo số trang, không xét cấu trúc nội dung.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 20,
+                "question_text": "Mục tiêu chính của Approximate Nearest Neighbor search trong vector database là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tìm vector gần nhất tuyệt đối trong toàn bộ dữ liệu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chuyển tài liệu văn bản thành dữ liệu có cấu trúc.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Loại bỏ nhu cầu dùng embedding model cho retrieval.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Tìm nhanh vector gần nhất, chấp nhận một mức sai số xấp xỉ.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 21,
+                "question_text": "Metadata filtering trong RAG hữu ích nhất khi nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Khi cần tạo embedding mới cho mọi chunk ở mỗi truy vấn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Khi cần lọc kết quả theo phòng ban, thời gian hoặc quyền truy cập.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Khi muốn thay thế semantic search bằng keyword search.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Khi cần tăng số token tối đa của mô hình sinh.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 22,
+                "question_text": "Điểm mạnh chính của dense retrieval so với keyword retrieval là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tìm nội dung gần nghĩa dù không trùng từ khóa chính xác.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Không cần xây index hoặc lưu vector cho tài liệu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Luôn tốt hơn với từ viết tắt và mã sản phẩm hiếm.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chỉ dùng được khi tài liệu có cấu trúc JSON.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 23,
+                "question_text": "Reciprocal Rank Fusion thường được dùng để làm gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Huấn luyện embedding model từ phản hồi người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chia tài liệu thành các đoạn bằng độ dài nhau.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Đánh giá chất lượng câu trả lời cuối của LLM.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Gộp thứ hạng từ nhiều retriever thành một danh sách chung.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 24,
+                "question_text": "Reranker thường được đặt ở vị trí nào trong một pipeline RAG?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Trước khi tạo embedding cho các tài liệu nguồn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Thay cho bước indexing dữ liệu nguồn ban đầu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Sau retrieval, để sắp xếp lại tập ứng viên theo liên quan.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Sau khi câu trả lời đã gửi đến người dùng.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 25,
+                "question_text": "Một câu trả lời được xem là grounded trong hệ thống RAG khi nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Các tuyên bố được ngữ cảnh truy xuất hỗ trợ.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Câu trả lời dùng thuật ngữ kỹ thuật hơn câu hỏi.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Câu trả lời dài hơn phần lớn kết quả tìm kiếm.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Mô hình không dùng bất kỳ dữ liệu ngoài nào.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 26,
+                "question_text": "Chỉ số nào phù hợp nhất để đánh giá liệu câu trả lời RAG có được ngữ cảnh hỗ trợ hay không?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Token throughput.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cache hit rate.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Context window utilization.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Faithfulness.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 27,
+                "question_text": "Khác biệt cơ bản giữa ETL và ELT là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "ETL chỉ xử lý dữ liệu phi cấu trúc, còn ELT chỉ xử lý bảng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "ETL biến đổi trước khi nạp; ELT nạp rồi biến đổi ở hệ đích.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "ETL luôn thời gian thực, còn ELT luôn chạy theo lô.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "ETL không cần quality check, còn ELT luôn cần.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 28,
+                "question_text": "Dấu hiệu nào cho thấy cần theo dõi data observability trong một pipeline AI?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Số lượng file nguồn tăng nhưng schema vẫn ổn định.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Dashboard có quá nhiều biểu đồ về chi phí hạ tầng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Phân phối, độ đầy đủ hoặc tính hợp lệ dữ liệu lệch bất thường.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Mô hình được cập nhật giao diện người dùng mới.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 29,
+                "question_text": "Mục đích chính của quality gate trong data pipeline là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Chặn dữ liệu không đạt điều kiện đi tiếp xuống downstream.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Thay thế hoàn toàn việc lưu log và giám sát pipeline.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tăng số nguồn dữ liệu được nạp trong mỗi lần chạy.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuyển mọi lỗi dữ liệu thành giá trị mặc định.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 30,
+                "question_text": "Biện pháp nào là ví dụ tốt nhất về defense-in-depth đối với prompt injection?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Chỉ thêm một cảnh báo chống chỉ dẫn độc hại vào prompt.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Kết hợp kiểm tra đầu vào, tách ngữ cảnh, giới hạn tool và kiểm tra đầu ra.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tăng temperature để giảm xác suất làm theo chỉ dẫn lạ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Bỏ mọi tài liệu truy xuất khỏi prompt trong mọi trường hợp.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 31,
+                "question_text": "Vì sao không nên chỉ dựa vào system prompt để bảo vệ một agent có tool?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "System prompt không thể mô tả vai trò của agent.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "System prompt làm context window ngắn hơn đáng kể.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "System prompt chỉ dùng được cho mô hình open-source.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Một lớp bảo vệ có thể bị vượt qua hoặc bỏ sót lỗi ở tool và dữ liệu.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 32,
+                "question_text": "Mục tiêu phù hợp nhất của red teaming cho ứng dụng AI là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Làm model trả lời dài hơn cho các câu hỏi phổ biến.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tăng số prompt mẫu trong tài liệu sản phẩm nội bộ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chủ động tìm failure mode và điểm yếu trước khi triển khai rộng.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Thay mọi kiểm thử tự động bằng đánh giá thủ công.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 33,
+                "question_text": "Hành động nào nên có Human-in-the-Loop rõ ràng nhất?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tóm tắt một bài viết công khai cho người dùng nội bộ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Xóa dữ liệu khách hàng hoặc thực hiện tác vụ khó đảo ngược.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Gợi ý một số tiêu đề cho bản nháp bài viết mới.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Phân loại câu hỏi FAQ theo chủ đề của yêu cầu.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 34,
+                "question_text": "Khi đánh giá một agent, chỉ đánh giá câu trả lời cuối cùng là chưa đủ vì sao?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Agent luôn phải sử dụng ít nhất ba công cụ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Mọi agent đều cần chạy song song để đạt hiệu năng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Câu trả lời cuối cùng không bao giờ có thể đúng hoàn toàn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Agent có thể đúng kết quả nhưng sai tool, chi phí hoặc quy trình xử lý.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 35,
+                "question_text": "Trong một luồng agent có tool call thất bại tạm thời, chiến lược phù hợp nhất là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Retry có giới hạn, rồi fallback hoặc chuyển người xử lý.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Lặp lại tool call vô hạn đến khi thành công.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Bỏ qua lỗi và báo thành công cho người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Xóa toàn bộ state ngay khi có lỗi đầu tiên.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 36,
+                "question_text": "Lợi ích chính của citation hoặc source attribution trong ứng dụng RAG là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Làm câu trả lời dài và có vẻ chuyên nghiệp hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tăng ngẫu nhiên độ đa dạng của kết quả retrieval.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Giúp người dùng kiểm tra nguồn hỗ trợ cho câu trả lời.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Thay thế hoàn toàn việc đánh giá faithfulness của model.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 37,
+                "question_text": "Vì sao chunk overlap thường được dùng khi chia tài liệu cho RAG?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Để giảm số vector phải lưu trong index truy xuất.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Để tránh tạo embedding riêng cho từng chunk.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Để mỗi chunk có cùng độ dài chính xác tuyệt đối.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Để giảm mất ngữ cảnh ở ranh giới giữa hai chunk.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 38,
+                "question_text": "Khi một workflow yêu cầu LLM trả JSON để gọi hệ thống downstream, biện pháp nào đáng tin cậy nhất?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Dùng structured output hoặc schema validation trước khi xử lý dữ liệu.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chỉ yêu cầu mô hình “hãy trả JSON hợp lệ” trong prompt người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chuyển JSON thành văn bản tự do trước khi gửi xuống hệ thống.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chấp nhận mọi đầu ra có dấu ngoặc nhọn ở đầu và cuối.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 39,
+                "question_text": "Một chatbot cần trả lời từ chính sách nội bộ thường xuyên thay đổi. Cách tiếp cận phù hợp nhất là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Fine-tune model sau mỗi lần chính sách thay đổi.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Dùng few-shot prompt với một ví dụ chính sách cũ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Dùng RAG trên nguồn chính sách cập nhật, có kiểm soát truy cập.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Lưu toàn bộ chính sách trong system prompt cố định.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 40,
+                "question_text": "Chỉ số nào phản ánh trực tiếp nhất việc hệ thống AI có tạo giá trị cho quy trình nghiệp vụ hay không?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Số token trung bình trong mỗi câu trả lời.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tỷ lệ hoàn thành tác vụ hoặc thời gian xử lý giảm.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Số lượng mô hình được gọi trong một yêu cầu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Độ dài trung bình của system prompt đang dùng.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 41,
+                "question_text": "Trong Reflexion, thành phần reflection memory chủ yếu dùng để làm gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Lưu trọng số model sau mỗi lần suy luận mới.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Thay tool calling bằng chuỗi prompt cố định.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Lưu bài học từ lỗi để cải thiện lần thực hiện sau.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Loại bỏ nhu cầu đánh giá kết quả của agent.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 42,
+                "question_text": "Ý tưởng cốt lõi của LATS trong agent reasoning là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tìm kiếm dạng cây, kết hợp đánh giá để chọn hướng suy luận tốt hơn.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tạo một câu trả lời duy nhất rồi gửi cho người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Nén lịch sử hội thoại thành một embedding duy nhất.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Thay mọi bước suy luận bằng một database query.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 43,
+                "question_text": "Ví dụ nào phù hợp nhất với episodic memory của một agent?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "“Khách hàng thuộc nhóm doanh nghiệp nhỏ.”",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "“Hoàn tiền cần xác minh giao dịch trước.”",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "“Người dùng thích trả lời ngắn bằng tiếng Việt.”",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "“Phiên trước, người dùng từ chối hoàn tiền một phần.”",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 44,
+                "question_text": "Lý do chính để đặt retention policy cho memory là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tăng ngẫu nhiên lượng context gửi vào model.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Kiểm soát dữ liệu giữ lại theo giá trị, thời hạn và quyền riêng tư.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Lưu vĩnh viễn mọi thông tin để tránh mất ngữ cảnh.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Thay thế cơ chế phân quyền truy cập dữ liệu.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 45,
+                "question_text": "Hierarchical chunking trong production RAG hữu ích nhất vì lý do nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Loại bỏ hoàn toàn nhu cầu dùng metadata trong retrieval.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Bảo đảm mọi chunk có cùng số token đầu vào.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Kết hợp định vị chi tiết với ngữ cảnh cấp cao khi cần.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuyển mọi dữ liệu văn bản thành knowledge graph.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 46,
+                "question_text": "Contextual retrieval cải thiện retrieval bằng cách nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Thêm mô tả ngữ cảnh cho chunk trước embedding và indexing.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Xóa tiêu đề tài liệu để giảm nhiễu khi tìm kiếm.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chỉ giữ một chunk đại diện cho mỗi tài liệu nguồn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Thay semantic search bằng tìm kiếm chính xác theo từ khóa.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 47,
+                "question_text": "Trong Corrective RAG, bước corrective có mục đích chính là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tăng context window của model trước khi sinh đáp án.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Đánh giá retrieval rồi điều chỉnh khi tài liệu không đáng tin.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Loại các câu hỏi có nhiều hơn một thực thể chính.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuyển retriever dense thành retriever sparse.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 48,
+                "question_text": "ColBERT khác với dense retrieval một-vector-per-document chủ yếu ở điểm nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "ColBERT chỉ hoạt động với dữ liệu dạng bảng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "ColBERT không cần embedding riêng cho query.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "ColBERT chỉ dùng keyword matching nên không hiểu ngữ nghĩa.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "ColBERT so khớp token chi tiết hơn thay vì một vector chung.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 49,
+                "question_text": "Một knowledge graph thường biểu diễn thông tin dưới dạng nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Danh sách các prompt và completion tương ứng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cặp embedding và metadata của từng chunk.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Bộ ba thực thể – quan hệ – thực thể.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuỗi token được sắp theo thời gian tạo.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 50,
+                "question_text": "Trong GraphRAG, coreference resolution cần thiết để làm gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tạo thêm cạnh ngẫu nhiên giữa mọi thực thể.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Nhận biết các cách gọi khác nhau đang chỉ cùng một thực thể.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Loại bỏ tất cả thực thể xuất hiện nhiều lần trong tài liệu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuyển graph thành cơ sở dữ liệu vector thuần túy.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 51,
+                "question_text": "Khi nào multi-agent system thường được cân nhắc hợp lý nhất?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Khi cần chuyên môn hóa, chạy song song hoặc cross-check mà một agent chưa đáp ứng.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Khi một agent đã đạt chất lượng, độ trễ và chi phí chấp nhận được.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Khi mục tiêu duy nhất là tăng số tool hệ thống có thể gọi.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Khi tác vụ là FAQ đơn giản, một lượt và không cần kiểm chứng.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 52,
+                "question_text": "Trong kiến trúc supervisor–worker, guard nào giúp giảm nguy cơ vòng lặp routing vô hạn?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tăng temperature của supervisor sau mỗi lần route.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cho mọi worker quyền tự gọi lại supervisor không giới hạn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Xóa shared state sau mỗi lần worker trả kết quả.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Đặt giới hạn số iteration hoặc điều kiện dừng rõ ràng.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 53,
+                "question_text": "Lợi ích chính của debate agents là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Luôn giảm chi phí so với một single agent tương đương.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tạo phản biện và tổng hợp để giảm lỗi suy luận hoặc hallucination.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Loại bỏ khả năng nhiều agent cùng đồng ý sai về kết quả.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Không cần judge để tổng hợp các kết quả từ agent.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 54,
+                "question_text": "Rủi ro quan trọng nhất khi các agent chạy song song và cùng ghi vào shared state là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Không thể dùng framework orchestration cho workflow.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Mô hình sẽ không thể thực hiện tool call.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Xung đột merge hoặc mất ngữ cảnh nếu phối hợp không rõ.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chi phí inference luôn thấp hơn so với chạy tuần tự.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 55,
+                "question_text": "Trong LoRA, thành phần nào của model base thường được giữ cố định?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Trọng số gốc; chỉ adapter hạng thấp được học.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Toàn bộ dữ liệu train và mọi output của model.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chỉ tokenizer; các layer transformer đều train lại.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chỉ output head; các layer khác bị xóa khỏi model.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 56,
+                "question_text": "QLoRA giúp giảm nhu cầu bộ nhớ chủ yếu bằng cách nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Huấn luyện toàn bộ model bằng số nguyên 1-bit.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Bỏ hoàn toàn gradient trong quá trình fine-tuning.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Nén dữ liệu train thành một embedding duy nhất.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Lượng tử hóa base model và chỉ huấn luyện adapter LoRA.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 57,
+                "question_text": "Khác biệt quan trọng của DPO so với RLHF truyền thống là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "DPO không dùng dữ liệu preference trong huấn luyện.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "DPO tối ưu trực tiếp preference pairs, không cần reward model.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "DPO chỉ áp dụng cho bài toán có đáp án số chính xác.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "DPO luôn cần nhiều rollout hơn PPO để hoạt động.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 58,
+                "question_text": "ORPO phù hợp nhất với tình huống nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Kết hợp SFT và preference learning trong một giai đoạn align model.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chỉ có dữ liệu đánh giá bằng unit test cho bài toán code.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Cần một reward model riêng để chấm mọi phản hồi.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Muốn thay trọng số base model bằng vector embedding.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 59,
+                "question_text": "RLVR phù hợp nhất với loại nhiệm vụ nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Đánh giá mức độ lịch sự của email mở.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chọn phong cách viết hấp dẫn nhất từ phản hồi người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Bài toán kiểm chứng được bằng code, unit test hoặc quy tắc.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Tạo preference pair từ hai câu trả lời chủ quan.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 60,
+                "question_text": "Dấu hiệu nào có thể cho thấy DPO gặp length hacking?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Câu trả lời ngắn hơn nhưng chính xác hơn trước.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chosen reward tăng, rejected reward giảm ổn định.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Context dùng ít token hơn so với trước khi train.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Câu trả lời dài hơn nhiều nhưng chất lượng không tăng tương ứng.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 61,
+                "question_text": "Khi nào LangGraph phù hợp hơn một LCEL chain tuyến tính?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Workflow cần loop, routing, persistence hoặc Human-in-the-Loop.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tác vụ chỉ có một prompt và không cần trạng thái.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Pipeline chỉ retrieve rồi sinh một câu trả lời cố định.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Ứng dụng không gọi tool, chỉ cần system prompt ngắn.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 62,
+                "question_text": "Với state field `messages` hoặc `tool_results` có thể được nhiều node cập nhật, reducer phù hợp thường là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Overwrite để chỉ giữ giá trị node chạy cuối cùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Delete để giảm kích thước state sau mỗi bước.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Append hoặc merge để giữ dữ liệu từ các node trước.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Random selection để cân bằng đóng góp các node.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 63,
+                "question_text": "Checkpointing trong LangGraph hỗ trợ trực tiếp nhất cho khả năng nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tăng số tool server mà agent có thể kết nối.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Loại bỏ nhu cầu lưu state trong toàn workflow.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Thay đổi tokenizer model ngay trong lúc chạy.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Resume, replay và debug từ trạng thái đã lưu.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 64,
+                "question_text": "Human-in-the-Loop trong agentic workflow đặc biệt cần thiết trước loại hành động nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Sinh tiêu đề gợi ý cho bài viết nháp.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Hành động rủi ro cao hoặc khó đảo ngược, như xóa dữ liệu hay deploy.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tìm kiếm tài liệu công khai trong knowledge base.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Gắn nhãn chủ đề cho một ticket hỗ trợ thông thường.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 65,
+                "question_text": "Trong RAGAS, Faithfulness đo điều gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Mức độ tuyên bố trong câu trả lời được context hỗ trợ.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Mức độ câu trả lời có cùng số từ với câu hỏi.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tỷ lệ cache hit của hệ thống retrieval đang chạy.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Số chunk được đưa vào context window của model.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 66,
+                "question_text": "Context Recall trong RAGAS khác với các metric reference-free chủ yếu vì nó cần gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Câu hỏi gốc và output của LLM là đủ để tính.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Danh sách metadata của tài liệu truy xuất là đủ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Điểm cosine giữa query và answer là đủ để tính.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Ground-truth để kiểm tra context có bao phủ thông tin cần thiết.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 67,
+                "question_text": "Biện pháp nào giảm position bias trong đánh giá pairwise bằng LLM-as-Judge?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Luôn đặt hệ thống mới ở vị trí A để dễ so sánh.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chỉ dùng một lần đánh giá cho mỗi cặp câu trả lời.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Đảo thứ tự A/B rồi lấy trung bình kết quả.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Loại bỏ rubric để judge tự do đánh giá hơn.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 68,
+                "question_text": "Semantic entropy dùng để phát hiện hallucination bằng trực giác nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Câu trả lời dài hơn luôn ít hallucination hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Các câu trả lời mâu thuẫn nghĩa cho thấy độ bất định cao.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Embedding có norm lớn luôn biểu thị câu trả lời đúng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Câu trả lời khác chuỗi ký tự đều là hallucination.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 69,
+                "question_text": "Trong defense-in-depth cho ứng dụng AI, lớp output guardrail có vai trò chính nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Chuyển câu hỏi người dùng thành embedding trước retrieval.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tạo checkpoint cho agent trước khi gọi tool bên ngoài.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Thay thế hoàn toàn input validation và quyền tool.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Kiểm tra nội dung sinh ra trước khi trả về người dùng.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 70,
+                "question_text": "Biện pháp phù hợp nhất để chống session poisoning là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Xóa hoặc thay nội dung nguy hiểm trước các lượt sau.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Chỉ chặn output ở lượt phát hiện prompt injection.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Tăng context window để model hiểu lịch sử rõ hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Đưa mọi nội dung người dùng vào system prompt.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 71,
+                "question_text": "Trạng thái HALF-OPEN của circuit breaker thường dùng để làm gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Chặn vĩnh viễn mọi request đến provider bị lỗi.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cho phép toàn bộ lưu lượng quay lại provider ngay lập tức.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Thử một số request kiểm tra để xác định dịch vụ đã phục hồi chưa.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Xóa lịch sử lỗi để circuit breaker trở về trạng thái ban đầu.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 72,
+                "question_text": "Rủi ro chính của semantic response cache là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Không thể giảm độ trễ của các truy vấn lặp lại.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Query gần nhau nhưng khác ý định có thể nhận nhầm cache.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Không thể đặt TTL hoặc invalidation cho cache.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Cache luôn tăng chi phí gọi LLM so với không dùng cache.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 73,
+                "question_text": "SLO là gì trong reliability engineering?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Mục tiêu nội bộ đo được cho availability hoặc P95 latency.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Cam kết pháp lý giữa nhà cung cấp và khách hàng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chỉ số dùng để đo chi phí token theo từng tháng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Công cụ tự động retry khi provider trả lỗi tạm thời.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 74,
+                "question_text": "Trong kiến trúc MCP, Resources khác Tools chủ yếu ở điểm nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Resources dùng để thực hiện hành động thay đổi dữ liệu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Resources cần LLM tự quyết định gọi như function.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Resources cung cấp dữ liệu hoặc context đọc được qua URI.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Resources thay thế hoàn toàn Prompts và Sampling.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 75,
+                "question_text": "Primitive nào của MCP cho phép server cung cấp template tương tác có thể tái sử dụng?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tools",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Roots",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Sampling",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Prompts",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 76,
+                "question_text": "Với MCP server remote dùng HTTP trong production, biện pháp bảo mật nào đặc biệt quan trọng?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tắt hoàn toàn logging để tránh tăng latency.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Dùng OAuth 2.0, TLS và kiểm tra input phía server.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chỉ cho tool descriptions dài hơn 500 từ.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Chuyển mọi request remote sang stdio phía người dùng.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 77,
+                "question_text": "Vai trò chính của MCP Inspector trong quy trình phát triển MCP server là gì?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Kiểm tra schema, thử tool call và lỗi trước khi tích hợp.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "Tự động fine-tune model để chọn tool chính xác hơn.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Thay hoàn toàn kiểm thử end-to-end trong client.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Cấp quyền production cho mọi tool đã đăng ký.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 78,
+                "question_text": "Theo confidence routing trong HITL, một hành động có confidence 0.76 thường nên được xử lý như thế nào nếu không có policy override?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Tự động thực hiện ngay mà không cần ghi log.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Luôn từ chối vì confidence chưa đạt 1.0.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Xóa action khỏi state và bắt đầu workflow từ đầu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Đề xuất hành động rồi chờ người dùng xác nhận.",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_number": 79,
+                "question_text": "Audit trail tốt cho agent production cần lưu loại thông tin nào?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Câu trả lời cuối cùng cùng thời điểm gửi người dùng.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Hành động, thời điểm, confidence, rủi ro và phê duyệt.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "Chỉ số token của mọi model có trên thị trường.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "Trọng số mô hình sau mỗi tool call đã hoàn tất.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_number": 80,
+                "question_text": "Chính sách nào nên được ưu tiên hơn confidence score của agent?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Policy luôn ưu tiên model rẻ hơn model chính.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "Policy buộc gọi hai tools cho mỗi yêu cầu.",
+                        "is_correct": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "Policy yêu cầu duyệt trước hành động nhạy cảm hoặc khó đảo ngược.",
+                        "is_correct": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "Policy giữ mọi hội thoại trong memory vĩnh viễn.",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    }
+}

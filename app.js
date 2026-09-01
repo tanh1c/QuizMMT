@@ -73,6 +73,12 @@ async function init() {
                 { id: 'lsd_quiz_final_60', name: 'Quiz Final 60 câu', file: 'Question/LichSuDang/Quiz_Final/de_lich_su_dang_60_cau.json' },
                 { id: 'lsd_quiz_final_60_bo_2', name: 'Quiz Final bộ 2 - 60 câu', file: 'Question/LichSuDang/Quiz_Final/de_lich_su_dang_bo_2_60_cau.json' }
             ]
+        },
+        ai: {
+            containerId: 'chapter-list-ai',
+            chapters: [
+                { id: 'ai_track3', name: 'Đề giữa kỳ Track 3 — AI Applications (80 câu)', file: 'Question/AI/quiz_80_cau_track_3_ai_applications.json' }
+            ]
         }
     };
 
@@ -131,11 +137,7 @@ async function init() {
 }
 
 function renderMixSelectionItem(chap, count, category) {
-    const listId = category === 'mmt'
-        ? 'mix-mmt-list'
-        : category === 'cnxh'
-            ? 'mix-cnxh-list'
-            : 'mix-lsd-list';
+    const listId = `mix-${category}-list`;
     const container = document.getElementById(listId);
     if (!container) return;
 
